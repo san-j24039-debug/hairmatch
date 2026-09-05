@@ -1,0 +1,16 @@
+{
+  "checkedAt": "2026-09-05",
+  "usage": "ローカル検証用。画像の権利は各権利者に帰属。",
+  "images": {
+    "mellow.jpg": "https://pluseau.jp/images/product/pluseau_mellow-shampoo.jpg",
+    "repair.jpg": "https://pluseau.jp/images/product/pluseau_lypoair-treatment.jpg",
+    "honey-shampoo.png": "https://www.and-honey.com/pro/img/top/img-shampoo.png",
+    "honey-treatment.png": "https://www.and-honey.com/pro/img/top/img-treatment_2.png",
+    "cota7-shampoo.jpg": "https://media.cota.co.jp/media/b22f7b53-6242-427b-8e47-ca5526edba23.jpg",
+    "cota9-shampoo.jpg": "https://media.cota.co.jp/media/7005ad44-ab37-49d2-8055-593389a2157c.jpg",
+    "cota7-treatment.jpg": "https://media.cota.co.jp/media/d15d7d82-0ee0-4710-9b1b-090427839968.jpg",
+    "cota9-treatment.jpg": "https://media.cota.co.jp/media/adc3642e-d323-4e8a-887a-aa6b24126b5c.jpg",
+    "kerastase-shampoo.png": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/discipline/packshots/product-discipline-shampooing-v2-kerastase.png?ch=351&cw=351&cx=0&cy=0&hash=DBF8F4C3844CA26C5299E2F79F15ED35&rev=4e65895c6d6c424db8d265cb6890fed0",
+    "kerastase-treatment.png": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/discipline/packshots/product-discipline-masque-force-v2-kerastase.png?rev=02d573350ba94ce7a7bfb8434bb68021&cx=0&cy=0&cw=351&ch=351&hash=4FEB5397421D6F513F449E3C44483A53"
+  }
+}

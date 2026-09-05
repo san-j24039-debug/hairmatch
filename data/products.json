@@ -1,0 +1,596 @@
+[
+  {
+    "id": "plus-mellow",
+    "brand": "plus eau",
+    "series": "メロウ",
+    "name": "プリュスオー メロウ",
+    "category": "drugstore",
+    "color": "#d3dadb",
+    "image": "assets/images/products/mellow.jpg",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "価格・容量と掲載成分は公式情報を確認しています。相性・使用感の点数は開発用の仮評価です。",
+    "shampoo": {
+      "name": "プリュスオー メロウ シャンプー",
+      "price": 1650,
+      "volume": "450mL",
+      "ingredients": [
+        {
+          "name": "ラウロイルメチルアラニンNa",
+          "category": "主要洗浄成分",
+          "purpose": null,
+          "sourceUrl": "https://pluseau.jp/items/mellow-shampoo.html"
+        },
+        {
+          "name": "加水分解ケラチン（カシミヤヤギ）",
+          "category": "ケラチン",
+          "purpose": null,
+          "sourceUrl": "https://pluseau.jp/items/mellow-shampoo.html"
+        },
+        {
+          "name": "加水分解シルク",
+          "category": "シルク",
+          "purpose": null,
+          "sourceUrl": "https://pluseau.jp/items/mellow-shampoo.html"
+        },
+        {
+          "name": "セラミドNP",
+          "category": "セラミド",
+          "purpose": null,
+          "sourceUrl": "https://pluseau.jp/items/mellow-shampoo.html"
+        },
+        {
+          "name": "アルガニアスピノサ核油",
+          "category": "オイル",
+          "purpose": null,
+          "sourceUrl": "https://pluseau.jp/items/mellow-shampoo.html"
+        }
+      ],
+      "verifiedAt": "2026-09-05",
+      "sourceUrl": "https://pluseau.jp/items/mellow-shampoo.html"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [
+        "whiteFloral",
+        "pear"
+      ],
+      "strength": null,
+      "referenceProductId": null,
+      "verified": true,
+      "strengthVerified": false,
+      "label": "ホワイトフローラル＆ペアー"
+    },
+    "scores": {
+      "coarseHair": 65,
+      "fineHair": 96,
+      "curlyHair": 65,
+      "damageRepair": 72,
+      "smooth": 88,
+      "soft": 83,
+      "moist": 65,
+      "light": 95,
+      "manageable": 72,
+      "antiFrizz": 68,
+      "lowSqueak": 80,
+      "silky": 97.5,
+      "shine": 88,
+      "fingerComb": 88,
+      "rinse": 80,
+      "weight": 30,
+      "foam": 85,
+      "scalpDry": 75,
+      "scalpOily": 95,
+      "scalpSensitive": 65,
+      "scalpFlakes": 60
+    },
+    "sources": [
+      {
+        "url": "https://pluseau.jp/items/mellow-shampoo.html",
+        "label": "プリュスオー公式：メロウシャンプー",
+        "checkedAt": "2026-09-05"
+      }
+    ],
+    "checkedAt": "2026-09-05",
+    "imageType": "official",
+    "scoreStatus": "demo",
+    "images": [
+      "assets/images/products/mellow.jpg"
+    ]
+  },
+  {
+    "id": "plus-repair",
+    "brand": "plus eau",
+    "series": "リポア",
+    "name": "プリュスオー リポア",
+    "category": "drugstore",
+    "color": "#d9c7c4",
+    "image": "assets/images/products/repair.jpg",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "価格・容量と掲載成分は公式情報を確認しています。相性・使用感の点数は開発用の仮評価です。",
+    "shampoo": null,
+    "treatment": {
+      "name": "プリュスオー リポア トリートメント",
+      "price": 1650,
+      "volume": "450mL",
+      "ingredients": [
+        {
+          "name": "ジメチコン",
+          "category": "シリコーン",
+          "purpose": null,
+          "sourceUrl": "https://pluseau.jp/items/lypoair-treatment.html"
+        },
+        {
+          "name": "加水分解シルク",
+          "category": "シルク",
+          "purpose": null,
+          "sourceUrl": "https://pluseau.jp/items/lypoair-treatment.html"
+        },
+        {
+          "name": "加水分解ケラチン（羊毛・カシミヤヤギ）",
+          "category": "ケラチン",
+          "purpose": null,
+          "sourceUrl": "https://pluseau.jp/items/lypoair-treatment.html"
+        },
+        {
+          "name": "セラミドNP",
+          "category": "セラミド",
+          "purpose": null,
+          "sourceUrl": "https://pluseau.jp/items/lypoair-treatment.html"
+        },
+        {
+          "name": "アルガニアスピノサ核油",
+          "category": "オイル",
+          "purpose": null,
+          "sourceUrl": "https://pluseau.jp/items/lypoair-treatment.html"
+        }
+      ],
+      "verifiedAt": "2026-09-05",
+      "sourceUrl": "https://pluseau.jp/items/lypoair-treatment.html"
+    },
+    "fragrance": {
+      "type": [
+        "whiteFloral",
+        "pear"
+      ],
+      "strength": null,
+      "referenceProductId": null,
+      "verified": true,
+      "strengthVerified": false,
+      "label": "ホワイトフローラル＆ペアー"
+    },
+    "scores": {
+      "coarseHair": 80,
+      "fineHair": 72,
+      "curlyHair": 77,
+      "damageRepair": 95,
+      "smooth": 94,
+      "soft": 90,
+      "moist": 86,
+      "light": 65,
+      "manageable": 85,
+      "antiFrizz": 80,
+      "lowSqueak": 93,
+      "silky": 82.5,
+      "shine": 94,
+      "fingerComb": 94,
+      "rinse": 93,
+      "weight": 65,
+      "foam": 82,
+      "scalpDry": 77,
+      "scalpOily": 86,
+      "scalpSensitive": 67,
+      "scalpFlakes": 62
+    },
+    "sources": [
+      {
+        "url": "https://pluseau.jp/items/lypoair-treatment.html",
+        "label": "プリュスオー公式：リポアトリートメント",
+        "checkedAt": "2026-09-05"
+      }
+    ],
+    "checkedAt": "2026-09-05",
+    "imageType": "official",
+    "scoreStatus": "demo",
+    "images": [
+      "assets/images/products/repair.jpg"
+    ]
+  },
+  {
+    "id": "honey",
+    "brand": "&honey",
+    "series": "Professional System Repair",
+    "name": "&honey Professional System Repair",
+    "category": "salon",
+    "color": "#c58c42",
+    "image": "assets/images/products/honey-shampoo.png",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "価格・容量と掲載成分は公式情報を確認しています。相性・使用感の点数は開発用の仮評価です。",
+    "shampoo": {
+      "name": "システム リペア シャンプー 1.0",
+      "price": 1870,
+      "volume": "440mL",
+      "ingredients": [
+        {
+          "name": "加水分解ハチミツタンパク",
+          "category": "主要洗浄成分",
+          "purpose": "髪を洗浄するための成分",
+          "sourceUrl": "https://www.and-honey.com/pro/"
+        },
+        {
+          "name": "サボンソウ葉／根エキス",
+          "category": "主要洗浄成分",
+          "purpose": "髪を洗浄するための成分",
+          "sourceUrl": "https://www.and-honey.com/pro/"
+        }
+      ],
+      "verifiedAt": "2026-09-05",
+      "sourceUrl": "https://www.and-honey.com/pro/"
+    },
+    "treatment": {
+      "name": "システム リペア ヘアトリートメント 2.0",
+      "price": 1870,
+      "volume": "445g",
+      "ingredients": [],
+      "verifiedAt": "2026-09-05",
+      "sourceUrl": "https://www.and-honey.com/pro/"
+    },
+    "fragrance": {
+      "type": [
+        "whiteFloral",
+        "honey"
+      ],
+      "strength": null,
+      "referenceProductId": null,
+      "verified": true,
+      "strengthVerified": false,
+      "label": "シャンプー：ホワイトリリーハニー / トリートメント：ホワイトブルームハニー"
+    },
+    "scores": {
+      "coarseHair": 84,
+      "fineHair": 60,
+      "curlyHair": 86,
+      "damageRepair": 89,
+      "smooth": 85,
+      "soft": 85,
+      "moist": 95,
+      "light": 45,
+      "manageable": 90,
+      "antiFrizz": 88,
+      "lowSqueak": 87,
+      "silky": 72.5,
+      "shine": 85,
+      "fingerComb": 85,
+      "rinse": 87,
+      "weight": 85,
+      "foam": 79,
+      "scalpDry": 79,
+      "scalpOily": 77,
+      "scalpSensitive": 69,
+      "scalpFlakes": 64
+    },
+    "sources": [
+      {
+        "url": "https://www.and-honey.com/pro/",
+        "label": "&honey Professional公式",
+        "checkedAt": "2026-09-05"
+      }
+    ],
+    "checkedAt": "2026-09-05",
+    "imageType": "official",
+    "scoreStatus": "demo",
+    "images": [
+      "assets/images/products/honey-shampoo.png",
+      "assets/images/products/honey-treatment.png"
+    ]
+  },
+  {
+    "id": "cota7",
+    "brand": "COTA",
+    "series": "i CARE 7",
+    "name": "COTA i CARE 7",
+    "category": "salon",
+    "color": "#d4dce4",
+    "image": "assets/images/products/cota7-shampoo.jpg",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "価格・容量と掲載成分は公式情報を確認しています。相性・使用感の点数は開発用の仮評価です。",
+    "shampoo": {
+      "name": "COTA i CARE 7 シャンプー",
+      "price": 3080,
+      "volume": "300mL",
+      "ingredients": [
+        {
+          "name": "センチフォリアバラ花エキス",
+          "category": "保湿成分",
+          "purpose": "うるおいを保つための成分",
+          "sourceUrl": "https://www.cota.co.jp/products/i-care/"
+        },
+        {
+          "name": "チャ葉エキス",
+          "category": "保湿成分",
+          "purpose": "うるおいを保つための成分",
+          "sourceUrl": "https://www.cota.co.jp/products/i-care/"
+        }
+      ],
+      "verifiedAt": "2026-09-05",
+      "sourceUrl": "https://www.cota.co.jp/products/i-care/"
+    },
+    "treatment": {
+      "name": "COTA i CARE 7 トリートメント",
+      "price": 3410,
+      "volume": "200g",
+      "ingredients": [
+        {
+          "name": "センチフォリアバラ花エキス",
+          "category": "保湿成分",
+          "purpose": "うるおいを保つための成分",
+          "sourceUrl": "https://www.cota.co.jp/products/i-care/"
+        },
+        {
+          "name": "ハイブリッドローズ花エキス",
+          "category": "保湿成分",
+          "purpose": "うるおいを保つための成分",
+          "sourceUrl": "https://www.cota.co.jp/products/i-care/"
+        }
+      ],
+      "verifiedAt": "2026-09-05",
+      "sourceUrl": "https://www.cota.co.jp/products/i-care/"
+    },
+    "fragrance": {
+      "type": [
+        "fruity",
+        "rose"
+      ],
+      "strength": null,
+      "referenceProductId": null,
+      "verified": true,
+      "strengthVerified": false,
+      "label": "フルーティーローズブーケ"
+    },
+    "scores": {
+      "coarseHair": 95,
+      "fineHair": 57,
+      "curlyHair": 94,
+      "damageRepair": 84,
+      "smooth": 93,
+      "soft": 97,
+      "moist": 88,
+      "light": 57,
+      "manageable": 96,
+      "antiFrizz": 95,
+      "lowSqueak": 96,
+      "silky": 78.5,
+      "shine": 93,
+      "fingerComb": 93,
+      "rinse": 96,
+      "weight": 75,
+      "foam": 76,
+      "scalpDry": 81,
+      "scalpOily": 68,
+      "scalpSensitive": 71,
+      "scalpFlakes": 66
+    },
+    "sources": [
+      {
+        "url": "https://www.cota.co.jp/products/i-care/",
+        "label": "COTA公式：アイ ケア",
+        "checkedAt": "2026-09-05"
+      }
+    ],
+    "checkedAt": "2026-09-05",
+    "imageType": "official",
+    "scoreStatus": "demo",
+    "images": [
+      "assets/images/products/cota7-shampoo.jpg",
+      "assets/images/products/cota7-treatment.jpg"
+    ]
+  },
+  {
+    "id": "cota9",
+    "brand": "COTA",
+    "series": "i CARE 9",
+    "name": "COTA i CARE 9",
+    "category": "salon",
+    "color": "#cdc4d7",
+    "image": "assets/images/products/cota9-shampoo.jpg",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "価格・容量と掲載成分は公式情報を確認しています。相性・使用感の点数は開発用の仮評価です。",
+    "shampoo": {
+      "name": "COTA i CARE 9 シャンプー",
+      "price": 3080,
+      "volume": "300mL",
+      "ingredients": [
+        {
+          "name": "ダマスクバラ花油",
+          "category": "保湿成分",
+          "purpose": "うるおいを保つための成分",
+          "sourceUrl": "https://www.cota.co.jp/products/i-care/"
+        },
+        {
+          "name": "チャ葉エキス",
+          "category": "保湿成分",
+          "purpose": "うるおいを保つための成分",
+          "sourceUrl": "https://www.cota.co.jp/products/i-care/"
+        }
+      ],
+      "verifiedAt": "2026-09-05",
+      "sourceUrl": "https://www.cota.co.jp/products/i-care/"
+    },
+    "treatment": {
+      "name": "COTA i CARE 9 トリートメント",
+      "price": 3410,
+      "volume": "200g",
+      "ingredients": [
+        {
+          "name": "ダマスクバラ花油",
+          "category": "保湿成分",
+          "purpose": "うるおいを保つための成分",
+          "sourceUrl": "https://www.cota.co.jp/products/i-care/"
+        },
+        {
+          "name": "ハイブリッドローズ花エキス",
+          "category": "保湿成分",
+          "purpose": "うるおいを保つための成分",
+          "sourceUrl": "https://www.cota.co.jp/products/i-care/"
+        }
+      ],
+      "verifiedAt": "2026-09-05",
+      "sourceUrl": "https://www.cota.co.jp/products/i-care/"
+    },
+    "fragrance": {
+      "type": [
+        "rose"
+      ],
+      "strength": null,
+      "referenceProductId": null,
+      "verified": true,
+      "strengthVerified": false,
+      "label": "ダマスクローズブーケ"
+    },
+    "scores": {
+      "coarseHair": 99,
+      "fineHair": 38,
+      "curlyHair": 96,
+      "damageRepair": 88,
+      "smooth": 96,
+      "soft": 88,
+      "moist": 99,
+      "light": 30,
+      "manageable": 98,
+      "antiFrizz": 98,
+      "lowSqueak": 91,
+      "silky": 65,
+      "shine": 96,
+      "fingerComb": 96,
+      "rinse": 91,
+      "weight": 95,
+      "foam": 73,
+      "scalpDry": 83,
+      "scalpOily": 59,
+      "scalpSensitive": 73,
+      "scalpFlakes": 68
+    },
+    "sources": [
+      {
+        "url": "https://www.cota.co.jp/products/i-care/",
+        "label": "COTA公式：アイ ケア",
+        "checkedAt": "2026-09-05"
+      }
+    ],
+    "checkedAt": "2026-09-05",
+    "imageType": "official",
+    "scoreStatus": "demo",
+    "images": [
+      "assets/images/products/cota9-shampoo.jpg",
+      "assets/images/products/cota9-treatment.jpg"
+    ]
+  },
+  {
+    "id": "kerastase",
+    "brand": "KERASTASE",
+    "series": "ディシプリン オレオ リラックス",
+    "name": "KERASTASE オレオ リラックス",
+    "category": "salon",
+    "color": "#dc8c40",
+    "image": "assets/images/products/kerastase-shampoo.png",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "価格・容量と掲載成分は公式情報を確認しています。相性・使用感の点数は開発用の仮評価です。",
+    "shampoo": {
+      "name": "バン オレオ リラックス",
+      "price": 4180,
+      "volume": "250mL",
+      "ingredients": [
+        {
+          "name": "サラソウジュ種子脂",
+          "category": "補修成分",
+          "purpose": "毛髪を補修するための成分",
+          "sourceUrl": "https://www.kerastase.jp/products/discipline/bain-oleo-relax"
+        }
+      ],
+      "verifiedAt": "2026-09-05",
+      "sourceUrl": "https://www.kerastase.jp/products/discipline/bain-oleo-relax"
+    },
+    "treatment": {
+      "name": "マスク オレオ リラックス",
+      "price": 7040,
+      "volume": "200mL",
+      "ingredients": [
+        {
+          "name": "アモジメチコン",
+          "category": "シリコーン",
+          "purpose": "毛髪補修を目的に配合",
+          "sourceUrl": "https://www.kerastase.jp/products/discipline/mask-oleo-relax"
+        },
+        {
+          "name": "ジメチコン",
+          "category": "シリコーン",
+          "purpose": "毛髪の表面を整えるための成分",
+          "sourceUrl": "https://www.kerastase.jp/products/discipline/mask-oleo-relax"
+        },
+        {
+          "name": "ヤシ油",
+          "category": "オイル",
+          "purpose": "髪のツヤと撥水性をサポート",
+          "sourceUrl": "https://www.kerastase.jp/products/discipline/mask-oleo-relax"
+        },
+        {
+          "name": "プルケネチアボルビリス種子油",
+          "category": "保湿成分",
+          "purpose": "うるおいを保つための成分",
+          "sourceUrl": "https://www.kerastase.jp/products/discipline/mask-oleo-relax"
+        }
+      ],
+      "verifiedAt": "2026-09-05",
+      "sourceUrl": "https://www.kerastase.jp/products/discipline/mask-oleo-relax"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "referenceProductId": null,
+      "verified": false,
+      "strengthVerified": false,
+      "label": null
+    },
+    "scores": {
+      "coarseHair": 92,
+      "fineHair": 63,
+      "curlyHair": 98,
+      "damageRepair": 85,
+      "smooth": 98,
+      "soft": 88,
+      "moist": 85,
+      "light": 63,
+      "manageable": 95,
+      "antiFrizz": 98,
+      "lowSqueak": 84,
+      "silky": 81.5,
+      "shine": 98,
+      "fingerComb": 98,
+      "rinse": 84,
+      "weight": 70,
+      "foam": 70,
+      "scalpDry": 85,
+      "scalpOily": 50,
+      "scalpSensitive": 75,
+      "scalpFlakes": 70
+    },
+    "sources": [
+      {
+        "url": "https://www.kerastase.jp/products/discipline/bain-oleo-relax",
+        "label": "ケラスターゼ公式：シャンプー",
+        "checkedAt": "2026-09-05"
+      },
+      {
+        "url": "https://www.kerastase.jp/products/discipline/mask-oleo-relax",
+        "label": "ケラスターゼ公式：トリートメント",
+        "checkedAt": "2026-09-05"
+      }
+    ],
+    "checkedAt": "2026-09-05",
+    "imageType": "official",
+    "scoreStatus": "demo",
+    "images": [
+      "assets/images/products/kerastase-shampoo.png",
+      "assets/images/products/kerastase-treatment.png"
+    ]
+  }
+]
