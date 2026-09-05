@@ -1,0 +1,12 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import {filterProducts,productView,kindItems,unitPrice} from '../js/products.js';
+import {rankProducts,scoreProduct} from '../js/diagnosis.js';
+import {isStepComplete,visibleFields} from '../js/questions.js';
+const products=JSON.parse(fs.readFileSync(new URL('../data/products.json',import.meta.url)));
+test('種類を未選択では診断を進められない',()=>{assert.equal(isStepComplete(0,{category:'both'}),false);for(const target of ['shampoo','treatment','both'])assert.equal(isStepComplete(0,{category:'both',target}),true);});
+test('単品と両方で検索対象・価格・画像が一致する',()=>{const p=products.find(p=>p.id==='kerastase');assert.equal(filterProducts([p],{kind:'shampoo',price:'5000'}).length,1);assert.equal(filterProducts([p],{kind:'treatment',price:'5000'}).length,0);assert.equal(unitPrice(p,'shampoo'),4180);assert.equal(unitPrice(p,'treatment'),7040);const treatment=productView(p,'treatment');assert.equal(treatment.shampoo,null);assert.equal(treatment.image,p.images[1]);assert.equal(kindItems(treatment,'treatment')[0].image,p.images[1]);});
+test('存在しない種別を提案しない、両方はペアが必要',()=>{const single={...products[0],treatment:null};assert.equal(rankProducts([single],{target:'treatment'}).length,0);assert.equal(rankProducts([single],{target:'both'}).length,0);assert.equal(rankProducts([single],{target:'shampoo'}).length,1);});
+test('トリートメント診断で泡立ちとキシ感を採点しない',()=>{const a={target:'treatment',foam:'かなり重要',squeak:'絶対に嫌',rinse:'かなり滑らか'};assert.ok(visibleFields(4,a).every(f=>!['foam','squeak'].includes(f.key)));assert.ok(scoreProduct(products[0],a).parts.every(p=>!['foam','lowSqueak'].includes(p.key)));});
+test('全6シリーズのシャントリ画像と出典が存在する',()=>{for(const p of products){assert.ok(p.shampoo&&p.treatment);assert.equal(p.images.length,2);for(const url of p.images)assert.ok(fs.existsSync(new URL('../'+url,import.meta.url)));assert.ok(p.sources.some(s=>s.url===p.shampoo.sourceUrl));assert.ok(p.sources.some(s=>s.url===p.treatment.sourceUrl));}});

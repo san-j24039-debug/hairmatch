@@ -6,7 +6,7 @@
     "name": "プリュスオー メロウ",
     "category": "drugstore",
     "color": "#d3dadb",
-    "image": "assets/images/products/mellow.jpg",
+    "image": "assets/images/products/normalized/mellow.png",
     "dataStatus": "facts-verified-scores-demo",
     "dataNote": "価格・容量と掲載成分は公式情報を確認しています。相性・使用感の点数は開発用の仮評価です。",
     "shampoo": {
@@ -48,7 +48,45 @@
       "verifiedAt": "2026-09-05",
       "sourceUrl": "https://pluseau.jp/items/mellow-shampoo.html"
     },
-    "treatment": null,
+    "treatment": {
+      "name": "プリュスオー メロウ トリートメント",
+      "price": 1650,
+      "volume": "450mL",
+      "ingredients": [
+        {
+          "name": "ジメチコン",
+          "category": "シリコーン",
+          "purpose": null,
+          "sourceUrl": "https://www.pluseau.jp/items/mellow-treatment.html"
+        },
+        {
+          "name": "加水分解シルク",
+          "category": "シルク",
+          "purpose": null,
+          "sourceUrl": "https://www.pluseau.jp/items/mellow-treatment.html"
+        },
+        {
+          "name": "加水分解ケラチン（カシミヤヤギ・羊毛）",
+          "category": "ケラチン",
+          "purpose": null,
+          "sourceUrl": "https://www.pluseau.jp/items/mellow-treatment.html"
+        },
+        {
+          "name": "セラミドNP・AP・EOP",
+          "category": "セラミド",
+          "purpose": null,
+          "sourceUrl": "https://www.pluseau.jp/items/mellow-treatment.html"
+        },
+        {
+          "name": "アルガニアスピノサ核油",
+          "category": "オイル",
+          "purpose": null,
+          "sourceUrl": "https://www.pluseau.jp/items/mellow-treatment.html"
+        }
+      ],
+      "verifiedAt": "2026-09-05",
+      "sourceUrl": "https://www.pluseau.jp/items/mellow-treatment.html"
+    },
     "fragrance": {
       "type": [
         "whiteFloral",
@@ -88,13 +126,19 @@
         "url": "https://pluseau.jp/items/mellow-shampoo.html",
         "label": "プリュスオー公式：メロウシャンプー",
         "checkedAt": "2026-09-05"
+      },
+      {
+        "url": "https://www.pluseau.jp/items/mellow-treatment.html",
+        "label": "プリュスオー公式：メロウトリートメント",
+        "checkedAt": "2026-09-05"
       }
     ],
     "checkedAt": "2026-09-05",
     "imageType": "official",
     "scoreStatus": "demo",
     "images": [
-      "assets/images/products/mellow.jpg"
+      "assets/images/products/normalized/mellow.png",
+      "assets/images/products/normalized/mellow-treatment.png"
     ]
   },
   {
@@ -104,10 +148,48 @@
     "name": "プリュスオー リポア",
     "category": "drugstore",
     "color": "#d9c7c4",
-    "image": "assets/images/products/repair.jpg",
+    "image": "assets/images/products/normalized/repair-shampoo.png",
     "dataStatus": "facts-verified-scores-demo",
     "dataNote": "価格・容量と掲載成分は公式情報を確認しています。相性・使用感の点数は開発用の仮評価です。",
-    "shampoo": null,
+    "shampoo": {
+      "name": "プリュスオー リポア シャンプー",
+      "price": 1650,
+      "volume": "450mL",
+      "ingredients": [
+        {
+          "name": "ラウロイルメチルアラニンNa",
+          "category": "主要洗浄成分",
+          "purpose": null,
+          "sourceUrl": "https://pluseau.jp/items/lypoair-shampoo.html"
+        },
+        {
+          "name": "ラウロイル加水分解シルクNa",
+          "category": "シルク",
+          "purpose": null,
+          "sourceUrl": "https://pluseau.jp/items/lypoair-shampoo.html"
+        },
+        {
+          "name": "加水分解ケラチン（羊毛・カシミヤヤギ）",
+          "category": "ケラチン",
+          "purpose": null,
+          "sourceUrl": "https://pluseau.jp/items/lypoair-shampoo.html"
+        },
+        {
+          "name": "セラミドNG・AP・AG・NP・EOP",
+          "category": "セラミド",
+          "purpose": null,
+          "sourceUrl": "https://pluseau.jp/items/lypoair-shampoo.html"
+        },
+        {
+          "name": "アルガニアスピノサ核油",
+          "category": "オイル",
+          "purpose": null,
+          "sourceUrl": "https://pluseau.jp/items/lypoair-shampoo.html"
+        }
+      ],
+      "verifiedAt": "2026-09-05",
+      "sourceUrl": "https://pluseau.jp/items/lypoair-shampoo.html"
+    },
     "treatment": {
       "name": "プリュスオー リポア トリートメント",
       "price": 1650,
@@ -183,6 +265,11 @@
     },
     "sources": [
       {
+        "url": "https://pluseau.jp/items/lypoair-shampoo.html",
+        "label": "プリュスオー公式：リポアシャンプー",
+        "checkedAt": "2026-09-05"
+      },
+      {
         "url": "https://pluseau.jp/items/lypoair-treatment.html",
         "label": "プリュスオー公式：リポアトリートメント",
         "checkedAt": "2026-09-05"
@@ -192,7 +279,8 @@
     "imageType": "official",
     "scoreStatus": "demo",
     "images": [
-      "assets/images/products/repair.jpg"
+      "assets/images/products/normalized/repair-shampoo.png",
+      "assets/images/products/normalized/repair.png"
     ]
   },
   {
@@ -202,7 +290,7 @@
     "name": "&honey Professional System Repair",
     "category": "salon",
     "color": "#c58c42",
-    "image": "assets/images/products/honey-shampoo.png",
+    "image": "assets/images/products/normalized/honey-shampoo.png",
     "dataStatus": "facts-verified-scores-demo",
     "dataNote": "価格・容量と掲載成分は公式情報を確認しています。相性・使用感の点数は開発用の仮評価です。",
     "shampoo": {
@@ -279,8 +367,8 @@
     "imageType": "official",
     "scoreStatus": "demo",
     "images": [
-      "assets/images/products/honey-shampoo.png",
-      "assets/images/products/honey-treatment.png"
+      "assets/images/products/normalized/honey-shampoo.png",
+      "assets/images/products/normalized/honey-treatment.png"
     ]
   },
   {
@@ -290,7 +378,7 @@
     "name": "COTA i CARE 7",
     "category": "salon",
     "color": "#d4dce4",
-    "image": "assets/images/products/cota7-shampoo.jpg",
+    "image": "assets/images/products/normalized/cota7-shampoo.png",
     "dataStatus": "facts-verified-scores-demo",
     "dataNote": "価格・容量と掲載成分は公式情報を確認しています。相性・使用感の点数は開発用の仮評価です。",
     "shampoo": {
@@ -380,8 +468,8 @@
     "imageType": "official",
     "scoreStatus": "demo",
     "images": [
-      "assets/images/products/cota7-shampoo.jpg",
-      "assets/images/products/cota7-treatment.jpg"
+      "assets/images/products/normalized/cota7-shampoo.png",
+      "assets/images/products/normalized/cota7-treatment.png"
     ]
   },
   {
@@ -391,7 +479,7 @@
     "name": "COTA i CARE 9",
     "category": "salon",
     "color": "#cdc4d7",
-    "image": "assets/images/products/cota9-shampoo.jpg",
+    "image": "assets/images/products/normalized/cota9-shampoo.png",
     "dataStatus": "facts-verified-scores-demo",
     "dataNote": "価格・容量と掲載成分は公式情報を確認しています。相性・使用感の点数は開発用の仮評価です。",
     "shampoo": {
@@ -480,8 +568,8 @@
     "imageType": "official",
     "scoreStatus": "demo",
     "images": [
-      "assets/images/products/cota9-shampoo.jpg",
-      "assets/images/products/cota9-treatment.jpg"
+      "assets/images/products/normalized/cota9-shampoo.png",
+      "assets/images/products/normalized/cota9-treatment.png"
     ]
   },
   {
@@ -491,7 +579,7 @@
     "name": "KERASTASE オレオ リラックス",
     "category": "salon",
     "color": "#dc8c40",
-    "image": "assets/images/products/kerastase-shampoo.png",
+    "image": "assets/images/products/normalized/kerastase-shampoo.png",
     "dataStatus": "facts-verified-scores-demo",
     "dataNote": "価格・容量と掲載成分は公式情報を確認しています。相性・使用感の点数は開発用の仮評価です。",
     "shampoo": {
@@ -589,8 +677,8 @@
     "imageType": "official",
     "scoreStatus": "demo",
     "images": [
-      "assets/images/products/kerastase-shampoo.png",
-      "assets/images/products/kerastase-treatment.png"
+      "assets/images/products/normalized/kerastase-shampoo.png",
+      "assets/images/products/normalized/kerastase-treatment.png"
     ]
   }
 ]

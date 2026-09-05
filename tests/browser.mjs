@@ -18,7 +18,7 @@ try {
  const snap=async name=>{const image=await send('Page.captureScreenshot',{format:'png',captureBeyondViewport:true});await writeFile(`test-results/${name}.png`,Buffer.from(image.data,'base64'));};
  await send('Page.enable');await send('Runtime.enable');await send('Emulation.setDeviceMetricsOverride',{width:390,height:844,deviceScaleFactor:1,mobile:true});await send('Page.navigate',{url:'http://127.0.0.1:4173'});await wait(`!!document.querySelector('[data-action="start"]')`);await snap('mobile-home');
  await click('[data-action="start"]');await wait(`!!document.querySelector('[data-key="category"]')`);assert.equal(await evaluate(`document.querySelector('[data-action="next"]').disabled`),true);
- const answers=[{category:'both'},{thickness:'太い',hardness:'かなり硬い・剛毛',curl:'強いくせ毛',spread:'かなり広がりやすい'},{damage:'ブリーチ',scalp:'乾燥しやすい'},{finish:'soft'},{squeak:'絶対に嫌',rinse:'かなり滑らか',weight:'しっとり',foam:'かなり重要'},{scents:'rose',strength:'medium'},{budget:'any'}];
+ const answers=[{target:'both',category:'both'},{thickness:'太い',hardness:'かなり硬い・剛毛',curl:'強いくせ毛',spread:'かなり広がりやすい'},{damage:'ブリーチ',scalp:'乾燥しやすい'},{finish:'soft'},{squeak:'絶対に嫌',rinse:'かなり滑らか',weight:'しっとり',foam:'かなり重要'},{scents:'rose',strength:'medium'},{budget:'any'}];
  for(let i=0;i<answers.length;i++){for(const [key,value] of Object.entries(answers[i]))await click(`[data-key="${key}"][data-value="${value}"]`);if(i===3)await snap('mobile-finish');assert.equal(await evaluate(`document.querySelector('[data-action="next"]').disabled`),false);await click('[data-action="next"]');}
  await snap('mobile-review');await click('[data-action="next"]');await wait(`!!document.querySelector('.results-page')`);assert.equal(await evaluate(`document.querySelectorAll('.results-grid .product-card').length`),5);await snap('mobile-results');
  await click('.winner [data-action="favorite"]');await click('.winner .product-name');await wait(`!!document.querySelector('.detail-page')`);await snap('mobile-detail');
@@ -43,7 +43,37 @@ try {
  for(const route of ['home','diagnosis','results','search','favorites','compare','saved','mypage','detail/cota7']){await evaluate(`location.hash=${JSON.stringify(route)}`);await new Promise(r=>setTimeout(r,120));assert.equal(await evaluate(`document.documentElement.scrollWidth>window.innerWidth`),false,'Overflow on '+route);}
  await send('Emulation.setDeviceMetricsOverride',{width:1440,height:1050,deviceScaleFactor:1,mobile:false});await evaluate(`location.hash='home'`);await wait(`!!document.querySelector('.home')`);await snap('desktop-home');await evaluate(`location.hash='results'`);await wait(`!!document.querySelector('.results-page')`);await snap('desktop-results');
  await evaluate(`location.hash='mypage'`);await wait(`!!document.querySelector('.mypage')`);await snap('desktop-mypage');
- assert.deepEqual(errors,[]);console.log('PASS: 8-step diagnosis, top 5, detail, comparison cap, favorites persistence, search, mobile overflow, desktop screenshots; no browser exceptions.');
+ // Product-kind navigation must switch images and facts without losing saved IDs.
+ await send('Emulation.setDeviceMetricsOverride',{width:390,height:844,deviceScaleFactor:1,mobile:true});
+ await evaluate(`location.hash='search'`);await wait(`!!document.querySelector('#search-input')`);
+ await click('[data-action="reset-filters"]');
+ for(const page of ['search','saved','compare']){
+  await evaluate(`location.hash=${JSON.stringify(page)}`);await wait(`!!document.querySelector('.kind-tabs')`);
+  for(const kind of ['shampoo','treatment','both']){
+   await click(`[data-action="view-kind"][data-value="${kind}"]`);
+   const images=await evaluate(`[...document.querySelectorAll('.product-photo')].map(p=>p.querySelectorAll('img').length)`);
+   assert.ok(images.length>0);assert.ok(images.every(n=>n===(kind==='both'?2:1)),page+' '+kind);
+   assert.equal(await evaluate(`document.documentElement.scrollWidth>innerWidth`),false);
+  }
+ }
+ await evaluate(`location.hash='search'`);await wait(`!!document.querySelector('.kind-tabs')`);
+ await click('[data-action="view-kind"][data-value="treatment"]');await send('Page.reload');await wait(`!!document.querySelector('.kind-tabs')`);
+ assert.equal(await evaluate(`document.querySelector('.kind-tabs .active').dataset.value`),'treatment');
+ await click('.product-name');await wait(`!!document.querySelector('.detail-page')`);
+ assert.equal(await evaluate(`document.querySelectorAll('.price-row').length`),1);
+ assert.match(await evaluate(`document.querySelector('.price-row').textContent`),/トリートメント/);
+ await snap('mobile-treatment-detail');
+ await evaluate(`location.hash='mypage'`);await wait(`!!document.querySelector('.mypage')`);await click('[data-action="restart"]');
+ await click('[data-key="target"][data-value="treatment"]');await click('[data-key="category"][data-value="both"]');await click('[data-action="next"]');
+ const treatmentAnswers=answers.slice(1);treatmentAnswers[3]={rinse:'かなり滑らか',weight:'しっとり'};
+ for(const values of treatmentAnswers){for(const [key,value] of Object.entries(values))await click(`[data-key="${key}"][data-value="${value}"]`);await click('[data-action="next"]');}
+ await click('[data-action="next"]');await wait(`!!document.querySelector('.results-page')`);
+ assert.equal(await evaluate(`document.querySelector('.result-heading h1').textContent`),'あなたにおすすめのトリートメント');
+ assert.ok(await evaluate(`[...document.querySelectorAll('.product-photo')].every(p=>p.querySelectorAll('img').length===1)`));
+ await wait(`Array.from(document.images).every(i=>i.complete)`);
+ assert.ok(await evaluate(`[...document.images].every(i=>i.naturalWidth>0)`));
+ await snap('mobile-treatment-results');
+ assert.deepEqual(errors,[]);console.log('PASS: diagnosis, history, search, favorites, comparison, all three product kinds, treatment-only diagnosis, image loading and mobile layout; no browser exceptions.');
  await send('Browser.close');
 }finally{socket?.close();child.kill();}
 

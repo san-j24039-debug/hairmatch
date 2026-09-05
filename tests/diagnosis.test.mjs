@@ -6,7 +6,7 @@ import {filterProducts,unitPrice} from '../js/products.js';
 import {steps,isStepComplete,updateAnswer} from '../js/questions.js';
 import {toggleId} from '../js/favorites.js';
 const products=JSON.parse(await readFile(new URL('../data/products.json',import.meta.url),'utf8'));
-const fine={category:'both',thickness:'細い',hardness:'柔らかい',curl:'ほぼなし',spread:'広がりにくい',damage:['ほぼなし'],scalp:'皮脂が多い',finish:['light','silky'],priority:'light',squeak:'気にしない',rinse:'少しさっぱり',weight:'かなり軽い',foam:'かなり重要',scents:['fruity'],strength:'medium',budget:'any'};
+const fine={target:'both',category:'both',thickness:'細い',hardness:'柔らかい',curl:'ほぼなし',spread:'広がりにくい',damage:['ほぼなし'],scalp:'皮脂が多い',finish:['light','silky'],priority:'light',squeak:'気にしない',rinse:'少しさっぱり',weight:'かなり軽い',foam:'かなり重要',scents:['fruity'],strength:'medium',budget:'any'};
 const coarse={...fine,thickness:'太い',hardness:'かなり硬い・剛毛',curl:'強いくせ毛',spread:'かなり広がりやすい',damage:['ブリーチ'],scalp:'乾燥しやすい',finish:['soft','manageable'],priority:'soft',squeak:'絶対に嫌',rinse:'かなり滑らか',weight:'しっとり',scents:['rose']};
 test('回答によって1位が変わり、得点は0〜100に収まる',()=>{assert.notEqual(rankProducts(products,fine)[0].product.id,rankProducts(products,coarse)[0].product.id);for(const a of [fine,coarse])for(const r of rankProducts(products,a)){assert.ok(r.score>=0&&r.score<=100);assert.ok(r.reasons.length);assert.ok(r.parts.length);}});
 test('最重要項目とキシ感を強く反映する',()=>{const r=scoreProduct(products[0],coarse);assert.equal(r.parts.find(x=>x.key==='lowSqueak').weight,8);assert.ok(r.parts.some(x=>x.key==='soft'&&x.weight===8));});

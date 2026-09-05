@@ -24,7 +24,7 @@ try {
  await send('Page.enable');await send('Runtime.enable');await send('Network.enable');const failed=[];socket.addEventListener('message',e=>{const m=JSON.parse(e.data);if(m.method==='Network.responseReceived'&&m.params.response.url.startsWith('http://127.0.0.1:4173')&&m.params.response.status>=400)failed.push(m.params.response.url);});
  await send('Emulation.setDeviceMetricsOverride',{width:390,height:844,deviceScaleFactor:1,mobile:true});await send('Page.navigate',{url:'http://127.0.0.1:4173'});await wait(`!!document.querySelector('[data-action="start"]')`);
  await tap('[data-action="start"]');await atStep(1);assert.equal(await evaluate(`document.querySelector('[data-action="next"]').disabled`),true);
- await choose({category:'both'});await tap('[data-action="next"]');await atStep(2);await evaluate('history.back()');await atStep(1);await evaluate('history.forward()');await atStep(2);check('ブラウザの戻る・進むが1ステップずつ移動');
+ await choose({target:'both',category:'both'});await tap('[data-action="next"]');await atStep(2);await evaluate('history.back()');await atStep(1);await evaluate('history.forward()');await atStep(2);check('ブラウザの戻る・進むが1ステップずつ移動');
  await choose({thickness:'太い',hardness:'かなり硬い・剛毛',curl:'強いくせ毛',spread:'かなり広がりやすい'});await tap('[data-action="next"]');await atStep(3);await send('Page.reload');await atStep(3);check('再読み込みしても診断位置を保持');
  await tap('[data-action="close-diagnosis"]');await wait(`!!document.querySelector('.home')`);assert.match(await evaluate(`document.querySelector('[data-action="start"]').textContent`),/続きから再開/);await tap('[data-action="start"]');await atStep(3);check('閉じる→続きから再開');
  await choose({damage:'カラー',scalp:'普通'});await tap('[data-action="next"]');await atStep(4);
