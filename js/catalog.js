@@ -1,4 +1,14 @@
 // Series records remain the source of verified facts; the UI uses individual items.
+// Sort within each brand by product line, then shampoo, conditioner and intensive care.
+export function sortCatalog(products) {
+  const brands=[...new Set(products.map(p=>p.brand))];
+  const careOrder=p=>p.kind==='shampoo'?0:/マスク|ヘアパック|ブースター|ホームケア|コンサントレ/.test(p.name)?2:1;
+  return [...products].sort((a,b)=>brands.indexOf(a.brand)-brands.indexOf(b.brand)
+    ||(a.catalogOrder??100)-(b.catalogOrder??100)
+    ||(a.catalogGroup||a.series).localeCompare(b.catalogGroup||b.series,'ja',{numeric:true})
+    ||careOrder(a)-careOrder(b)
+    ||a.name.localeCompare(b.name,'ja',{numeric:true}));
+}
 export function expandProducts(series) {
   return series.flatMap(p => p.kind ? [p] : ['shampoo','treatment'].filter(kind => p[kind]).map(kind => {
     const item=p[kind];

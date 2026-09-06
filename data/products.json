@@ -139,7 +139,9 @@
     "images": [
       "assets/images/products/normalized/mellow.png",
       "assets/images/products/normalized/mellow-treatment.png"
-    ]
+    ],
+    "catalogGroup": "メロウ",
+    "catalogOrder": 0
   },
   {
     "id": "plus-repair",
@@ -281,7 +283,9 @@
     "images": [
       "assets/images/products/normalized/repair-shampoo.png",
       "assets/images/products/normalized/repair.png"
-    ]
+    ],
+    "catalogGroup": "リポア",
+    "catalogOrder": 2
   },
   {
     "id": "honey",
@@ -369,7 +373,9 @@
     "images": [
       "assets/images/products/normalized/honey-shampoo.png",
       "assets/images/products/normalized/honey-treatment.png"
-    ]
+    ],
+    "catalogGroup": "Professional System Repair",
+    "catalogOrder": 4
   },
   {
     "id": "cota7",
@@ -470,7 +476,9 @@
     "images": [
       "assets/images/products/normalized/cota7-shampoo.png",
       "assets/images/products/normalized/cota7-treatment.png"
-    ]
+    ],
+    "catalogGroup": "i CARE 7",
+    "catalogOrder": 3
   },
   {
     "id": "cota9",
@@ -570,7 +578,9 @@
     "images": [
       "assets/images/products/normalized/cota9-shampoo.png",
       "assets/images/products/normalized/cota9-treatment.png"
-    ]
+    ],
+    "catalogGroup": "i CARE 9",
+    "catalogOrder": 4
   },
   {
     "id": "kerastase",
@@ -679,7 +689,8 @@
     "images": [
       "assets/images/products/normalized/kerastase-shampoo.png",
       "assets/images/products/normalized/kerastase-treatment.png"
-    ]
+    ],
+    "catalogGroup": "ディシプリン"
   },
   {
     "id": "plus-melty-shampoo",
@@ -747,7 +758,13 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://pluseau.jp/images/product/pluseau_melty-shampoo.jpg",
-    "originalLocalImage": "assets/images/products/catalog/plus-melty-shampoo.jpg"
+    "originalLocalImage": "assets/images/products/catalog/plus-melty-shampoo.jpg",
+    "catalogGroup": "メルティ",
+    "catalogOrder": 1,
+    "searchAliases": [
+      "ピンク",
+      "pink"
+    ]
   },
   {
     "id": "plus-melty-treatment",
@@ -815,7 +832,13 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://pluseau.jp/images/product/pluseau_melty-treatment.jpg",
-    "originalLocalImage": "assets/images/products/catalog/plus-melty-treatment.jpg"
+    "originalLocalImage": "assets/images/products/catalog/plus-melty-treatment.jpg",
+    "catalogGroup": "メルティ",
+    "catalogOrder": 1,
+    "searchAliases": [
+      "ピンク",
+      "pink"
+    ]
   },
   {
     "id": "plus-lyporm-shampoo",
@@ -883,7 +906,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://pluseau.jp/images/product/tmb_cl_lyprm_sp.jpg",
-    "originalLocalImage": "assets/images/products/catalog/plus-lyporm-shampoo.jpg"
+    "originalLocalImage": "assets/images/products/catalog/plus-lyporm-shampoo.jpg",
+    "catalogGroup": "リポルム",
+    "catalogOrder": 3
   },
   {
     "id": "plus-lyporm-treatment",
@@ -951,7 +976,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://pluseau.jp/images/product/tmb_cl_lyprm_tr.jpg",
-    "originalLocalImage": "assets/images/products/catalog/plus-lyporm-treatment.jpg"
+    "originalLocalImage": "assets/images/products/catalog/plus-lyporm-treatment.jpg",
+    "catalogGroup": "リポルム",
+    "catalogOrder": 3
   },
   {
     "id": "plus-mmj",
@@ -1019,7 +1046,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://pluseau.jp/images/product/pluseau_mask1.jpg",
-    "originalLocalImage": "assets/images/products/catalog/plus-mmj.jpg"
+    "originalLocalImage": "assets/images/products/catalog/plus-mmj.jpg",
+    "catalogGroup": "メロウ",
+    "catalogOrder": 0
   },
   {
     "id": "plus-rmj",
@@ -1087,415 +1116,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://pluseau.jp/images/product/pluseau_mask2.jpg",
-    "originalLocalImage": "assets/images/products/catalog/plus-rmj.jpg"
-  },
-  {
-    "id": "plus-csp-bordeaux",
-    "brand": "plus eau",
-    "series": "カラーケア",
-    "name": "プリュスオー カラーシャンプー ボルドー",
-    "kind": "shampoo",
-    "seriesId": "plus-csp-bordeaux",
-    "category": "drugstore",
-    "image": "assets/images/products/normalized/plus-csp-bordeaux.png",
-    "images": [
-      "assets/images/products/normalized/plus-csp-bordeaux.png"
-    ],
-    "shampoo": {
-      "name": "プリュスオー カラーシャンプー ボルドー",
-      "price": 1760,
-      "volume": "280mL",
-      "ingredients": [],
-      "verifiedAt": "2026-09-06",
-      "sourceUrl": "https://pluseau.jp/items/csp-bordeaux.html",
-      "variants": []
-    },
-    "treatment": null,
-    "fragrance": {
-      "type": [],
-      "strength": null,
-      "label": "未確認",
-      "verified": false
-    },
-    "scores": {
-      "coarseHair": 60,
-      "fineHair": 60,
-      "curlyHair": 60,
-      "damageRepair": 60,
-      "smooth": 60,
-      "soft": 60,
-      "moist": 60,
-      "light": 60,
-      "manageable": 60,
-      "antiFrizz": 60,
-      "lowSqueak": 60,
-      "silky": 60,
-      "shine": 60,
-      "fingerComb": 60,
-      "rinse": 60,
-      "weight": 60,
-      "foam": 60,
-      "scalpDry": 60,
-      "scalpOily": 60,
-      "scalpSensitive": 60,
-      "scalpFlakes": 60
-    },
-    "diagnosisEligible": false,
-    "scoreStatus": "demo",
-    "dataStatus": "facts-verified-scores-demo",
-    "dataNote": "商品名・容量・価格・画像は公式情報を確認。適性スコアは未検証の中立値です。成分・香りの未確認項目は補完していません。 色補正用のため通常の診断対象外です。",
-    "sources": [
-      {
-        "url": "https://pluseau.jp/items/csp-bordeaux.html",
-        "label": "plus eau 公式商品情報",
-        "checkedAt": "2026-09-06"
-      }
-    ],
-    "checkedAt": "2026-09-06",
-    "imageType": "official",
-    "catalogBatch": "2026-09",
-    "originalImageUrl": "https://pluseau.jp/images/product/pluseau_csp-bordeaux.jpg",
-    "originalLocalImage": "assets/images/products/catalog/plus-csp-bordeaux.jpg"
-  },
-  {
-    "id": "plus-csp-blue",
-    "brand": "plus eau",
-    "series": "カラーケア",
-    "name": "プリュスオー カラーシャンプー ブルー",
-    "kind": "shampoo",
-    "seriesId": "plus-csp-blue",
-    "category": "drugstore",
-    "image": "assets/images/products/normalized/plus-csp-blue.png",
-    "images": [
-      "assets/images/products/normalized/plus-csp-blue.png"
-    ],
-    "shampoo": {
-      "name": "プリュスオー カラーシャンプー ブルー",
-      "price": 1760,
-      "volume": "280mL",
-      "ingredients": [],
-      "verifiedAt": "2026-09-06",
-      "sourceUrl": "https://pluseau.jp/items/csp-blue.html",
-      "variants": []
-    },
-    "treatment": null,
-    "fragrance": {
-      "type": [],
-      "strength": null,
-      "label": "未確認",
-      "verified": false
-    },
-    "scores": {
-      "coarseHair": 60,
-      "fineHair": 60,
-      "curlyHair": 60,
-      "damageRepair": 60,
-      "smooth": 60,
-      "soft": 60,
-      "moist": 60,
-      "light": 60,
-      "manageable": 60,
-      "antiFrizz": 60,
-      "lowSqueak": 60,
-      "silky": 60,
-      "shine": 60,
-      "fingerComb": 60,
-      "rinse": 60,
-      "weight": 60,
-      "foam": 60,
-      "scalpDry": 60,
-      "scalpOily": 60,
-      "scalpSensitive": 60,
-      "scalpFlakes": 60
-    },
-    "diagnosisEligible": false,
-    "scoreStatus": "demo",
-    "dataStatus": "facts-verified-scores-demo",
-    "dataNote": "商品名・容量・価格・画像は公式情報を確認。適性スコアは未検証の中立値です。成分・香りの未確認項目は補完していません。 色補正用のため通常の診断対象外です。",
-    "sources": [
-      {
-        "url": "https://pluseau.jp/items/csp-blue.html",
-        "label": "plus eau 公式商品情報",
-        "checkedAt": "2026-09-06"
-      }
-    ],
-    "checkedAt": "2026-09-06",
-    "imageType": "official",
-    "catalogBatch": "2026-09",
-    "originalImageUrl": "https://pluseau.jp/images/product/pluseau_csp-blue.jpg",
-    "originalLocalImage": "assets/images/products/catalog/plus-csp-blue.jpg"
-  },
-  {
-    "id": "plus-csp-b",
-    "brand": "plus eau",
-    "series": "カラーケア",
-    "name": "プリュスオー カラーシャンプー ミルクティー",
-    "kind": "shampoo",
-    "seriesId": "plus-csp-b",
-    "category": "drugstore",
-    "image": "assets/images/products/normalized/plus-csp-b.png",
-    "images": [
-      "assets/images/products/normalized/plus-csp-b.png"
-    ],
-    "shampoo": {
-      "name": "プリュスオー カラーシャンプー ミルクティー",
-      "price": 1760,
-      "volume": "280mL",
-      "ingredients": [],
-      "verifiedAt": "2026-09-06",
-      "sourceUrl": "https://pluseau.jp/items/csp-b.html",
-      "variants": []
-    },
-    "treatment": null,
-    "fragrance": {
-      "type": [],
-      "strength": null,
-      "label": "未確認",
-      "verified": false
-    },
-    "scores": {
-      "coarseHair": 60,
-      "fineHair": 60,
-      "curlyHair": 60,
-      "damageRepair": 60,
-      "smooth": 60,
-      "soft": 60,
-      "moist": 60,
-      "light": 60,
-      "manageable": 60,
-      "antiFrizz": 60,
-      "lowSqueak": 60,
-      "silky": 60,
-      "shine": 60,
-      "fingerComb": 60,
-      "rinse": 60,
-      "weight": 60,
-      "foam": 60,
-      "scalpDry": 60,
-      "scalpOily": 60,
-      "scalpSensitive": 60,
-      "scalpFlakes": 60
-    },
-    "diagnosisEligible": false,
-    "scoreStatus": "demo",
-    "dataStatus": "facts-verified-scores-demo",
-    "dataNote": "商品名・容量・価格・画像は公式情報を確認。適性スコアは未検証の中立値です。成分・香りの未確認項目は補完していません。 色補正用のため通常の診断対象外です。",
-    "sources": [
-      {
-        "url": "https://pluseau.jp/items/csp-b.html",
-        "label": "plus eau 公式商品情報",
-        "checkedAt": "2026-09-06"
-      }
-    ],
-    "checkedAt": "2026-09-06",
-    "imageType": "official",
-    "catalogBatch": "2026-09",
-    "originalImageUrl": "https://pluseau.jp/images/product/pluseau_csp-b.jpg",
-    "originalLocalImage": "assets/images/products/catalog/plus-csp-b.jpg"
-  },
-  {
-    "id": "plus-csp-m",
-    "brand": "plus eau",
-    "series": "カラーケア",
-    "name": "プリュスオー カラーシャンプー ムラサキ",
-    "kind": "shampoo",
-    "seriesId": "plus-csp-m",
-    "category": "drugstore",
-    "image": "assets/images/products/normalized/plus-csp-m.png",
-    "images": [
-      "assets/images/products/normalized/plus-csp-m.png"
-    ],
-    "shampoo": {
-      "name": "プリュスオー カラーシャンプー ムラサキ",
-      "price": 1760,
-      "volume": "280mL",
-      "ingredients": [],
-      "verifiedAt": "2026-09-06",
-      "sourceUrl": "https://pluseau.jp/items/csp-m.html",
-      "variants": []
-    },
-    "treatment": null,
-    "fragrance": {
-      "type": [],
-      "strength": null,
-      "label": "未確認",
-      "verified": false
-    },
-    "scores": {
-      "coarseHair": 60,
-      "fineHair": 60,
-      "curlyHair": 60,
-      "damageRepair": 60,
-      "smooth": 60,
-      "soft": 60,
-      "moist": 60,
-      "light": 60,
-      "manageable": 60,
-      "antiFrizz": 60,
-      "lowSqueak": 60,
-      "silky": 60,
-      "shine": 60,
-      "fingerComb": 60,
-      "rinse": 60,
-      "weight": 60,
-      "foam": 60,
-      "scalpDry": 60,
-      "scalpOily": 60,
-      "scalpSensitive": 60,
-      "scalpFlakes": 60
-    },
-    "diagnosisEligible": false,
-    "scoreStatus": "demo",
-    "dataStatus": "facts-verified-scores-demo",
-    "dataNote": "商品名・容量・価格・画像は公式情報を確認。適性スコアは未検証の中立値です。成分・香りの未確認項目は補完していません。 色補正用のため通常の診断対象外です。",
-    "sources": [
-      {
-        "url": "https://pluseau.jp/items/csp-m.html",
-        "label": "plus eau 公式商品情報",
-        "checkedAt": "2026-09-06"
-      }
-    ],
-    "checkedAt": "2026-09-06",
-    "imageType": "official",
-    "catalogBatch": "2026-09",
-    "originalImageUrl": "https://pluseau.jp/images/product/pluseau_csp-m.jpg",
-    "originalLocalImage": "assets/images/products/catalog/plus-csp-m.jpg"
-  },
-  {
-    "id": "plus-csp-p",
-    "brand": "plus eau",
-    "series": "カラーケア",
-    "name": "プリュスオー カラーシャンプー ピンク",
-    "kind": "shampoo",
-    "seriesId": "plus-csp-p",
-    "category": "drugstore",
-    "image": "assets/images/products/normalized/plus-csp-p.png",
-    "images": [
-      "assets/images/products/normalized/plus-csp-p.png"
-    ],
-    "shampoo": {
-      "name": "プリュスオー カラーシャンプー ピンク",
-      "price": 1760,
-      "volume": "280mL",
-      "ingredients": [],
-      "verifiedAt": "2026-09-06",
-      "sourceUrl": "https://pluseau.jp/items/csp-p.html",
-      "variants": []
-    },
-    "treatment": null,
-    "fragrance": {
-      "type": [],
-      "strength": null,
-      "label": "未確認",
-      "verified": false
-    },
-    "scores": {
-      "coarseHair": 60,
-      "fineHair": 60,
-      "curlyHair": 60,
-      "damageRepair": 60,
-      "smooth": 60,
-      "soft": 60,
-      "moist": 60,
-      "light": 60,
-      "manageable": 60,
-      "antiFrizz": 60,
-      "lowSqueak": 60,
-      "silky": 60,
-      "shine": 60,
-      "fingerComb": 60,
-      "rinse": 60,
-      "weight": 60,
-      "foam": 60,
-      "scalpDry": 60,
-      "scalpOily": 60,
-      "scalpSensitive": 60,
-      "scalpFlakes": 60
-    },
-    "diagnosisEligible": false,
-    "scoreStatus": "demo",
-    "dataStatus": "facts-verified-scores-demo",
-    "dataNote": "商品名・容量・価格・画像は公式情報を確認。適性スコアは未検証の中立値です。成分・香りの未確認項目は補完していません。 色補正用のため通常の診断対象外です。",
-    "sources": [
-      {
-        "url": "https://pluseau.jp/items/csp-p.html",
-        "label": "plus eau 公式商品情報",
-        "checkedAt": "2026-09-06"
-      }
-    ],
-    "checkedAt": "2026-09-06",
-    "imageType": "official",
-    "catalogBatch": "2026-09",
-    "originalImageUrl": "https://pluseau.jp/images/product/pluseau_csp-p.jpg",
-    "originalLocalImage": "assets/images/products/catalog/plus-csp-p.jpg"
-  },
-  {
-    "id": "plus-csp-s",
-    "brand": "plus eau",
-    "series": "カラーケア",
-    "name": "プリュスオー カラーシャンプー シルバー",
-    "kind": "shampoo",
-    "seriesId": "plus-csp-s",
-    "category": "drugstore",
-    "image": "assets/images/products/normalized/plus-csp-s.png",
-    "images": [
-      "assets/images/products/normalized/plus-csp-s.png"
-    ],
-    "shampoo": {
-      "name": "プリュスオー カラーシャンプー シルバー",
-      "price": 1760,
-      "volume": "280mL",
-      "ingredients": [],
-      "verifiedAt": "2026-09-06",
-      "sourceUrl": "https://pluseau.jp/items/csp-s.html",
-      "variants": []
-    },
-    "treatment": null,
-    "fragrance": {
-      "type": [],
-      "strength": null,
-      "label": "未確認",
-      "verified": false
-    },
-    "scores": {
-      "coarseHair": 60,
-      "fineHair": 60,
-      "curlyHair": 60,
-      "damageRepair": 60,
-      "smooth": 60,
-      "soft": 60,
-      "moist": 60,
-      "light": 60,
-      "manageable": 60,
-      "antiFrizz": 60,
-      "lowSqueak": 60,
-      "silky": 60,
-      "shine": 60,
-      "fingerComb": 60,
-      "rinse": 60,
-      "weight": 60,
-      "foam": 60,
-      "scalpDry": 60,
-      "scalpOily": 60,
-      "scalpSensitive": 60,
-      "scalpFlakes": 60
-    },
-    "diagnosisEligible": false,
-    "scoreStatus": "demo",
-    "dataStatus": "facts-verified-scores-demo",
-    "dataNote": "商品名・容量・価格・画像は公式情報を確認。適性スコアは未検証の中立値です。成分・香りの未確認項目は補完していません。 色補正用のため通常の診断対象外です。",
-    "sources": [
-      {
-        "url": "https://pluseau.jp/items/csp-s.html",
-        "label": "plus eau 公式商品情報",
-        "checkedAt": "2026-09-06"
-      }
-    ],
-    "checkedAt": "2026-09-06",
-    "imageType": "official",
-    "catalogBatch": "2026-09",
-    "originalImageUrl": "https://pluseau.jp/images/product/pluseau_csp-s.jpg",
-    "originalLocalImage": "assets/images/products/catalog/plus-csp-s.jpg"
+    "originalLocalImage": "assets/images/products/catalog/plus-rmj.jpg",
+    "catalogGroup": "リポア",
+    "catalogOrder": 2
   },
   {
     "id": "plus-csp-t",
@@ -1563,7 +1186,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://pluseau.jp/images/product/pluseau_csp-t.jpg",
-    "originalLocalImage": "assets/images/products/catalog/plus-csp-t.jpg"
+    "originalLocalImage": "assets/images/products/catalog/plus-csp-t.jpg",
+    "catalogGroup": "カラーケア",
+    "catalogOrder": 4
   },
   {
     "id": "botanist-moist-shampoo",
@@ -1631,7 +1256,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://botanistofficial.com/wp-content/themes/botanistofficial/assets/product/category/haircare/moist_shampoo.webp",
-    "originalLocalImage": "assets/images/products/catalog/botanist-moist-shampoo.webp"
+    "originalLocalImage": "assets/images/products/catalog/botanist-moist-shampoo.webp",
+    "catalogGroup": "モイスト",
+    "catalogOrder": 0
   },
   {
     "id": "botanist-moist-treatment",
@@ -1699,7 +1326,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://botanistofficial.com/wp-content/themes/botanistofficial/assets/product/category/haircare/moist_treatment.webp",
-    "originalLocalImage": "assets/images/products/catalog/botanist-moist-treatment.webp"
+    "originalLocalImage": "assets/images/products/catalog/botanist-moist-treatment.webp",
+    "catalogGroup": "モイスト",
+    "catalogOrder": 0
   },
   {
     "id": "botanist-smooth-shampoo",
@@ -1767,7 +1396,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://botanistofficial.com/wp-content/themes/botanistofficial/assets/product/category/haircare/smooth_shampoo.webp",
-    "originalLocalImage": "assets/images/products/catalog/botanist-smooth-shampoo.webp"
+    "originalLocalImage": "assets/images/products/catalog/botanist-smooth-shampoo.webp",
+    "catalogGroup": "スムース",
+    "catalogOrder": 1
   },
   {
     "id": "botanist-smooth-treatment",
@@ -1835,7 +1466,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://botanistofficial.com/wp-content/themes/botanistofficial/assets/product/category/haircare/smooth_treatment.webp",
-    "originalLocalImage": "assets/images/products/catalog/botanist-smooth-treatment.webp"
+    "originalLocalImage": "assets/images/products/catalog/botanist-smooth-treatment.webp",
+    "catalogGroup": "スムース",
+    "catalogOrder": 1
   },
   {
     "id": "botanist-damagecare-shampoo",
@@ -1903,7 +1536,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://botanistofficial.com/wp-content/themes/botanistofficial/assets/product/category/haircare/damagecare_shampoo.webp",
-    "originalLocalImage": "assets/images/products/catalog/botanist-damagecare-shampoo.webp"
+    "originalLocalImage": "assets/images/products/catalog/botanist-damagecare-shampoo.webp",
+    "catalogGroup": "ダメージケア",
+    "catalogOrder": 2
   },
   {
     "id": "botanist-damagecare-treatment",
@@ -1971,7 +1606,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://botanistofficial.com/wp-content/themes/botanistofficial/assets/product/category/haircare/damagecare_treatment.webp",
-    "originalLocalImage": "assets/images/products/catalog/botanist-damagecare-treatment.webp"
+    "originalLocalImage": "assets/images/products/catalog/botanist-damagecare-treatment.webp",
+    "catalogGroup": "ダメージケア",
+    "catalogOrder": 2
   },
   {
     "id": "botanist-scalpcleanse-shampoo",
@@ -2039,7 +1676,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://botanistofficial.com/wp-content/themes/botanistofficial/assets/product/category/haircare/scalpcleanse_shampoo.webp",
-    "originalLocalImage": "assets/images/products/catalog/botanist-scalpcleanse-shampoo.webp"
+    "originalLocalImage": "assets/images/products/catalog/botanist-scalpcleanse-shampoo.webp",
+    "catalogGroup": "スカルプクレンズ",
+    "catalogOrder": 3
   },
   {
     "id": "botanist-scalpcleanse-treatment",
@@ -2107,7 +1746,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://botanistofficial.com/wp-content/themes/botanistofficial/assets/product/category/haircare/scalpcleanse_treatment.webp",
-    "originalLocalImage": "assets/images/products/catalog/botanist-scalpcleanse-treatment.webp"
+    "originalLocalImage": "assets/images/products/catalog/botanist-scalpcleanse-treatment.webp",
+    "catalogGroup": "スカルプクレンズ",
+    "catalogOrder": 3
   },
   {
     "id": "botanist-bouncyvolume-shampoo",
@@ -2175,7 +1816,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://botanistofficial.com/wp-content/themes/botanistofficial/assets/product/category/haircare/bouncyvolume_shampoo.webp",
-    "originalLocalImage": "assets/images/products/catalog/botanist-bouncyvolume-shampoo.webp"
+    "originalLocalImage": "assets/images/products/catalog/botanist-bouncyvolume-shampoo.webp",
+    "catalogGroup": "バウンシーボリューム",
+    "catalogOrder": 4
   },
   {
     "id": "botanist-bouncyvolume-treatment",
@@ -2243,7 +1886,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://botanistofficial.com/wp-content/themes/botanistofficial/assets/product/category/haircare/bouncyvolume_treatment.webp",
-    "originalLocalImage": "assets/images/products/catalog/botanist-bouncyvolume-treatment.webp"
+    "originalLocalImage": "assets/images/products/catalog/botanist-bouncyvolume-treatment.webp",
+    "catalogGroup": "バウンシーボリューム",
+    "catalogOrder": 4
   },
   {
     "id": "botanist-santal-shampoo",
@@ -2311,7 +1956,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://botanistofficial.com/wp-content/themes/botanistofficial/assets/product/category/haircare/santal_shampoo.webp",
-    "originalLocalImage": "assets/images/products/catalog/botanist-santal-shampoo.webp"
+    "originalLocalImage": "assets/images/products/catalog/botanist-santal-shampoo.webp",
+    "catalogGroup": "サンタル",
+    "catalogOrder": 5
   },
   {
     "id": "botanist-santal-treatment",
@@ -2379,7 +2026,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://botanistofficial.com/wp-content/themes/botanistofficial/assets/product/category/haircare/santal_treatment.webp",
-    "originalLocalImage": "assets/images/products/catalog/botanist-santal-treatment.webp"
+    "originalLocalImage": "assets/images/products/catalog/botanist-santal-treatment.webp",
+    "catalogGroup": "サンタル",
+    "catalogOrder": 5
   },
   {
     "id": "botanist-rooth-shampoo",
@@ -2447,7 +2096,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://botanistofficial.com/wp-content/themes/botanistofficial/assets/product/category/haircare/rooth_shampoo.webp",
-    "originalLocalImage": "assets/images/products/catalog/botanist-rooth-shampoo.webp"
+    "originalLocalImage": "assets/images/products/catalog/botanist-rooth-shampoo.webp",
+    "catalogGroup": "ルース",
+    "catalogOrder": 6
   },
   {
     "id": "botanist-rooth-treatment",
@@ -2515,7 +2166,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://botanistofficial.com/wp-content/themes/botanistofficial/assets/product/category/haircare/rooth_treatment.webp",
-    "originalLocalImage": "assets/images/products/catalog/botanist-rooth-treatment.webp"
+    "originalLocalImage": "assets/images/products/catalog/botanist-rooth-treatment.webp",
+    "catalogGroup": "ルース",
+    "catalogOrder": 6
   },
   {
     "id": "botanist-mask-627",
@@ -2583,7 +2236,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://botanistofficial.com/wp-content/uploads/2024/12/%EF%BC%92_8_BOTA_BM_1000_1000.jpg",
-    "originalLocalImage": "assets/images/products/catalog/botanist-mask-627.jpg"
+    "originalLocalImage": "assets/images/products/catalog/botanist-mask-627.jpg",
+    "catalogGroup": "ヘアマスク",
+    "catalogOrder": 7
   },
   {
     "id": "botanist-mask-613",
@@ -2651,7 +2306,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://botanistofficial.com/wp-content/uploads/2024/12/%EF%BC%92_7_BOTA_BM_1000_1000.jpg",
-    "originalLocalImage": "assets/images/products/catalog/botanist-mask-613.jpg"
+    "originalLocalImage": "assets/images/products/catalog/botanist-mask-613.jpg",
+    "catalogGroup": "ヘアマスク",
+    "catalogOrder": 7
   },
   {
     "id": "yolu-calm-shampoo",
@@ -2719,7 +2376,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://yolu.jp/wp/wp-content/themes/original_theme/images/product/calm_night/shampoo_treatment/calm_sp.png",
-    "originalLocalImage": "assets/images/products/catalog/yolu-calm-shampoo.png"
+    "originalLocalImage": "assets/images/products/catalog/yolu-calm-shampoo.png",
+    "catalogGroup": "カームナイトリペア",
+    "catalogOrder": 0
   },
   {
     "id": "yolu-calm-treatment",
@@ -2787,7 +2446,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://yolu.jp/wp/wp-content/themes/original_theme/images/product/calm_night/shampoo_treatment/calm_tr.png",
-    "originalLocalImage": "assets/images/products/catalog/yolu-calm-treatment.png"
+    "originalLocalImage": "assets/images/products/catalog/yolu-calm-treatment.png",
+    "catalogGroup": "カームナイトリペア",
+    "catalogOrder": 0
   },
   {
     "id": "yolu-calm-mask",
@@ -2855,7 +2516,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://yolu.jp/wp/wp-content/themes/original_theme/images/product/calm_night/product-mask.png",
-    "originalLocalImage": "assets/images/products/catalog/yolu-calm-mask.png"
+    "originalLocalImage": "assets/images/products/catalog/yolu-calm-mask.png",
+    "catalogGroup": "カームナイトリペア",
+    "catalogOrder": 0
   },
   {
     "id": "yolu-relax-shampoo",
@@ -2923,7 +2586,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://yolu.jp/wp/wp-content/themes/original_theme/images/product/relax_night/shampoo_treatment/relax_sp.png",
-    "originalLocalImage": "assets/images/products/catalog/yolu-relax-shampoo.png"
+    "originalLocalImage": "assets/images/products/catalog/yolu-relax-shampoo.png",
+    "catalogGroup": "リラックスナイトリペア",
+    "catalogOrder": 1
   },
   {
     "id": "yolu-relax-treatment",
@@ -2991,7 +2656,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://yolu.jp/wp/wp-content/themes/original_theme/images/product/relax_night/shampoo_treatment/relax_tr.png",
-    "originalLocalImage": "assets/images/products/catalog/yolu-relax-treatment.png"
+    "originalLocalImage": "assets/images/products/catalog/yolu-relax-treatment.png",
+    "catalogGroup": "リラックスナイトリペア",
+    "catalogOrder": 1
   },
   {
     "id": "yolu-relax-mask",
@@ -3059,7 +2726,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://yolu.jp/wp/wp-content/themes/original_theme/images/product/relax_night/product-mask.png",
-    "originalLocalImage": "assets/images/products/catalog/yolu-relax-mask.png"
+    "originalLocalImage": "assets/images/products/catalog/yolu-relax-mask.png",
+    "catalogGroup": "リラックスナイトリペア",
+    "catalogOrder": 1
   },
   {
     "id": "yolu-deep-shampoo",
@@ -3127,7 +2796,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://yolu.jp/wp/wp-content/themes/original_theme/images/product/deep_night/shampoo_treatment/deep_sp.png",
-    "originalLocalImage": "assets/images/products/catalog/yolu-deep-shampoo.png"
+    "originalLocalImage": "assets/images/products/catalog/yolu-deep-shampoo.png",
+    "catalogGroup": "ディープナイトリペア",
+    "catalogOrder": 2
   },
   {
     "id": "yolu-deep-treatment",
@@ -3195,7 +2866,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://yolu.jp/wp/wp-content/themes/original_theme/images/product/deep_night/shampoo_treatment/deep_tr.png",
-    "originalLocalImage": "assets/images/products/catalog/yolu-deep-treatment.png"
+    "originalLocalImage": "assets/images/products/catalog/yolu-deep-treatment.png",
+    "catalogGroup": "ディープナイトリペア",
+    "catalogOrder": 2
   },
   {
     "id": "yolu-deep-mask",
@@ -3263,7 +2936,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://yolu.jp/wp/wp-content/themes/original_theme/images/product/deep_night/product-mask.png",
-    "originalLocalImage": "assets/images/products/catalog/yolu-deep-mask.png"
+    "originalLocalImage": "assets/images/products/catalog/yolu-deep-mask.png",
+    "catalogGroup": "ディープナイトリペア",
+    "catalogOrder": 2
   },
   {
     "id": "yolu-mellow-shampoo",
@@ -3331,7 +3006,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://yolu.jp/wp/wp-content/themes/original_theme/images/product/mellow_night/shampoo_treatment/mellow_sp.png",
-    "originalLocalImage": "assets/images/products/catalog/yolu-mellow-shampoo.png"
+    "originalLocalImage": "assets/images/products/catalog/yolu-mellow-shampoo.png",
+    "catalogGroup": "メロウナイトリペア",
+    "catalogOrder": 3
   },
   {
     "id": "yolu-mellow-treatment",
@@ -3399,7 +3076,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://yolu.jp/wp/wp-content/themes/original_theme/images/product/mellow_night/shampoo_treatment/mellow_tr.png",
-    "originalLocalImage": "assets/images/products/catalog/yolu-mellow-treatment.png"
+    "originalLocalImage": "assets/images/products/catalog/yolu-mellow-treatment.png",
+    "catalogGroup": "メロウナイトリペア",
+    "catalogOrder": 3
   },
   {
     "id": "yolu-mellow-mask",
@@ -3467,7 +3146,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://yolu.jp/wp/wp-content/themes/original_theme/images/product/mellow_night/product-mask.png",
-    "originalLocalImage": "assets/images/products/catalog/yolu-mellow-mask.png"
+    "originalLocalImage": "assets/images/products/catalog/yolu-mellow-mask.png",
+    "catalogGroup": "メロウナイトリペア",
+    "catalogOrder": 3
   },
   {
     "id": "cota-c37bc3a7f1",
@@ -3535,7 +3216,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://media.cota.co.jp/media/b8851fe5-f36d-4b3d-8630-ca60bbd1ff43.jpg",
-    "originalLocalImage": "assets/images/products/catalog/cota-c37bc3a7f1.jpg"
+    "originalLocalImage": "assets/images/products/catalog/cota-c37bc3a7f1.jpg",
+    "catalogGroup": "i CARE 1",
+    "catalogOrder": 0
   },
   {
     "id": "cota-d7d10c91e8",
@@ -3603,7 +3286,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://media.cota.co.jp/media/491c2dad-9d4e-46ac-a6f6-3ed0041da319.jpg",
-    "originalLocalImage": "assets/images/products/catalog/cota-d7d10c91e8.jpg"
+    "originalLocalImage": "assets/images/products/catalog/cota-d7d10c91e8.jpg",
+    "catalogGroup": "i CARE 3",
+    "catalogOrder": 1
   },
   {
     "id": "cota-73c066d45f",
@@ -3671,7 +3356,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://media.cota.co.jp/media/f3e54a37-7bb9-4250-8b18-c8367a0a7370.jpg",
-    "originalLocalImage": "assets/images/products/catalog/cota-73c066d45f.jpg"
+    "originalLocalImage": "assets/images/products/catalog/cota-73c066d45f.jpg",
+    "catalogGroup": "i CARE 5",
+    "catalogOrder": 2
   },
   {
     "id": "cota-ec0cb0d901",
@@ -3739,7 +3426,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://media.cota.co.jp/media/227b01fe-85d2-40df-b22b-d91759fb559a.jpg",
-    "originalLocalImage": "assets/images/products/catalog/cota-ec0cb0d901.jpg"
+    "originalLocalImage": "assets/images/products/catalog/cota-ec0cb0d901.jpg",
+    "catalogGroup": "i CARE 1",
+    "catalogOrder": 0
   },
   {
     "id": "cota-45656e78bc",
@@ -3807,7 +3496,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://media.cota.co.jp/media/65082084-8100-4a6f-89d4-fcd163972065.jpg",
-    "originalLocalImage": "assets/images/products/catalog/cota-45656e78bc.jpg"
+    "originalLocalImage": "assets/images/products/catalog/cota-45656e78bc.jpg",
+    "catalogGroup": "i CARE 3",
+    "catalogOrder": 1
   },
   {
     "id": "cota-edec76399a",
@@ -3875,7 +3566,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://media.cota.co.jp/media/20846dd4-740e-4bfe-9c10-8fdac136d429.jpg",
-    "originalLocalImage": "assets/images/products/catalog/cota-edec76399a.jpg"
+    "originalLocalImage": "assets/images/products/catalog/cota-edec76399a.jpg",
+    "catalogGroup": "i CARE 5",
+    "catalogOrder": 2
   },
   {
     "id": "cota-d89dec289e",
@@ -3943,7 +3636,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://media.cota.co.jp/media/55779dde-263c-4fff-8153-de42bead2c32.jpg",
-    "originalLocalImage": "assets/images/products/catalog/cota-d89dec289e.jpg"
+    "originalLocalImage": "assets/images/products/catalog/cota-d89dec289e.jpg",
+    "catalogGroup": "コタクチュール シルキー",
+    "catalogOrder": 5
   },
   {
     "id": "cota-70bae015c7",
@@ -4011,7 +3706,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://media.cota.co.jp/media/34ce48bc-4ff8-46aa-b763-cf29f91e4ac7.jpg",
-    "originalLocalImage": "assets/images/products/catalog/cota-70bae015c7.jpg"
+    "originalLocalImage": "assets/images/products/catalog/cota-70bae015c7.jpg",
+    "catalogGroup": "コタクチュール フランネル",
+    "catalogOrder": 6
   },
   {
     "id": "cota-22bc195a79",
@@ -4079,7 +3776,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://media.cota.co.jp/media/48aa29a3-96dd-46ca-b859-700f350f51d8.jpg",
-    "originalLocalImage": "assets/images/products/catalog/cota-22bc195a79.jpg"
+    "originalLocalImage": "assets/images/products/catalog/cota-22bc195a79.jpg",
+    "catalogGroup": "コタクチュール シルキー",
+    "catalogOrder": 5
   },
   {
     "id": "cota-5db83986ca",
@@ -4147,7 +3846,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://media.cota.co.jp/media/e2b5be72-6c47-49f8-8f7a-d55fd10dc62d.jpg",
-    "originalLocalImage": "assets/images/products/catalog/cota-5db83986ca.jpg"
+    "originalLocalImage": "assets/images/products/catalog/cota-5db83986ca.jpg",
+    "catalogGroup": "コタクチュール ベルベット",
+    "catalogOrder": 7
   },
   {
     "id": "cota-f007857a6e",
@@ -4215,7 +3916,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://media.cota.co.jp/media/f71138f3-5afd-41f9-9683-bc44a267d59d.jpg",
-    "originalLocalImage": "assets/images/products/catalog/cota-f007857a6e.jpg"
+    "originalLocalImage": "assets/images/products/catalog/cota-f007857a6e.jpg",
+    "catalogGroup": "コタクチュール フランネル",
+    "catalogOrder": 6
   },
   {
     "id": "cota-a55c93e5a9",
@@ -4283,7 +3986,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://media.cota.co.jp/media/bf13e39f-e2e6-4516-93f5-1a8e1da9cc65.jpg",
-    "originalLocalImage": "assets/images/products/catalog/cota-a55c93e5a9.jpg"
+    "originalLocalImage": "assets/images/products/catalog/cota-a55c93e5a9.jpg",
+    "catalogGroup": "コタクチュール ベルベット",
+    "catalogOrder": 7
   },
   {
     "id": "cota-621d575d91",
@@ -4351,7 +4056,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://media.cota.co.jp/media/7e2a172d-5f28-43f0-80cd-a81e4d33f212.jpg",
-    "originalLocalImage": "assets/images/products/catalog/cota-621d575d91.jpg"
+    "originalLocalImage": "assets/images/products/catalog/cota-621d575d91.jpg",
+    "catalogGroup": "コタエイジング",
+    "catalogOrder": 8
   },
   {
     "id": "cota-a67e361730",
@@ -4419,7 +4126,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://media.cota.co.jp/media/5c7ce6ad-b365-4133-991c-bba21838adbf.jpg",
-    "originalLocalImage": "assets/images/products/catalog/cota-a67e361730.jpg"
+    "originalLocalImage": "assets/images/products/catalog/cota-a67e361730.jpg",
+    "catalogGroup": "コタエイジング",
+    "catalogOrder": 8
   },
   {
     "id": "cota-bcac7735d0",
@@ -4487,7 +4196,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://media.cota.co.jp/media/88e57d13-d80a-4f30-ba5e-8343416b2664.jpg",
-    "originalLocalImage": "assets/images/products/catalog/cota-bcac7735d0.jpg"
+    "originalLocalImage": "assets/images/products/catalog/cota-bcac7735d0.jpg",
+    "catalogGroup": "コタセラ スパ",
+    "catalogOrder": 9
   },
   {
     "id": "cota-5cecd93a1c",
@@ -4555,7 +4266,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://media.cota.co.jp/media/5651db0d-bac9-4312-b2dd-9f4159682b10.jpg",
-    "originalLocalImage": "assets/images/products/catalog/cota-5cecd93a1c.jpg"
+    "originalLocalImage": "assets/images/products/catalog/cota-5cecd93a1c.jpg",
+    "catalogGroup": "コタセラ スパ",
+    "catalogOrder": 9
   },
   {
     "id": "cota-614d0917b0",
@@ -4623,7 +4336,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://media.cota.co.jp/media/2388adf8-344c-401a-8b34-5e4b05ea53c8.jpg",
-    "originalLocalImage": "assets/images/products/catalog/cota-614d0917b0.jpg"
+    "originalLocalImage": "assets/images/products/catalog/cota-614d0917b0.jpg",
+    "catalogGroup": "コタトリート プレミーク モイスチャー",
+    "catalogOrder": 11
   },
   {
     "id": "cota-05846b6e0e",
@@ -4691,7 +4406,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://media.cota.co.jp/media/0e2d1015-f2d6-4411-9d2b-6f9339138c31.jpg",
-    "originalLocalImage": "assets/images/products/catalog/cota-05846b6e0e.jpg"
+    "originalLocalImage": "assets/images/products/catalog/cota-05846b6e0e.jpg",
+    "catalogGroup": "コタトリート プレミーク エアリー",
+    "catalogOrder": 10
   },
   {
     "id": "cota-2c99c5e169",
@@ -4759,7 +4476,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://media.cota.co.jp/media/18cb9840-5ce3-4cdd-9ff4-73b5cca44231.jpg",
-    "originalLocalImage": "assets/images/products/catalog/cota-2c99c5e169.jpg"
+    "originalLocalImage": "assets/images/products/catalog/cota-2c99c5e169.jpg",
+    "catalogGroup": "コタクオリア エアリー",
+    "catalogOrder": 12
   },
   {
     "id": "cota-de476f3098",
@@ -4827,81 +4546,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://media.cota.co.jp/media/f84d51f4-665a-4145-832b-b63f4c6d17f7.jpg",
-    "originalLocalImage": "assets/images/products/catalog/cota-de476f3098.jpg"
-  },
-  {
-    "id": "kerastase-bain-ultra-violet",
-    "brand": "KERASTASE",
-    "series": "ブロンド アブソリュ",
-    "name": "ケラスターゼ バン ブロンドアブソリュ （色素入り）",
-    "kind": "shampoo",
-    "seriesId": "kerastase-bain-ultra-violet",
-    "category": "salon",
-    "image": "assets/images/products/normalized/kerastase-bain-ultra-violet.png",
-    "images": [
-      "assets/images/products/normalized/kerastase-bain-ultra-violet.png"
-    ],
-    "shampoo": {
-      "name": "ケラスターゼ バン ブロンドアブソリュ （色素入り）",
-      "price": 4180,
-      "volume": "250ml",
-      "ingredients": [],
-      "verifiedAt": "2026-09-06",
-      "sourceUrl": "https://www.kerastase.jp/products/blond-absolu/bain-ultra-violet",
-      "variants": [
-        {
-          "volume": "250ml",
-          "price": 4180,
-          "type": "bottle"
-        }
-      ]
-    },
-    "treatment": null,
-    "fragrance": {
-      "type": [],
-      "strength": null,
-      "label": "未確認",
-      "verified": false
-    },
-    "scores": {
-      "coarseHair": 60,
-      "fineHair": 60,
-      "curlyHair": 60,
-      "damageRepair": 60,
-      "smooth": 60,
-      "soft": 60,
-      "moist": 60,
-      "light": 60,
-      "manageable": 60,
-      "antiFrizz": 60,
-      "lowSqueak": 60,
-      "silky": 60,
-      "shine": 60,
-      "fingerComb": 60,
-      "rinse": 60,
-      "weight": 60,
-      "foam": 60,
-      "scalpDry": 60,
-      "scalpOily": 60,
-      "scalpSensitive": 60,
-      "scalpFlakes": 60
-    },
-    "diagnosisEligible": false,
-    "scoreStatus": "demo",
-    "dataStatus": "facts-verified-scores-demo",
-    "dataNote": "商品名・容量・価格・画像は公式情報を確認。適性スコアは未検証の中立値です。成分・香りの未確認項目は補完していません。 色補正用のため通常の診断対象外です。",
-    "sources": [
-      {
-        "url": "https://www.kerastase.jp/products/blond-absolu/bain-ultra-violet",
-        "label": "KERASTASE 公式商品情報",
-        "checkedAt": "2026-09-06"
-      }
-    ],
-    "checkedAt": "2026-09-06",
-    "imageType": "official",
-    "catalogBatch": "2026-09",
-    "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/blond-absolu/packshots/1krastaseblondabsolubainuv250mlrectohd.jpg?rev=5e5d6d6bc7fe485eac538a7987db36d8",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-ultra-violet.jpg"
+    "originalLocalImage": "assets/images/products/catalog/cota-de476f3098.jpg",
+    "catalogGroup": "コタクオリア モイスチャー",
+    "catalogOrder": 13
   },
   {
     "id": "kerastase-bain-lumiere",
@@ -4985,7 +4632,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/blond-absolu/packshots/2krastaseblondabsolubainlumiere250mlrectohd.jpg?rev=f6a97155639940eca3d9e08db61d09bc",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-lumiere.jpg"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-lumiere.jpg",
+    "catalogGroup": "ブロンド アブソリュ"
   },
   {
     "id": "kerastase-bainchromarespect",
@@ -5069,7 +4717,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/chroma-absolu/pdp1-chromaabsolu-bainchromarespect.png?rev=5c85150cfb12474db3745f1c4c686fee",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-bainchromarespect.png"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-bainchromarespect.png",
+    "catalogGroup": "クロマアブソリュ"
   },
   {
     "id": "kerastase-bainrichechromarespect",
@@ -5153,7 +4802,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/chroma-absolu/kerastase-21--chroma-absolu--all-format--bain-riche-sans-sulfate--250ml--transparent--recto--ec2-dbd.png?rev=f3ea4e103926444582dcd4b288840a59",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-bainrichechromarespect.png"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-bainrichechromarespect.png",
+    "catalogGroup": "クロマアブソリュ"
   },
   {
     "id": "kerastase-bain-chronologiste",
@@ -5237,7 +4887,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/chronologiste/packshots/update/new/kerastase-chronologiste-bain-regenerant-250ml.jpg?rev=fc56c3c11aef4567ac8da0a5ce6bf0dc",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-chronologiste.jpg"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-chronologiste.jpg",
+    "catalogGroup": "クロノロジスト"
   },
   {
     "id": "kerastase-bain-densifique",
@@ -5321,7 +4972,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/densifique/packshots/femme/bain-densite-densifique-250ml-01-kerastase.png?rev=565ac04852f44328a7274a880f118513",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-densifique.png"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-densifique.png",
+    "catalogGroup": "デンシフィック"
   },
   {
     "id": "kerastase-bain-hydra-fortifiant",
@@ -5405,7 +5057,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/genesis/packshots/pdp1.jpg?rev=5b2701426cde493fb6e1277e6bfdad16",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-hydra-fortifiant.jpg"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-hydra-fortifiant.jpg",
+    "catalogGroup": "ジェネシス"
   },
   {
     "id": "kerastase-bain-creme-hydra-glaze",
@@ -5494,7 +5147,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/gloss-absolu/packshots/3474637308728-gloss-absolu-bain-250ml-01-kerastase.jpg?rev=9840e5ae121c479a8e53dcd9387d5c6a",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-creme-hydra-glaze.jpg"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-creme-hydra-glaze.jpg",
+    "catalogGroup": "グロスアブソリュ"
   },
   {
     "id": "kerastase-bain-satin",
@@ -5568,7 +5222,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/nutritive/packshots/nutritive_2023_bain-satin_packshot.png?rev=cf85ff83a25b49d69c9abf2a4bed8e9c",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-satin.png"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-satin.png",
+    "catalogGroup": "ニュートリティブ"
   },
   {
     "id": "kerastase-bain-extentioniste",
@@ -5647,7 +5302,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/resistance/packshots/product-bain-extentioniste-v2-kerastase.png?rev=05bf117beccf499f846aea809613f021",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-extentioniste.png"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-extentioniste.png",
+    "catalogGroup": "レジスタンス"
   },
   {
     "id": "kerastase-bain-fluidealiste-1",
@@ -5721,7 +5377,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/discipline/packshots/bain-fluidealiste-discipline-250ml-01-kerastase.png?rev=0977253fe7dc4f6283b1557bf3896f8a",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-fluidealiste-1.png"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-fluidealiste-1.png",
+    "catalogGroup": "ディシプリン"
   },
   {
     "id": "kerastase-bain-satin-riche",
@@ -5800,7 +5457,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/nutritive/packshots/nutritive_2023_bain-satin-riche_250ml_packshot.png?rev=311fe8f52e3e4b558abd0ecced33da2f",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-satin-riche.png"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-satin-riche.png",
+    "catalogGroup": "ニュートリティブ"
   },
   {
     "id": "kerastase-bain-de-force-n",
@@ -5884,7 +5542,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/resistance/packshots/bain-de-force-architecte-resistance-250ml-02.jpg?rev=a0876fa0607a49efacfb224346be9a33",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-de-force-n.jpg"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-de-force-n.jpg",
+    "catalogGroup": "レジスタンス"
   },
   {
     "id": "kerastase-argile-equilibrante",
@@ -5958,7 +5617,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/specifique/packshots/pdp2.jpg?rev=6d42c51f6b6349f8a6387d85b3cfbe50",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-argile-equilibrante.jpg"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-argile-equilibrante.jpg",
+    "catalogGroup": "スペシフィック"
   },
   {
     "id": "kerastase-bain-sensidote",
@@ -6032,7 +5692,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/specifique/packshots/bain-vital-dermo-calm-specifique-250ml-01-kerastase.png?rev=1970ab942a75495795363c16dfa5eb3b",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-sensidote.png"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-sensidote.png",
+    "catalogGroup": "スペシフィック"
   },
   {
     "id": "kerastase-bain-prevention-rx",
@@ -6106,7 +5767,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/specifique/packshots/ker_specifique_3474636397433_packshot.png?rev=5557619193254b0a9c0ecfba223fc3a5",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-prevention-rx.png"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-prevention-rx.png",
+    "catalogGroup": "スペシフィック"
   },
   {
     "id": "kerastase-bain-divalent",
@@ -6190,7 +5852,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/specifique/packshots/kerastase20specifiquegammebainflacon250mlec2dbd11.png?rev=131c00e1338c4da0a632a70d7422b210",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-divalent.png"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-divalent.png",
+    "catalogGroup": "スペシフィック"
   },
   {
     "id": "kerastase-cicaflash",
@@ -6264,7 +5927,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/blond-absolu/packshots/3krastaseblondabsolucicaflash250mlrectohd.jpg?rev=a781a89991d340ba940707f6a5a2edb3",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-cicaflash.jpg"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-cicaflash.jpg",
+    "catalogGroup": "ブロンド アブソリュ"
   },
   {
     "id": "kerastase-bain-densifique-homme",
@@ -6338,7 +6002,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/densifique/packshots/homme/bain-densite-homme-densifique-120ml-01-kerastase.png?rev=de8fef6f45f24a3ab92b70a87f8a00a3",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-densifique-homme.png"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-densifique-homme.png",
+    "catalogGroup": "デンシフィック"
   },
   {
     "id": "kerastase-bain-nutri-fortifiant",
@@ -6422,7 +6087,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/genesis/packshots/pdp2.jpg?rev=7489b36719b84c319dd47be59120dfb4",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-nutri-fortifiant.jpg"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-nutri-fortifiant.jpg",
+    "catalogGroup": "ジェネシス"
   },
   {
     "id": "kerastase-masque-filler-reparateur",
@@ -6496,7 +6162,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/premiere/masque-filler-reparateur/premiere2-min.jpg?rev=d56b0db947b547f8abe7efbbc15d097e",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-masque-filler-reparateur.jpg"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-masque-filler-reparateur.jpg",
+    "catalogGroup": "プルミエール"
   },
   {
     "id": "kerastase-fondant-fluidite-reparateur",
@@ -6570,7 +6237,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/premiere/fondant-fluidite-reparateur/premiere.jpg?rev=4ee8310ab34c4fd497221d5f2232eace",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-fondant-fluidite-reparateur.jpg"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-fondant-fluidite-reparateur.jpg",
+    "catalogGroup": "プルミエール"
   },
   {
     "id": "kerastase-bain-decalcifiant-reparateur",
@@ -6654,7 +6322,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/premiere/bain-decalcifiant-reparateur/premiere.jpg?rev=6d02e0cfdd304cdf88930d01e59f6d44",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-decalcifiant-reparateur.jpg"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-bain-decalcifiant-reparateur.jpg",
+    "catalogGroup": "プルミエール"
   },
   {
     "id": "kerastase-concentre-decalcifiant-ultra-reparateur",
@@ -6728,7 +6397,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/premiere/concentre-decalcifiant-ultra-reparateur/premiere.jpg?rev=756b5823cd0349be9747cd631dca3218",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-concentre-decalcifiant-ultra-reparateur.jpg"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-concentre-decalcifiant-ultra-reparateur.jpg",
+    "catalogGroup": "プルミエール"
   },
   {
     "id": "kerastase-masque-ultra-violet",
@@ -6802,7 +6472,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/blond-absolu/packshots/5krastaseblondabsolumasqueuvpot200mlrectohd.jpg?rev=f71871779e6643529bc7dc4b45770020",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-masque-ultra-violet.jpg"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-masque-ultra-violet.jpg",
+    "catalogGroup": "ブロンド アブソリュ"
   },
   {
     "id": "kerastase-masque-cicaextreme",
@@ -6876,7 +6547,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/blond-absolu/packshots/kerastase-masque-cicaextreme-3.jpg?rev=88ebf76e374a44f5b3d3df03d0ffeb42",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-masque-cicaextreme.jpg"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-masque-cicaextreme.jpg",
+    "catalogGroup": "ブロンド アブソリュ"
   },
   {
     "id": "kerastase-fondantcicachroma",
@@ -6950,7 +6622,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/chroma-absolu/pdp3---chroma-absolu--fondantcicachroma.png?rev=b15b4c8cc44542ea99718b54f8385277",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-fondantcicachroma.png"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-fondantcicachroma.png",
+    "catalogGroup": "クロマアブソリュ"
   },
   {
     "id": "kerastase-masquechromafiller",
@@ -7024,7 +6697,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/chroma-absolu/pdp4---chroma-absolu---masquechromafiller.jpg?rev=29f2dc9eecdc4687bd424fd8b7a4e2b2",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-masquechromafiller.jpg"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-masquechromafiller.jpg",
+    "catalogGroup": "クロマアブソリュ"
   },
   {
     "id": "kerastase-soinacidchromagloss",
@@ -7098,7 +6772,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/chroma-absolu/kerastase-21--chroma-absolu--all-format--soin-acide--210ml--recto--ec1-dbd.png?rev=f891d9ff457548cf8c173f3eaca4e27b",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-soinacidchromagloss.png"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-soinacidchromagloss.png",
+    "catalogGroup": "クロマアブソリュ"
   },
   {
     "id": "kerastase-fondant-fluidealiste",
@@ -7172,7 +6847,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/discipline/packshots/fondant-fluidealiste-discipline-200ml-01-kerastase.png?rev=b4e2dc82dc024b2c9e0c887efba08edf",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-fondant-fluidealiste.png"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-fondant-fluidealiste.png",
+    "catalogGroup": "ディシプリン"
   },
   {
     "id": "kerastase-fondant-oleo-relax",
@@ -7246,7 +6922,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/discipline/packshots/pdp-fondant-oleo-relax-200ml-kerastase.jpg?rev=2dadf957715e43a18db8ba1ae676fd00",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-fondant-oleo-relax.jpg"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-fondant-oleo-relax.jpg",
+    "catalogGroup": "ディシプリン"
   },
   {
     "id": "kerastase-lait-vital",
@@ -7320,7 +6997,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/nutritive/packshots/nutritive_2023_lait-vital_200ml_packshot.png?rev=aa128c79d10a4a9a8a206cee24f94016",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-lait-vital.png"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-lait-vital.png",
+    "catalogGroup": "ニュートリティブ"
   },
   {
     "id": "kerastase-masquintense",
@@ -7394,7 +7072,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/nutritive/packshots/ker_nutritive_2023_masquintense-riche_200ml_packshot_ec7_3474637155001.png?rev=ebdc7b678a6e4cb0868cfd13a0a00ec1",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-masquintense.png"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-masquintense.png",
+    "catalogGroup": "ニュートリティブ"
   },
   {
     "id": "kerastase-fondant-extentioniste",
@@ -7468,7 +7147,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/resistance/packshots/product-fondant-extentioniste-v2-kerastase.png?rev=31672c9887674176826855bcc9233e65",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-fondant-extentioniste.png"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-fondant-extentioniste.png",
+    "catalogGroup": "レジスタンス"
   },
   {
     "id": "kerastase-mask-chronologiste",
@@ -7547,7 +7227,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/chronologiste/packshots/update/new/mask-chronoligste.jpg?rev=f1cd6d6abae14ef38c2f8fe14de77529",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-mask-chronologiste.jpg"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-mask-chronologiste.jpg",
+    "catalogGroup": "クロノロジスト"
   },
   {
     "id": "kerastase-fondant-densifique",
@@ -7621,7 +7302,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/densifique/packshots/ds-017.png?rev=65c1d124b1c7468a92d37b72755fe4c9",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-fondant-densifique.png"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-fondant-densifique.png",
+    "catalogGroup": "デンシフィック"
   },
   {
     "id": "kerastase-mask-densite",
@@ -7695,7 +7377,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/densifique/packshots/femme/masque-densite-densifique-200ml-01-kerastase.png?rev=2553f00da0904119b4a90fd066445082",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-mask-densite.png"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-mask-densite.png",
+    "catalogGroup": "デンシフィック"
   },
   {
     "id": "kerastase-fondant-renforcateur",
@@ -7769,7 +7452,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/genesis/packshots/pdp3.jpg?rev=dab41d31285b4eb2a3009c9d0de1e8c7",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-fondant-renforcateur.jpg"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-fondant-renforcateur.jpg",
+    "catalogGroup": "ジェネシス"
   },
   {
     "id": "kerastase-masque-reconstituant",
@@ -7843,7 +7527,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/genesis/packshots/kerastase19genesispot200mlmasquereconstituantec1dhd.jpg?rev=2de292ff36e341468931535213fbd746",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-masque-reconstituant.jpg"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-masque-reconstituant.jpg",
+    "catalogGroup": "ジェネシス"
   },
   {
     "id": "kerastase-masque-creme-hydra-glaze",
@@ -7922,7 +7607,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/gloss-absolu/packshots/3474637308728-gloss-absolu-masque-200ml-01-kerastase.jpg?rev=07037794e743428a82229175df8db27f",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-masque-creme-hydra-glaze.jpg"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-masque-creme-hydra-glaze.jpg",
+    "catalogGroup": "グロスアブソリュ"
   },
   {
     "id": "kerastase-insta-glaze",
@@ -8001,7 +7687,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/gloss-absolu/packshots/3474637283421-gloss-absolu-insta-glaze-250ml-01-kerastase.jpg?rev=12b55fe7931f44e2b99897bddaf05bfd",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-insta-glaze.jpg"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-insta-glaze.jpg",
+    "catalogGroup": "グロスアブソリュ"
   },
   {
     "id": "kerastase-soin-de-force",
@@ -8075,7 +7762,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/resistance/packshots/ciment-anti-usure-resistance-200ml-01-kerastase.png?rev=54a650368012499abc4244365681918d",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-soin-de-force.png"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-soin-de-force.png",
+    "catalogGroup": "レジスタンス"
   },
   {
     "id": "kerastase-mask-extentioniste",
@@ -8149,7 +7837,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/resistance/packshots/product-masque-extentioniste-v2-kerastase.png?rev=db1957d6434244f9a64385409a35b46d",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-mask-extentioniste.png"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-mask-extentioniste.png",
+    "catalogGroup": "レジスタンス"
   },
   {
     "id": "kerastase-masque-force-architecte",
@@ -8223,7 +7912,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/resistance/packshots/masque-force-architecte-resistance-200ml-01-kerastase.png?rev=54cc25dbc8304be288962d7e00afc4ea",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-masque-force-architecte.png"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-masque-force-architecte.png",
+    "catalogGroup": "レジスタンス"
   },
   {
     "id": "kerastase-mask-therapiste",
@@ -8297,7 +7987,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/resistance/packshots/masque-therapiste-resistance-200ml-01-kerastase.png?rev=e820ed967bd34dcb96dd9f131e9948d3",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-mask-therapiste.png"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-mask-therapiste.png",
+    "catalogGroup": "レジスタンス"
   },
   {
     "id": "kerastase-mask-rehydratant",
@@ -8371,7 +8062,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/specifique/packshots/pdp3.jpg?rev=d8dcf1e4a6c54f5d84d2beee95604996",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-mask-rehydratant.jpg"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-mask-rehydratant.jpg",
+    "catalogGroup": "スペシフィック"
   },
   {
     "id": "kerastase-masque-hydra-apaisant",
@@ -8445,7 +8137,8 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.kerastase.jp/-/media/project/loreal/brand-sites/kerastase/apac/jp/products/specifique/packshots/masque-hydra-apaisant-specifique-200ml-01-kerastase.png?rev=dd3642160de84374b2f5315b58f3c63e",
-    "originalLocalImage": "assets/images/products/catalog/kerastase-masque-hydra-apaisant.png"
+    "originalLocalImage": "assets/images/products/catalog/kerastase-masque-hydra-apaisant.png",
+    "catalogGroup": "スペシフィック"
   },
   {
     "id": "honey-deep-shampoo",
@@ -8513,7 +8206,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.and-honey.com/img/deep/product/img-shampoo.png",
-    "originalLocalImage": "assets/images/products/catalog/honey-deep-shampoo.png"
+    "originalLocalImage": "assets/images/products/catalog/honey-deep-shampoo.png",
+    "catalogGroup": "ディープモイスト",
+    "catalogOrder": 0
   },
   {
     "id": "honey-deep-treatment",
@@ -8581,7 +8276,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.and-honey.com/img/deep/product/img-treatment.png",
-    "originalLocalImage": "assets/images/products/catalog/honey-deep-treatment.png"
+    "originalLocalImage": "assets/images/products/catalog/honey-deep-treatment.png",
+    "catalogGroup": "ディープモイスト",
+    "catalogOrder": 0
   },
   {
     "id": "honey-deep-hairpack",
@@ -8649,7 +8346,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.and-honey.com/img/deep/product/img-hairpack.png",
-    "originalLocalImage": "assets/images/products/catalog/honey-deep-hairpack.png"
+    "originalLocalImage": "assets/images/products/catalog/honey-deep-hairpack.png",
+    "catalogGroup": "ディープモイスト",
+    "catalogOrder": 0
   },
   {
     "id": "honey-melty-shampoo",
@@ -8717,7 +8416,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.and-honey.com/img/melty/product/img-shampoo.png",
-    "originalLocalImage": "assets/images/products/catalog/honey-melty-shampoo.png"
+    "originalLocalImage": "assets/images/products/catalog/honey-melty-shampoo.png",
+    "catalogGroup": "メルティ モイストリペア",
+    "catalogOrder": 1
   },
   {
     "id": "honey-melty-treatment",
@@ -8785,7 +8486,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.and-honey.com/img/melty/product/img-treatment.png",
-    "originalLocalImage": "assets/images/products/catalog/honey-melty-treatment.png"
+    "originalLocalImage": "assets/images/products/catalog/honey-melty-treatment.png",
+    "catalogGroup": "メルティ モイストリペア",
+    "catalogOrder": 1
   },
   {
     "id": "honey-melty-hairpack",
@@ -8853,7 +8556,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.and-honey.com/img/melty/product/img-hairpack.png",
-    "originalLocalImage": "assets/images/products/catalog/honey-melty-hairpack.png"
+    "originalLocalImage": "assets/images/products/catalog/honey-melty-hairpack.png",
+    "catalogGroup": "メルティ モイストリペア",
+    "catalogOrder": 1
   },
   {
     "id": "honey-milky-shampoo",
@@ -8921,7 +8626,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.and-honey.com/img/milky/product/item/shampoo.png",
-    "originalLocalImage": "assets/images/products/catalog/honey-milky-shampoo.png"
+    "originalLocalImage": "assets/images/products/catalog/honey-milky-shampoo.png",
+    "catalogGroup": "ミルキー プレシャス EX リペア",
+    "catalogOrder": 2
   },
   {
     "id": "honey-milky-treatment",
@@ -8989,7 +8696,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.and-honey.com/img/milky/product/item/treatment.png",
-    "originalLocalImage": "assets/images/products/catalog/honey-milky-treatment.png"
+    "originalLocalImage": "assets/images/products/catalog/honey-milky-treatment.png",
+    "catalogGroup": "ミルキー プレシャス EX リペア",
+    "catalogOrder": 2
   },
   {
     "id": "honey-milky-hairpack",
@@ -9057,7 +8766,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.and-honey.com/img/milky/product/item/hairpack.png",
-    "originalLocalImage": "assets/images/products/catalog/honey-milky-hairpack.png"
+    "originalLocalImage": "assets/images/products/catalog/honey-milky-hairpack.png",
+    "catalogGroup": "ミルキー プレシャス EX リペア",
+    "catalogOrder": 2
   },
   {
     "id": "honey-rich-shampoo",
@@ -9262,7 +8973,9 @@
         223,
         45
       ]
-    ]
+    ],
+    "catalogGroup": "リッチ リュクスリペア",
+    "catalogOrder": 3
   },
   {
     "id": "honey-rich-treatment",
@@ -9471,211 +9184,9 @@
         347,
         46
       ]
-    ]
-  },
-  {
-    "id": "honey-color-pink",
-    "brand": "&honey",
-    "series": "カラフル",
-    "name": "アンドハニー カラフル カラーシャンプー チェリーピンク",
-    "kind": "shampoo",
-    "seriesId": "honey-color-pink",
-    "category": "drugstore",
-    "image": "assets/images/products/normalized/honey-color-pink.png",
-    "images": [
-      "assets/images/products/normalized/honey-color-pink.png"
     ],
-    "shampoo": {
-      "name": "アンドハニー カラフル カラーシャンプー チェリーピンク",
-      "price": 1650,
-      "volume": "250mL",
-      "ingredients": [],
-      "verifiedAt": "2026-09-06",
-      "sourceUrl": "https://www.and-honey.com/colorful/",
-      "variants": []
-    },
-    "treatment": null,
-    "fragrance": {
-      "type": [],
-      "strength": null,
-      "label": "ピュアローズハニーの香り",
-      "verified": true
-    },
-    "scores": {
-      "coarseHair": 60,
-      "fineHair": 60,
-      "curlyHair": 60,
-      "damageRepair": 60,
-      "smooth": 60,
-      "soft": 60,
-      "moist": 60,
-      "light": 60,
-      "manageable": 60,
-      "antiFrizz": 60,
-      "lowSqueak": 60,
-      "silky": 60,
-      "shine": 60,
-      "fingerComb": 60,
-      "rinse": 60,
-      "weight": 60,
-      "foam": 60,
-      "scalpDry": 60,
-      "scalpOily": 60,
-      "scalpSensitive": 60,
-      "scalpFlakes": 60
-    },
-    "diagnosisEligible": false,
-    "scoreStatus": "demo",
-    "dataStatus": "facts-verified-scores-demo",
-    "dataNote": "商品名・容量・価格・画像は公式情報を確認。適性スコアは未検証の中立値です。成分・香りの未確認項目は補完していません。 色補正用のため通常の診断対象外です。",
-    "sources": [
-      {
-        "url": "https://www.and-honey.com/colorful/",
-        "label": "&honey 公式商品情報",
-        "checkedAt": "2026-09-06"
-      }
-    ],
-    "checkedAt": "2026-09-06",
-    "imageType": "official",
-    "catalogBatch": "2026-09",
-    "originalImageUrl": "https://www.and-honey.com/colorful/img/item-pink.png",
-    "originalLocalImage": "assets/images/products/catalog/honey-color-pink.png"
-  },
-  {
-    "id": "honey-color-beige",
-    "brand": "&honey",
-    "series": "カラフル",
-    "name": "アンドハニー カラフル カラーシャンプー ミルクティーベージュ",
-    "kind": "shampoo",
-    "seriesId": "honey-color-beige",
-    "category": "drugstore",
-    "image": "assets/images/products/normalized/honey-color-beige.png",
-    "images": [
-      "assets/images/products/normalized/honey-color-beige.png"
-    ],
-    "shampoo": {
-      "name": "アンドハニー カラフル カラーシャンプー ミルクティーベージュ",
-      "price": 1650,
-      "volume": "250mL",
-      "ingredients": [],
-      "verifiedAt": "2026-09-06",
-      "sourceUrl": "https://www.and-honey.com/colorful/",
-      "variants": []
-    },
-    "treatment": null,
-    "fragrance": {
-      "type": [],
-      "strength": null,
-      "label": "ピュアローズハニーの香り",
-      "verified": true
-    },
-    "scores": {
-      "coarseHair": 60,
-      "fineHair": 60,
-      "curlyHair": 60,
-      "damageRepair": 60,
-      "smooth": 60,
-      "soft": 60,
-      "moist": 60,
-      "light": 60,
-      "manageable": 60,
-      "antiFrizz": 60,
-      "lowSqueak": 60,
-      "silky": 60,
-      "shine": 60,
-      "fingerComb": 60,
-      "rinse": 60,
-      "weight": 60,
-      "foam": 60,
-      "scalpDry": 60,
-      "scalpOily": 60,
-      "scalpSensitive": 60,
-      "scalpFlakes": 60
-    },
-    "diagnosisEligible": false,
-    "scoreStatus": "demo",
-    "dataStatus": "facts-verified-scores-demo",
-    "dataNote": "商品名・容量・価格・画像は公式情報を確認。適性スコアは未検証の中立値です。成分・香りの未確認項目は補完していません。 色補正用のため通常の診断対象外です。",
-    "sources": [
-      {
-        "url": "https://www.and-honey.com/colorful/",
-        "label": "&honey 公式商品情報",
-        "checkedAt": "2026-09-06"
-      }
-    ],
-    "checkedAt": "2026-09-06",
-    "imageType": "official",
-    "catalogBatch": "2026-09",
-    "originalImageUrl": "https://www.and-honey.com/colorful/img/item-beige.png",
-    "originalLocalImage": "assets/images/products/catalog/honey-color-beige.png"
-  },
-  {
-    "id": "honey-color-pp",
-    "brand": "&honey",
-    "series": "カラフル",
-    "name": "アンドハニー カラフル カラーシャンプー ラベンダーパープル",
-    "kind": "shampoo",
-    "seriesId": "honey-color-pp",
-    "category": "drugstore",
-    "image": "assets/images/products/normalized/honey-color-pp.png",
-    "images": [
-      "assets/images/products/normalized/honey-color-pp.png"
-    ],
-    "shampoo": {
-      "name": "アンドハニー カラフル カラーシャンプー ラベンダーパープル",
-      "price": 1650,
-      "volume": "250mL",
-      "ingredients": [],
-      "verifiedAt": "2026-09-06",
-      "sourceUrl": "https://www.and-honey.com/colorful/",
-      "variants": []
-    },
-    "treatment": null,
-    "fragrance": {
-      "type": [],
-      "strength": null,
-      "label": "ピュアローズハニーの香り",
-      "verified": true
-    },
-    "scores": {
-      "coarseHair": 60,
-      "fineHair": 60,
-      "curlyHair": 60,
-      "damageRepair": 60,
-      "smooth": 60,
-      "soft": 60,
-      "moist": 60,
-      "light": 60,
-      "manageable": 60,
-      "antiFrizz": 60,
-      "lowSqueak": 60,
-      "silky": 60,
-      "shine": 60,
-      "fingerComb": 60,
-      "rinse": 60,
-      "weight": 60,
-      "foam": 60,
-      "scalpDry": 60,
-      "scalpOily": 60,
-      "scalpSensitive": 60,
-      "scalpFlakes": 60
-    },
-    "diagnosisEligible": false,
-    "scoreStatus": "demo",
-    "dataStatus": "facts-verified-scores-demo",
-    "dataNote": "商品名・容量・価格・画像は公式情報を確認。適性スコアは未検証の中立値です。成分・香りの未確認項目は補完していません。 色補正用のため通常の診断対象外です。",
-    "sources": [
-      {
-        "url": "https://www.and-honey.com/colorful/",
-        "label": "&honey 公式商品情報",
-        "checkedAt": "2026-09-06"
-      }
-    ],
-    "checkedAt": "2026-09-06",
-    "imageType": "official",
-    "catalogBatch": "2026-09",
-    "originalImageUrl": "https://www.and-honey.com/colorful/img/item-pp.png",
-    "originalLocalImage": "assets/images/products/catalog/honey-color-pp.png"
+    "catalogGroup": "リッチ リュクスリペア",
+    "catalogOrder": 3
   },
   {
     "id": "honey-pro-booster",
@@ -9742,7 +9253,9 @@
     "imageType": "official",
     "catalogBatch": "2026-09",
     "originalImageUrl": "https://www.and-honey.com/pro/img/top/img-treatment_1_5.png",
-    "originalLocalImage": "assets/images/products/catalog/honey-pro-booster.png"
+    "originalLocalImage": "assets/images/products/catalog/honey-pro-booster.png",
+    "catalogGroup": "Professional System Repair",
+    "catalogOrder": 4
   },
   {
     "id": "honey-precious-pack",
@@ -9874,6 +9387,8 @@
         119,
         291
       ]
-    ]
+    ],
+    "catalogGroup": "プレシャス リペア",
+    "catalogOrder": 5
   }
 ]
