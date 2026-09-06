@@ -1,0 +1,10 @@
+import fs from 'node:fs/promises';import {chromeSession} from './chrome-session.mjs';
+const products=JSON.parse(await fs.readFile('data/products.json','utf8'));const c=await chromeSession();
+try{await c.send('Page.navigate',{url:'http://127.0.0.1:4173'});await new Promise(r=>setTimeout(r,500));
+ for(const p of products.filter(p=>p.catalogBatch)){
+  const src=p.image.includes('/normalized/')?p.originalLocalImage:p.image;
+  const result=await c.evaluate(`(async()=>{let img=new Image();img.src=${JSON.stringify('/'+src)};await img.decode();const outline=${JSON.stringify(p.imageOutline||null)};if(outline){const pre=document.createElement('canvas');pre.width=img.width;pre.height=img.height;const pc=pre.getContext('2d');pc.beginPath();outline.forEach(([x,y],i)=>i?pc.lineTo(x,y):pc.moveTo(x,y));pc.closePath();pc.clip();pc.drawImage(img,0,0);img=await createImageBitmap(pre);}const canvas=document.createElement('canvas');canvas.width=img.width;canvas.height=img.height;const ctx=canvas.getContext('2d',{willReadFrequently:true});ctx.drawImage(img,0,0);const d=ctx.getImageData(0,0,img.width,img.height).data;let l=img.width,r=0,t=img.height,b=0;for(let y=0;y<img.height;y+=2)for(let x=0;x<img.width;x+=2){const i=(y*img.width+x)*4;if(d[i+3]>32&&Math.min(d[i],d[i+1],d[i+2])<238){l=Math.min(l,x);r=Math.max(r,x);t=Math.min(t,y);b=Math.max(b,y);}}if(r<=l||b<=t)throw Error('No visible product');l=Math.max(0,l-6);t=Math.max(0,t-6);r=Math.min(img.width,r+8);b=Math.min(img.height,b+8);const w=r-l,h=b-t,scale=Math.min(500/w,500/h);canvas.width=canvas.height=600;ctx.fillStyle='white';ctx.fillRect(0,0,600,600);ctx.imageSmoothingQuality='high';ctx.drawImage(img,l,t,w,h,(600-w*scale)/2,(600-h*scale)/2,w*scale,h*scale);return canvas.toDataURL('image/png').split(',')[1];})()`);
+  const file='assets/images/products/normalized/'+p.id+'.png';await fs.writeFile(file,Buffer.from(result,'base64'));p.originalLocalImage=src;p.image=file;p.images=[file];
+ }
+ await fs.writeFile('data/products.json',JSON.stringify(products,null,2)+'\n');console.log('Normalized',products.filter(p=>p.catalogBatch).length);
+}finally{c.close();}

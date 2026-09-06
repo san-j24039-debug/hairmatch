@@ -22,10 +22,10 @@ try {
  for(let i=0;i<answers.length;i++){for(const [key,value] of Object.entries(answers[i]))await click(`[data-key="${key}"][data-value="${value}"]`);if(i===3)await snap('mobile-finish');assert.equal(await evaluate(`document.querySelector('[data-action="next"]').disabled`),false);await click('[data-action="next"]');}
  await snap('mobile-review');await click('[data-action="next"]');await wait(`!!document.querySelector('.results-page')`);assert.equal(await evaluate(`document.querySelectorAll('.results-grid .product-card').length`),10);await snap('mobile-results');
  await click('.winner [data-action="favorite"]');await click('.winner .product-name');await wait(`!!document.querySelector('.detail-page')`);await snap('mobile-detail');
- await evaluate(`location.hash='search'`);await wait(`!!document.querySelector('#search-input')`);for(let i=0;i<4;i++)await click(`.product-card:nth-child(${i+1}) [data-action="compare"]`);assert.match(await evaluate(`document.querySelector('#toast').textContent`),/最大3件/);
+ await evaluate(`location.hash='search'`);await wait(`!!document.querySelector('#search-input')`);await evaluate(`document.querySelector('[data-action="search-all"]')?.click()`);for(let i=0;i<4;i++)await click(`.product-card:nth-child(${i+1}) [data-action="compare"]`);assert.match(await evaluate(`document.querySelector('#toast').textContent`),/最大3件/);
  await evaluate(`location.hash='compare'`);await wait(`!!document.querySelector('table')`);assert.equal(await evaluate(`document.querySelectorAll('thead th').length`),4);await snap('mobile-compare');
  await evaluate(`location.hash='favorites'`);await wait(`!!document.querySelector('.product-card')`);await send('Page.reload');await wait(`!!document.querySelector('.product-card')`);assert.equal(await evaluate(`document.querySelectorAll('.product-card').length`),1);await snap('mobile-favorites');
- await evaluate(`location.hash='search'`);await wait(`!!document.querySelector('#search-input')`);await evaluate(`var input=document.querySelector('#search-input');input.value='COTA';input.dispatchEvent(new Event('input',{bubbles:true}));`);assert.equal(await evaluate(`document.querySelectorAll('.product-card').length`),4);
+ await evaluate(`location.hash='search'`);await wait(`!!document.querySelector('#search-input')`);await evaluate(`document.querySelector('[data-action="search-all"]')?.click()`);await evaluate(`var input=document.querySelector('#search-input');input.value='COTA';input.dispatchEvent(new Event('input',{bubbles:true}));`);assert.equal(await evaluate(`document.querySelectorAll('.product-card').length`),12);
 
  // Saved collection and historical snapshots must work without replacing the current answers.
  assert.deepEqual(await evaluate(`[...document.querySelectorAll('#nav a span')].map(x=>x.textContent)`),['ホーム','診断','商品検索','保存','マイページ']);
@@ -45,10 +45,10 @@ try {
  await evaluate(`location.hash='mypage'`);await wait(`!!document.querySelector('.mypage')`);await snap('desktop-mypage');
  // Product-kind navigation must switch images and facts without losing saved IDs.
  await send('Emulation.setDeviceMetricsOverride',{width:390,height:844,deviceScaleFactor:1,mobile:true});
- await evaluate(`location.hash='search'`);await wait(`!!document.querySelector('#search-input')`);
+ await evaluate(`location.hash='search'`);await wait(`!!document.querySelector('#search-input')`);await evaluate(`document.querySelector('[data-action="search-all"]')?.click()`);
  await click('[data-action="reset-filters"]');
  await evaluate(`location.hash='compare'`);await wait(`!!document.querySelector('table')`);await click('[data-action="clear-compare"]');
- await evaluate(`location.hash='search'`);await wait(`!!document.querySelector('#search-input')`);
+ await evaluate(`location.hash='search'`);await wait(`!!document.querySelector('#search-input')`);await evaluate(`document.querySelector('[data-action="search-all"]')?.click()`);
  for(const id of ['plus-mellow-shampoo','plus-repair-treatment']){
   await click('[data-action="favorite"][data-id="'+id+'"]');await click('[data-action="compare"][data-id="'+id+'"]');
  }
@@ -72,7 +72,7 @@ try {
  await evaluate(`location.hash='search'`);await wait(`!!document.querySelector('.kind-tabs')`);
  await click('[data-action="view-kind"][data-value="treatment"]');await send('Page.reload');await wait(`!!document.querySelector('.kind-tabs')`);
  assert.equal(await evaluate(`document.querySelector('.kind-tabs .active').dataset.value`),'treatment');
- await click('.product-name');await wait(`!!document.querySelector('.detail-page')`);
+ await click('[data-action="search-all"]');await click('.product-name');await wait(`!!document.querySelector('.detail-page')`);
  assert.equal(await evaluate(`document.querySelectorAll('.price-row').length`),1);
  assert.match(await evaluate(`document.querySelector('.price-row').textContent`),/トリートメント/);
  await snap('mobile-treatment-detail');

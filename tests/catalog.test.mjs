@@ -7,12 +7,12 @@ import {rankProducts,resultGroups,scoreProduct} from '../js/diagnosis.js';
 import {toggleId} from '../js/favorites.js';
 const series=JSON.parse(fs.readFileSync(new URL('../data/products.json',import.meta.url)));
 const products=expandProducts(series);
-test('全12商品が単品のID・価格・画像を持つ',()=>{
- assert.equal(products.length,12);assert.equal(new Set(products.map(p=>p.id)).size,12);
+test('全商品が単品のID・価格・画像を持つ',()=>{
+ assert.ok(products.length>=136);assert.equal(new Set(products.map(p=>p.id)).size,products.length);
  for(const p of products){assert.ok(p[p.kind]);assert.equal(p.images.length,1);assert.equal(p[p.kind==='shampoo'?'treatment':'shampoo'],null);assert.equal(productView(p,'both').id,p.id);assert.equal(productView(p,p.kind==='shampoo'?'treatment':'shampoo').image,p.image);}
- assert.equal(filterProducts(products,{kind:'both'}).length,12);
- assert.equal(filterProducts(products,{kind:'shampoo'}).length,6);
- assert.equal(filterProducts(products,{kind:'treatment'}).length,6);
+ assert.equal(filterProducts(products,{kind:'both'}).length,products.length);
+ assert.equal(filterProducts(products,{kind:'shampoo'}).length,products.filter(p=>p.kind==='shampoo').length);
+ assert.equal(filterProducts(products,{kind:'treatment'}).length,products.filter(p=>p.kind==='treatment').length);
  assert.equal(filterProducts(products,{price:'5000'}).some(p=>p.id==='kerastase-treatment'),false);
  assert.equal(filterProducts(products,{price:'5000'}).some(p=>p.id==='kerastase-shampoo'),true);
 });
@@ -24,7 +24,7 @@ test('メロウのシャンプーとリポアのトリートメントを独立�
 });
 test('両方の診断でも商品種類ごとに採点し、各TOP5を返す',()=>{
  const a={target:'both',budget:'any',foam:'かなり重要',squeak:'絶対に嫌',rinse:'かなり滑らか'};
- const ranked=rankProducts(products,a);assert.equal(ranked.length,12);
+ const ranked=rankProducts(products,a);assert.equal(ranked.length,products.filter(p=>p.diagnosisEligible!==false).length);
  for(const r of ranked){assert.equal(r.parts.some(p=>p.key==='foam'),r.product.kind==='shampoo');assert.equal(r.parts.some(p=>p.key==='rinse'),r.product.kind==='treatment');}
  const groups=resultGroups(ranked);assert.equal(groups.length,2);
  for(const g of groups){assert.equal(g.main.length,5);assert.ok(g.main.every(r=>r.product.kind===g.kind));}

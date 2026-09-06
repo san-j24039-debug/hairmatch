@@ -26,7 +26,7 @@ export function scoreProduct(p,a) {
  const reasons=[...parts].sort((x,y)=>y.weight*y.value-x.weight*x.value).filter((x,i,arr)=>arr.findIndex(v=>v.key===x.key)===i).slice(0,3).map(x=>`${x.key===a.priority?'一番重視した「':'ご希望の「'}${x.label}」は、検証用の評価で${Math.round(x.value)}点。${x.value>=80?'好みに近い傾向です。':'ほかの条件とのバランスで選ばれています。'}`);
  return {product:p,score,parts,reasons,metrics:{...p.scores,fragrance:fragrance===null?null:Math.round(fragrance),cost:cost===null?null:Math.round(cost)},budgetStatus:price===null?'unknown':budget&&price>budget?'over':'within'};
 }
-export function rankProducts(products,a) {return products.filter(p=>(!a.category||a.category==='both'||p.category===a.category)&&hasKind(p,a.target||'both')).map(p=>scoreProduct(p,a)).sort((a,b)=>b.score-a.score||a.product.id.localeCompare(b.product.id));}
+export function rankProducts(products,a) {return products.filter(p=>p.diagnosisEligible!==false&&(!a.category||a.category==='both'||p.category===a.category)&&hasKind(p,a.target||'both')).map(p=>scoreProduct(p,a)).sort((a,b)=>b.score-a.score||a.product.id.localeCompare(b.product.id));}
 export function splitResults(ranked) {return {main:ranked.filter(x=>x.budgetStatus!=='over').slice(0,5),over:ranked.filter(x=>x.budgetStatus==='over').slice(0,3)};}
 export function resultGroups(ranked) {
  if(ranked.some(r=>!r.product.kind))return [{kind:'legacy',...splitResults(ranked)}];
