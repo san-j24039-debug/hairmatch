@@ -11,4 +11,6 @@ html{scroll-padding-top:90px;scroll-padding-bottom:220px}.question-page{padding-
 
 .recommendation-group{margin:30px 0 40px}.recommendation-group+.recommendation-group{padding-top:20px;border-top:1px solid var(--line)}.over-budget-heading{font-size:16px;margin:25px 0 15px}.product-kind{background:#eaf4ef;color:#3e725d}
 .table-scroll table:has(thead th:nth-child(3):last-child),.table-scroll table:has(thead th:nth-child(2):last-child){min-width:0}
+/* Keep editable controls readable on iOS without triggering focus zoom. */
+.search-box input,.filters select{font-size:16px}
 @media(max-width:620px){.table-scroll table:has(thead th:nth-child(3):last-child) thead th:first-child,.table-scroll table:has(thead th:nth-child(2):last-child) thead th:first-child{width:78px}.table-scroll table:has(thead th:nth-child(3):last-child) th,.table-scroll table:has(thead th:nth-child(3):last-child) td{padding:12px 5px;overflow-wrap:anywhere}.table-scroll table:has(thead th:nth-child(3):last-child) .product-photo img{max-width:100%}}
