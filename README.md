@@ -102,8 +102,11 @@ npm.cmd test
 node tests/browser.mjs
 node tests/usability.mjs
 node tests/brand-browser.mjs
+node tests/brand-entry-browser.mjs
 ```
 
-ロジックテスト30件、基本操作の回帰テスト、改修箇所のクリック操作テストを実施しています。操作テストは隔離したChromeプロファイルを使用し、通常のユーザーデータを書き換えません。キャプチャとテスト用プロファイルは `test-results/` と `.tmp/`（Git対象外）に生成します。
+ロジックテスト32件、基本操作の回帰テスト、改修箇所のクリック操作テストを実施しています。操作テストは隔離したChromeプロファイルを使用し、通常のユーザーデータを書き換えません。キャプチャとテスト用プロファイルは `test-results/` と `.tmp/`（Git対象外）に生成します。
 
 検証幅は320・390・768・1440px。実機の日本語IME・Safari・スクリーンリーダーは未検証です。元の問題と改修後の結果は [操作テスト報告](docs/usability-audit.md) を参照してください。
+
+ブランド入口とシリーズ切り替えの確認・修正内容は [ブランド入口の動作確認](docs/brand-entry-audit.md) を参照してください。
