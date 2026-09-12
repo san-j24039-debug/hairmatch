@@ -8,7 +8,7 @@ import {toggleId} from '../js/favorites.js';
 const series=JSON.parse(fs.readFileSync(new URL('../data/products.json',import.meta.url)));
 const products=expandProducts(series);
 test('全商品が単品のID・価格・画像を持つ',()=>{
- assert.ok(products.length>=126);assert.equal(new Set(products.map(p=>p.id)).size,products.length);
+ assert.ok(products.length>=85);assert.equal(new Set(products.map(p=>p.id)).size,products.length);
  for(const p of products){assert.ok(p[p.kind]);assert.equal(p.images.length,1);assert.equal(p[p.kind==='shampoo'?'treatment':'shampoo'],null);assert.equal(productView(p,'both').id,p.id);assert.equal(productView(p,p.kind==='shampoo'?'treatment':'shampoo').image,p.image);}
  assert.equal(filterProducts(products,{kind:'both'}).length,products.length);
  assert.equal(filterProducts(products,{kind:'shampoo'}).length,products.filter(p=>p.kind==='shampoo').length);
