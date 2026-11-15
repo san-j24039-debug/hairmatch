@@ -1,4 +1,4 @@
-const CACHE = 'hairmatch-runtime-v7';
+const CACHE = 'hairmatch-runtime-v8';
 const APP_SHELL = [
   './', './index.html', './css/style.css', './js/app.js',
   './manifest.webmanifest', './data/products.json',

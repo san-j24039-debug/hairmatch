@@ -6339,5 +6339,5710 @@
     ],
     "catalogGroup": "リッチ リュクスリペア",
     "catalogOrder": 3
+  },
+  {
+    "id": "diane-4580632114819",
+    "brand": "Diane Be True",
+    "series": "スムースリペア",
+    "name": "ダイアン ビートゥルー スムースリペア シャンプー",
+    "kind": "shampoo",
+    "seriesId": "Diane Be True|スムースリペア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/diane-4580632114819.png",
+    "images": [
+      "assets/images/products/normalized/diane-4580632114819.png"
+    ],
+    "shampoo": {
+      "name": "ダイアン ビートゥルー スムースリペア シャンプー",
+      "price": 990,
+      "volume": "400mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://store.naturelab.co.jp/products/4580632114819"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": "リラックスベジー",
+      "verified": true,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://store.naturelab.co.jp/products/4580632114819",
+        "label": "Diane Be True 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://cdn.shopify.com/s/files/1/0648/6422/3485/files/4580632114819_1785398130.jpg?v=1785427879",
+    "originalLocalImage": "assets/images/products/catalog/diane-4580632114819.jpg",
+    "catalogGroup": "スムースリペア",
+    "catalogOrder": 0,
+    "imageBounds": [
+      345,
+      189,
+      891,
+      1443
+    ]
+  },
+  {
+    "id": "diane-4580632114826",
+    "brand": "Diane Be True",
+    "series": "スムースリペア",
+    "name": "ダイアン ビートゥルー スムースリペア トリートメント",
+    "kind": "treatment",
+    "seriesId": "Diane Be True|スムースリペア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/diane-4580632114826.png",
+    "images": [
+      "assets/images/products/normalized/diane-4580632114826.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ダイアン ビートゥルー スムースリペア トリートメント",
+      "price": 990,
+      "volume": "400mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://store.naturelab.co.jp/products/4580632114826"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": "リラックスベジー",
+      "verified": true,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://store.naturelab.co.jp/products/4580632114826",
+        "label": "Diane Be True 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://cdn.shopify.com/s/files/1/0648/6422/3485/files/4580632114826_1785398144.jpg?v=1785427885",
+    "originalLocalImage": "assets/images/products/catalog/diane-4580632114826.jpg",
+    "catalogGroup": "スムースリペア",
+    "catalogOrder": 0,
+    "imageBounds": [
+      343,
+      189,
+      891,
+      1443
+    ]
+  },
+  {
+    "id": "diane-4560119227591",
+    "brand": "Diane Botanical",
+    "series": "モイスト",
+    "name": "ダイアン ボタニカル モイスト シャンプー",
+    "kind": "shampoo",
+    "seriesId": "Diane Botanical|モイスト",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/diane-4560119227591.png",
+    "images": [
+      "assets/images/products/normalized/diane-4560119227591.png"
+    ],
+    "shampoo": {
+      "name": "ダイアン ボタニカル モイスト シャンプー",
+      "price": 1097,
+      "volume": "480mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://store.naturelab.co.jp/products/4560119227591"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": "フルーティジャスミン",
+      "verified": true,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://store.naturelab.co.jp/products/4560119227591",
+        "label": "Diane Botanical 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://cdn.shopify.com/s/files/1/0648/6422/3485/files/4560119227591_1785397750.jpg?v=1785427721",
+    "originalLocalImage": "assets/images/products/catalog/diane-4560119227591.jpg",
+    "catalogGroup": "モイスト",
+    "catalogOrder": 0,
+    "imageBounds": [
+      361,
+      225,
+      877,
+      1435
+    ]
+  },
+  {
+    "id": "diane-4560119227607",
+    "brand": "Diane Botanical",
+    "series": "モイスト",
+    "name": "ダイアン ボタニカル モイスト トリートメント",
+    "kind": "treatment",
+    "seriesId": "Diane Botanical|モイスト",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/diane-4560119227607.png",
+    "images": [
+      "assets/images/products/normalized/diane-4560119227607.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ダイアン ボタニカル モイスト トリートメント",
+      "price": 1097,
+      "volume": "480mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://store.naturelab.co.jp/products/4560119227607"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": "フルーティジャスミン",
+      "verified": true,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://store.naturelab.co.jp/products/4560119227607",
+        "label": "Diane Botanical 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://cdn.shopify.com/s/files/1/0648/6422/3485/files/4560119227607_1785397759.jpg?v=1785427725",
+    "originalLocalImage": "assets/images/products/catalog/diane-4560119227607.jpg",
+    "catalogGroup": "モイスト",
+    "catalogOrder": 0,
+    "imageBounds": [
+      363,
+      227,
+      877,
+      1433
+    ]
+  },
+  {
+    "id": "diane-4560119222404",
+    "brand": "Diane Botanical",
+    "series": "リフレッシュ&モイスト",
+    "name": "ダイアン ボタニカル リフレッシュ&モイスト トリートメント",
+    "kind": "treatment",
+    "seriesId": "Diane Botanical|リフレッシュ&モイスト",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/diane-4560119222404.png",
+    "images": [
+      "assets/images/products/normalized/diane-4560119222404.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ダイアン ボタニカル リフレッシュ&モイスト トリートメント",
+      "price": 1097,
+      "volume": "480mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://store.naturelab.co.jp/products/4560119222404"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": "シトラスサボン",
+      "verified": true,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://store.naturelab.co.jp/products/4560119222404",
+        "label": "Diane Botanical 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://cdn.shopify.com/s/files/1/0648/6422/3485/files/4560119222404_1785397818.jpg?v=1785427747",
+    "originalLocalImage": "assets/images/products/catalog/diane-4560119222404.jpg",
+    "catalogGroup": "リフレッシュ&モイスト",
+    "catalogOrder": 1,
+    "imageBounds": [
+      361,
+      227,
+      877,
+      1433
+    ]
+  },
+  {
+    "id": "diane-4560119224200",
+    "brand": "Diane Perfect Beauty",
+    "series": "エクストラシャイン",
+    "name": "ダイアン パーフェクトビューティー エクストラシャイン シャンプー",
+    "kind": "shampoo",
+    "seriesId": "Diane Perfect Beauty|エクストラシャイン",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/diane-4560119224200.png",
+    "images": [
+      "assets/images/products/normalized/diane-4560119224200.png"
+    ],
+    "shampoo": {
+      "name": "ダイアン パーフェクトビューティー エクストラシャイン シャンプー",
+      "price": 814,
+      "volume": "450mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://store.naturelab.co.jp/products/4560119224200"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": "フローラル&ベリー",
+      "verified": true,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://store.naturelab.co.jp/products/4560119224200",
+        "label": "Diane Perfect Beauty 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://cdn.shopify.com/s/files/1/0648/6422/3485/files/4560119224200_nlc_1785378831_1785397580.webp?v=1785427647",
+    "originalLocalImage": "assets/images/products/catalog/diane-4560119224200.webp",
+    "catalogGroup": "エクストラシャイン",
+    "catalogOrder": 0,
+    "imageBounds": [
+      343,
+      207,
+      935,
+      1425
+    ]
+  },
+  {
+    "id": "diane-4560119224217",
+    "brand": "Diane Perfect Beauty",
+    "series": "エクストラシャイン",
+    "name": "ダイアン パーフェクトビューティー エクストラシャイン トリートメント",
+    "kind": "treatment",
+    "seriesId": "Diane Perfect Beauty|エクストラシャイン",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/diane-4560119224217.png",
+    "images": [
+      "assets/images/products/normalized/diane-4560119224217.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ダイアン パーフェクトビューティー エクストラシャイン トリートメント",
+      "price": 814,
+      "volume": "450mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://store.naturelab.co.jp/products/4560119224217"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": "フローラル&ベリー",
+      "verified": true,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://store.naturelab.co.jp/products/4560119224217",
+        "label": "Diane Perfect Beauty 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://cdn.shopify.com/s/files/1/0648/6422/3485/files/4560119224217_nlc_1785378849_1785397599.webp?v=1785427656",
+    "originalLocalImage": "assets/images/products/catalog/diane-4560119224217.webp",
+    "catalogGroup": "エクストラシャイン",
+    "catalogOrder": 0,
+    "imageBounds": [
+      343,
+      207,
+      933,
+      1425
+    ]
+  },
+  {
+    "id": "diane-4560119224101",
+    "brand": "Diane Perfect Beauty",
+    "series": "エクストラストレート",
+    "name": "ダイアン パーフェクトビューティー エクストラストレート シャンプー",
+    "kind": "shampoo",
+    "seriesId": "Diane Perfect Beauty|エクストラストレート",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/diane-4560119224101.png",
+    "images": [
+      "assets/images/products/normalized/diane-4560119224101.png"
+    ],
+    "shampoo": {
+      "name": "ダイアン パーフェクトビューティー エクストラストレート シャンプー",
+      "price": 814,
+      "volume": "450mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://store.naturelab.co.jp/products/4560119224101"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": "フローラル&ベリー",
+      "verified": true,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://store.naturelab.co.jp/products/4560119224101",
+        "label": "Diane Perfect Beauty 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://cdn.shopify.com/s/files/1/0648/6422/3485/files/4560119224101_nlc_1785378773.jpg?v=1785427442",
+    "originalLocalImage": "assets/images/products/catalog/diane-4560119224101.jpg",
+    "catalogGroup": "エクストラストレート",
+    "catalogOrder": 1,
+    "imageBounds": [
+      343,
+      209,
+      925,
+      1425
+    ]
+  },
+  {
+    "id": "diane-4560119224118",
+    "brand": "Diane Perfect Beauty",
+    "series": "エクストラストレート",
+    "name": "ダイアン パーフェクトビューティー エクストラストレート トリートメント",
+    "kind": "treatment",
+    "seriesId": "Diane Perfect Beauty|エクストラストレート",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/diane-4560119224118.png",
+    "images": [
+      "assets/images/products/normalized/diane-4560119224118.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ダイアン パーフェクトビューティー エクストラストレート トリートメント",
+      "price": 814,
+      "volume": "450mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://store.naturelab.co.jp/products/4560119224118"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": "フローラル&ベリー",
+      "verified": true,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://store.naturelab.co.jp/products/4560119224118",
+        "label": "Diane Perfect Beauty 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://cdn.shopify.com/s/files/1/0648/6422/3485/files/4560119224118_nlc_1785378793.jpg?v=1785427452",
+    "originalLocalImage": "assets/images/products/catalog/diane-4560119224118.jpg",
+    "catalogGroup": "エクストラストレート",
+    "catalogOrder": 1,
+    "imageBounds": [
+      343,
+      207,
+      925,
+      1425
+    ]
+  },
+  {
+    "id": "diane-4560119224156",
+    "brand": "Diane Perfect Beauty",
+    "series": "エクストラダメージリペア",
+    "name": "ダイアン パーフェクトビューティー エクストラダメージリペア シャンプー",
+    "kind": "shampoo",
+    "seriesId": "Diane Perfect Beauty|エクストラダメージリペア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/diane-4560119224156.png",
+    "images": [
+      "assets/images/products/normalized/diane-4560119224156.png"
+    ],
+    "shampoo": {
+      "name": "ダイアン パーフェクトビューティー エクストラダメージリペア シャンプー",
+      "price": 814,
+      "volume": "450mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://store.naturelab.co.jp/products/4560119224156"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": "フローラル&ベリー",
+      "verified": true,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://store.naturelab.co.jp/products/4560119224156",
+        "label": "Diane Perfect Beauty 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://cdn.shopify.com/s/files/1/0648/6422/3485/files/4560119224156_nlc_1785378806_1785397555.webp?v=1785427635",
+    "originalLocalImage": "assets/images/products/catalog/diane-4560119224156.webp",
+    "catalogGroup": "エクストラダメージリペア",
+    "catalogOrder": 2,
+    "imageBounds": [
+      343,
+      207,
+      949,
+      1425
+    ]
+  },
+  {
+    "id": "diane-4560119224163",
+    "brand": "Diane Perfect Beauty",
+    "series": "エクストラダメージリペア",
+    "name": "ダイアン パーフェクトビューティー エクストラダメージリペア トリートメント",
+    "kind": "treatment",
+    "seriesId": "Diane Perfect Beauty|エクストラダメージリペア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/diane-4560119224163.png",
+    "images": [
+      "assets/images/products/normalized/diane-4560119224163.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ダイアン パーフェクトビューティー エクストラダメージリペア トリートメント",
+      "price": 814,
+      "volume": "450mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://store.naturelab.co.jp/products/4560119224163"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": "フローラル&ベリー",
+      "verified": true,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://store.naturelab.co.jp/products/4560119224163",
+        "label": "Diane Perfect Beauty 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://cdn.shopify.com/s/files/1/0648/6422/3485/files/4560119224163_nlc_1785378823_1785397573.webp?v=1785427643",
+    "originalLocalImage": "assets/images/products/catalog/diane-4560119224163.webp",
+    "catalogGroup": "エクストラダメージリペア",
+    "catalogOrder": 2,
+    "imageBounds": [
+      343,
+      207,
+      933,
+      1425
+    ]
+  },
+  {
+    "id": "diane-4580632116844",
+    "brand": "Diane Perfect Beauty",
+    "series": "エクストラナイトリペア",
+    "name": "ダイアン パーフェクトビューティー エクストラナイトリペア シャンプー",
+    "kind": "shampoo",
+    "seriesId": "Diane Perfect Beauty|エクストラナイトリペア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/diane-4580632116844.png",
+    "images": [
+      "assets/images/products/normalized/diane-4580632116844.png"
+    ],
+    "shampoo": {
+      "name": "ダイアン パーフェクトビューティー エクストラナイトリペア シャンプー",
+      "price": 814,
+      "volume": "450mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://store.naturelab.co.jp/products/4580632116844"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": "ブルーナイトベリー",
+      "verified": true,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://store.naturelab.co.jp/products/4580632116844",
+        "label": "Diane Perfect Beauty 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://cdn.shopify.com/s/files/1/0648/6422/3485/files/4580632116844_1785401449.jpg?v=1785429340",
+    "originalLocalImage": "assets/images/products/catalog/diane-4580632116844.jpg",
+    "catalogGroup": "エクストラナイトリペア",
+    "catalogOrder": 3,
+    "imageBounds": [
+      343,
+      207,
+      925,
+      1425
+    ]
+  },
+  {
+    "id": "diane-4580632116851",
+    "brand": "Diane Perfect Beauty",
+    "series": "エクストラナイトリペア",
+    "name": "ダイアン パーフェクトビューティー エクストラナイトリペア トリートメント",
+    "kind": "treatment",
+    "seriesId": "Diane Perfect Beauty|エクストラナイトリペア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/diane-4580632116851.png",
+    "images": [
+      "assets/images/products/normalized/diane-4580632116851.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ダイアン パーフェクトビューティー エクストラナイトリペア トリートメント",
+      "price": 814,
+      "volume": "450mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://store.naturelab.co.jp/products/4580632116851"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": "ブルーナイトベリー",
+      "verified": true,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://store.naturelab.co.jp/products/4580632116851",
+        "label": "Diane Perfect Beauty 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://cdn.shopify.com/s/files/1/0648/6422/3485/files/4580632116851_1785401471.jpg?v=1785429347",
+    "originalLocalImage": "assets/images/products/catalog/diane-4580632116851.jpg",
+    "catalogGroup": "エクストラナイトリペア",
+    "catalogOrder": 3,
+    "imageBounds": [
+      343,
+      207,
+      925,
+      1425
+    ]
+  },
+  {
+    "id": "diane-4580632118916",
+    "brand": "Diane Perfect Beauty",
+    "series": "グッバイ ダメージリペア",
+    "name": "ダイアン パーフェクトビューティー グッバイ ダメージリペア シャンプー",
+    "kind": "shampoo",
+    "seriesId": "Diane Perfect Beauty|グッバイ ダメージリペア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/diane-4580632118916.png",
+    "images": [
+      "assets/images/products/normalized/diane-4580632118916.png"
+    ],
+    "shampoo": {
+      "name": "ダイアン パーフェクトビューティー グッバイ ダメージリペア シャンプー",
+      "price": 1078,
+      "volume": "400mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://store.naturelab.co.jp/products/4580632118916"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://store.naturelab.co.jp/products/4580632118916",
+        "label": "Diane Perfect Beauty 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://cdn.shopify.com/s/files/1/0648/6422/3485/files/4580632118916_nlc_1785409308.webp?v=1785418991",
+    "originalLocalImage": "assets/images/products/catalog/diane-4580632118916.webp",
+    "catalogGroup": "グッバイ ダメージリペア",
+    "catalogOrder": 4,
+    "imageBounds": [
+      333,
+      209,
+      933,
+      1425
+    ]
+  },
+  {
+    "id": "diane-4580632118923",
+    "brand": "Diane Perfect Beauty",
+    "series": "グッバイ ダメージリペア",
+    "name": "ダイアン パーフェクトビューティー グッバイ ダメージリペア トリートメント",
+    "kind": "treatment",
+    "seriesId": "Diane Perfect Beauty|グッバイ ダメージリペア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/diane-4580632118923.png",
+    "images": [
+      "assets/images/products/normalized/diane-4580632118923.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ダイアン パーフェクトビューティー グッバイ ダメージリペア トリートメント",
+      "price": 1078,
+      "volume": "400mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://store.naturelab.co.jp/products/4580632118923"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://store.naturelab.co.jp/products/4580632118923",
+        "label": "Diane Perfect Beauty 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://cdn.shopify.com/s/files/1/0648/6422/3485/files/4580632118923_nlc_1785409336.webp?v=1785419003",
+    "originalLocalImage": "assets/images/products/catalog/diane-4580632118923.webp",
+    "catalogGroup": "グッバイ ダメージリペア",
+    "catalogOrder": 4,
+    "imageBounds": [
+      331,
+      209,
+      935,
+      1425
+    ]
+  },
+  {
+    "id": "lebel-463",
+    "brand": "LebeL",
+    "series": "SEE/SAW スムース",
+    "name": "ルベル SEE/SAW ヘア&スキャルプシャンプーS",
+    "kind": "shampoo",
+    "seriesId": "LebeL|SEE/SAW スムース",
+    "category": "salon",
+    "image": "assets/images/products/normalized/lebel-463.png",
+    "images": [
+      "assets/images/products/normalized/lebel-463.png"
+    ],
+    "shampoo": {
+      "name": "ルベル SEE/SAW ヘア&スキャルプシャンプーS",
+      "price": 3850,
+      "volume": "250mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.lebel.co.jp/products/item/463/"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.lebel.co.jp/products/item/463/",
+        "label": "LebeL 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.lebel.co.jp/cms/wp-content/uploads/2020/10/hc_reseesaw_s_s.png",
+    "originalLocalImage": "assets/images/products/catalog/lebel-463.png",
+    "catalogGroup": "SEE/SAW スムース",
+    "catalogOrder": 0,
+    "reputation": {
+      "summary": "@cosme掲載評価 6.2 / 7、クチコミ7件（シャンプー・トリートメント共通ページ、確認時点）",
+      "url": "https://www.cosme.net/products/10239578/",
+      "checkedAt": "2026-11-15"
+    }
+  },
+  {
+    "id": "lebel-461",
+    "brand": "LebeL",
+    "series": "SEE/SAW スムース",
+    "name": "ルベル SEE/SAW ヘアトリートメントS",
+    "kind": "treatment",
+    "seriesId": "LebeL|SEE/SAW スムース",
+    "category": "salon",
+    "image": "assets/images/products/normalized/lebel-461.png",
+    "images": [
+      "assets/images/products/normalized/lebel-461.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ルベル SEE/SAW ヘアトリートメントS",
+      "price": 3850,
+      "volume": "200mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.lebel.co.jp/products/item/461/"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.lebel.co.jp/products/item/461/",
+        "label": "LebeL 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.lebel.co.jp/cms/wp-content/uploads/2020/10/hc_reseesaw_t_s.png",
+    "originalLocalImage": "assets/images/products/catalog/lebel-461.png",
+    "catalogGroup": "SEE/SAW スムース",
+    "catalogOrder": 0,
+    "reputation": {
+      "summary": "@cosme掲載評価 6.2 / 7、クチコミ7件（シャンプー・トリートメント共通ページ、確認時点）",
+      "url": "https://www.cosme.net/products/10239578/",
+      "checkedAt": "2026-11-15"
+    }
+  },
+  {
+    "id": "lebel-459",
+    "brand": "LebeL",
+    "series": "SEE/SAW タイト",
+    "name": "ルベル SEE/SAW ヘア&スキャルプシャンプーT",
+    "kind": "shampoo",
+    "seriesId": "LebeL|SEE/SAW タイト",
+    "category": "salon",
+    "image": "assets/images/products/normalized/lebel-459.png",
+    "images": [
+      "assets/images/products/normalized/lebel-459.png"
+    ],
+    "shampoo": {
+      "name": "ルベル SEE/SAW ヘア&スキャルプシャンプーT",
+      "price": 3850,
+      "volume": "250mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.lebel.co.jp/products/item/459/"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.lebel.co.jp/products/item/459/",
+        "label": "LebeL 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.lebel.co.jp/cms/wp-content/uploads/2020/10/hc_reseesaw_s_t.png",
+    "originalLocalImage": "assets/images/products/catalog/lebel-459.png",
+    "catalogGroup": "SEE/SAW タイト",
+    "catalogOrder": 1
+  },
+  {
+    "id": "lebel-457",
+    "brand": "LebeL",
+    "series": "SEE/SAW タイト",
+    "name": "ルベル SEE/SAW ヘアトリートメントT",
+    "kind": "treatment",
+    "seriesId": "LebeL|SEE/SAW タイト",
+    "category": "salon",
+    "image": "assets/images/products/normalized/lebel-457.png",
+    "images": [
+      "assets/images/products/normalized/lebel-457.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ルベル SEE/SAW ヘアトリートメントT",
+      "price": 3850,
+      "volume": "200mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.lebel.co.jp/products/item/457/"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.lebel.co.jp/products/item/457/",
+        "label": "LebeL 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.lebel.co.jp/cms/wp-content/uploads/2020/10/hc_reseesaw_t_t.png",
+    "originalLocalImage": "assets/images/products/catalog/lebel-457.png",
+    "catalogGroup": "SEE/SAW タイト",
+    "catalogOrder": 1
+  },
+  {
+    "id": "lebel-467",
+    "brand": "LebeL",
+    "series": "SEE/SAW バランス",
+    "name": "ルベル SEE/SAW ヘア&スキャルプシャンプーB",
+    "kind": "shampoo",
+    "seriesId": "LebeL|SEE/SAW バランス",
+    "category": "salon",
+    "image": "assets/images/products/normalized/lebel-467.png",
+    "images": [
+      "assets/images/products/normalized/lebel-467.png"
+    ],
+    "shampoo": {
+      "name": "ルベル SEE/SAW ヘア&スキャルプシャンプーB",
+      "price": 3850,
+      "volume": "250mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.lebel.co.jp/products/item/467/"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.lebel.co.jp/products/item/467/",
+        "label": "LebeL 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.lebel.co.jp/cms/wp-content/uploads/2020/10/hc_reseesaw_s_b.png",
+    "originalLocalImage": "assets/images/products/catalog/lebel-467.png",
+    "catalogGroup": "SEE/SAW バランス",
+    "catalogOrder": 2
+  },
+  {
+    "id": "lebel-465",
+    "brand": "LebeL",
+    "series": "SEE/SAW バランス",
+    "name": "ルベル SEE/SAW ヘアトリートメントB",
+    "kind": "treatment",
+    "seriesId": "LebeL|SEE/SAW バランス",
+    "category": "salon",
+    "image": "assets/images/products/normalized/lebel-465.png",
+    "images": [
+      "assets/images/products/normalized/lebel-465.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ルベル SEE/SAW ヘアトリートメントB",
+      "price": 3850,
+      "volume": "200mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.lebel.co.jp/products/item/465/"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.lebel.co.jp/products/item/465/",
+        "label": "LebeL 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.lebel.co.jp/cms/wp-content/uploads/2020/10/hc_reseesaw_t_b.png",
+    "originalLocalImage": "assets/images/products/catalog/lebel-465.png",
+    "catalogGroup": "SEE/SAW バランス",
+    "catalogOrder": 2
+  },
+  {
+    "id": "lebel-399",
+    "brand": "LebeL",
+    "series": "イオ",
+    "name": "ルベル イオ クレンジング リラックスメント",
+    "kind": "shampoo",
+    "seriesId": "LebeL|イオ",
+    "category": "salon",
+    "image": "assets/images/products/normalized/lebel-399.png",
+    "images": [
+      "assets/images/products/normalized/lebel-399.png"
+    ],
+    "shampoo": {
+      "name": "ルベル イオ クレンジング リラックスメント",
+      "price": 1760,
+      "volume": "200mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.lebel.co.jp/products/item/399/"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.lebel.co.jp/products/item/399/",
+        "label": "LebeL 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.lebel.co.jp/cms/wp-content/uploads/2020/10/hc_iau_cl_r.png",
+    "originalLocalImage": "assets/images/products/catalog/lebel-399.png",
+    "catalogGroup": "イオ",
+    "catalogOrder": 3,
+    "reputation": {
+      "summary": "@cosmeベストコスメアワード2016 ベストシャンプー・コンディショナー 第1位（当時の受賞記録）",
+      "url": "https://www.cosme.net/products/10011552/",
+      "checkedAt": "2026-11-15"
+    }
+  },
+  {
+    "id": "lebel-401",
+    "brand": "LebeL",
+    "series": "イオ",
+    "name": "ルベル イオ クレンジング クリアメント",
+    "kind": "shampoo",
+    "seriesId": "LebeL|イオ",
+    "category": "salon",
+    "image": "assets/images/products/normalized/lebel-401.png",
+    "images": [
+      "assets/images/products/normalized/lebel-401.png"
+    ],
+    "shampoo": {
+      "name": "ルベル イオ クレンジング クリアメント",
+      "price": 1760,
+      "volume": "200mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.lebel.co.jp/products/item/401/"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.lebel.co.jp/products/item/401/",
+        "label": "LebeL 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.lebel.co.jp/cms/wp-content/uploads/2020/10/hc_iau_cl_c.png",
+    "originalLocalImage": "assets/images/products/catalog/lebel-401.png",
+    "catalogGroup": "イオ",
+    "catalogOrder": 3
+  },
+  {
+    "id": "lebel-403",
+    "brand": "LebeL",
+    "series": "イオ",
+    "name": "ルベル イオ クレンジング フレッシュメント",
+    "kind": "shampoo",
+    "seriesId": "LebeL|イオ",
+    "category": "salon",
+    "image": "assets/images/products/normalized/lebel-403.png",
+    "images": [
+      "assets/images/products/normalized/lebel-403.png"
+    ],
+    "shampoo": {
+      "name": "ルベル イオ クレンジング フレッシュメント",
+      "price": 1760,
+      "volume": "200mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.lebel.co.jp/products/item/403/"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.lebel.co.jp/products/item/403/",
+        "label": "LebeL 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.lebel.co.jp/cms/wp-content/uploads/2020/10/hc_iau_cl_f.png",
+    "originalLocalImage": "assets/images/products/catalog/lebel-403.png",
+    "catalogGroup": "イオ",
+    "catalogOrder": 3
+  },
+  {
+    "id": "lebel-397",
+    "brand": "LebeL",
+    "series": "イオ",
+    "name": "ルベル イオ クリーム シルキーリペア",
+    "kind": "treatment",
+    "seriesId": "LebeL|イオ",
+    "category": "salon",
+    "image": "assets/images/products/normalized/lebel-397.png",
+    "images": [
+      "assets/images/products/normalized/lebel-397.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ルベル イオ クリーム シルキーリペア",
+      "price": 1760,
+      "volume": "200mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.lebel.co.jp/products/item/397/"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.lebel.co.jp/products/item/397/",
+        "label": "LebeL 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.lebel.co.jp/cms/wp-content/uploads/2020/10/hc_iau_cr_s.png",
+    "originalLocalImage": "assets/images/products/catalog/lebel-397.png",
+    "catalogGroup": "イオ",
+    "catalogOrder": 3
+  },
+  {
+    "id": "lebel-395",
+    "brand": "LebeL",
+    "series": "イオ",
+    "name": "ルベル イオ クリーム メルトリペア",
+    "kind": "treatment",
+    "seriesId": "LebeL|イオ",
+    "category": "salon",
+    "image": "assets/images/products/normalized/lebel-395.png",
+    "images": [
+      "assets/images/products/normalized/lebel-395.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ルベル イオ クリーム メルトリペア",
+      "price": 1760,
+      "volume": "200mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.lebel.co.jp/products/item/395/"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.lebel.co.jp/products/item/395/",
+        "label": "LebeL 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.lebel.co.jp/cms/wp-content/uploads/2020/10/hc_iau_cr_m.png",
+    "originalLocalImage": "assets/images/products/catalog/lebel-395.png",
+    "catalogGroup": "イオ",
+    "catalogOrder": 3
+  },
+  {
+    "id": "lebel-369",
+    "brand": "LebeL",
+    "series": "イオセラム",
+    "name": "ルベル イオセラム クレンジング",
+    "kind": "shampoo",
+    "seriesId": "LebeL|イオセラム",
+    "category": "salon",
+    "image": "assets/images/products/normalized/lebel-369.png",
+    "images": [
+      "assets/images/products/normalized/lebel-369.png"
+    ],
+    "shampoo": {
+      "name": "ルベル イオセラム クレンジング",
+      "price": 2200,
+      "volume": "200mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.lebel.co.jp/products/item/369/"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.lebel.co.jp/products/item/369/",
+        "label": "LebeL 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.lebel.co.jp/cms/wp-content/uploads/2020/10/hc_iau_se_cl.png",
+    "originalLocalImage": "assets/images/products/catalog/lebel-369.png",
+    "catalogGroup": "イオセラム",
+    "catalogOrder": 4
+  },
+  {
+    "id": "lebel-367",
+    "brand": "LebeL",
+    "series": "イオセラム",
+    "name": "ルベル イオセラム クリーム",
+    "kind": "treatment",
+    "seriesId": "LebeL|イオセラム",
+    "category": "salon",
+    "image": "assets/images/products/normalized/lebel-367.png",
+    "images": [
+      "assets/images/products/normalized/lebel-367.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ルベル イオセラム クリーム",
+      "price": 2200,
+      "volume": "200mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.lebel.co.jp/products/item/367/"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.lebel.co.jp/products/item/367/",
+        "label": "LebeL 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.lebel.co.jp/cms/wp-content/uploads/2020/10/hc_iau_se_cr.png",
+    "originalLocalImage": "assets/images/products/catalog/lebel-367.png",
+    "catalogGroup": "イオセラム",
+    "catalogOrder": 4
+  },
+  {
+    "id": "lux-04902111777177",
+    "brand": "LUX",
+    "series": "バスグロウ リペアアンドシャイン",
+    "name": "ラックス バスグロウ リペアアンドシャイン シャンプー",
+    "kind": "shampoo",
+    "seriesId": "LUX|バスグロウ リペアアンドシャイン",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/lux-04902111777177.png",
+    "images": [
+      "assets/images/products/normalized/lux-04902111777177.png"
+    ],
+    "shampoo": {
+      "name": "ラックス バスグロウ リペアアンドシャイン シャンプー",
+      "price": null,
+      "volume": "490g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.lux.co.jp/p/bath-glow-repair-and-shine-shampoo.html/04902111777177"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.lux.co.jp/p/bath-glow-repair-and-shine-shampoo.html/04902111777177",
+        "label": "LUX 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://assets.unileversolutions.com/v1/121572347.png",
+    "originalLocalImage": "assets/images/products/catalog/lux-04902111777177.png",
+    "catalogGroup": "バスグロウ リペアアンドシャイン",
+    "catalogOrder": 0
+  },
+  {
+    "id": "lux-04902111777184",
+    "brand": "LUX",
+    "series": "バスグロウ リペアアンドシャイン",
+    "name": "ラックス バスグロウ リペアアンドシャイン トリートメント",
+    "kind": "treatment",
+    "seriesId": "LUX|バスグロウ リペアアンドシャイン",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/lux-04902111777184.png",
+    "images": [
+      "assets/images/products/normalized/lux-04902111777184.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ラックス バスグロウ リペアアンドシャイン トリートメント",
+      "price": null,
+      "volume": "490g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.lux.co.jp/p/bath-glow-repair-and-shine-conditioner.html/04902111777184"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.lux.co.jp/p/bath-glow-repair-and-shine-conditioner.html/04902111777184",
+        "label": "LUX 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://assets.unileversolutions.com/v1/121572431.png",
+    "originalLocalImage": "assets/images/products/catalog/lux-04902111777184.png",
+    "catalogGroup": "バスグロウ リペアアンドシャイン",
+    "catalogOrder": 0
+  },
+  {
+    "id": "lux-04902111759388",
+    "brand": "LUX",
+    "series": "ルミニーク ダメージリペア",
+    "name": "ラックス ルミニーク ダメージリペア シャンプー",
+    "kind": "shampoo",
+    "seriesId": "LUX|ルミニーク ダメージリペア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/lux-04902111759388.png",
+    "images": [
+      "assets/images/products/normalized/lux-04902111759388.png"
+    ],
+    "shampoo": {
+      "name": "ラックス ルミニーク ダメージリペア シャンプー",
+      "price": null,
+      "volume": "450g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.lux.co.jp/p/luminique-damage-repair-shampoo.html/04902111759388"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.lux.co.jp/p/luminique-damage-repair-shampoo.html/04902111759388",
+        "label": "LUX 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://assets.unileversolutions.com/v1/126922043.png",
+    "originalLocalImage": "assets/images/products/catalog/lux-04902111759388.png",
+    "catalogGroup": "ルミニーク ダメージリペア",
+    "catalogOrder": 2
+  },
+  {
+    "id": "lux-04902111759395",
+    "brand": "LUX",
+    "series": "ルミニーク ダメージリペア",
+    "name": "ラックス ルミニーク ダメージリペア トリートメント",
+    "kind": "treatment",
+    "seriesId": "LUX|ルミニーク ダメージリペア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/lux-04902111759395.png",
+    "images": [
+      "assets/images/products/normalized/lux-04902111759395.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ラックス ルミニーク ダメージリペア トリートメント",
+      "price": null,
+      "volume": "450g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.lux.co.jp/p/luminique-damage-repair-treatment.html/04902111759395"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.lux.co.jp/p/luminique-damage-repair-treatment.html/04902111759395",
+        "label": "LUX 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://assets.unileversolutions.com/v1/1614703.png",
+    "originalLocalImage": "assets/images/products/catalog/lux-04902111759395.png",
+    "catalogGroup": "ルミニーク ダメージリペア",
+    "catalogOrder": 2
+  },
+  {
+    "id": "lux-04902111759487",
+    "brand": "LUX",
+    "series": "ルミニーク ハピネスブルーム",
+    "name": "ラックス ルミニーク ハピネスブルーム シャンプー",
+    "kind": "shampoo",
+    "seriesId": "LUX|ルミニーク ハピネスブルーム",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/lux-04902111759487.png",
+    "images": [
+      "assets/images/products/normalized/lux-04902111759487.png"
+    ],
+    "shampoo": {
+      "name": "ラックス ルミニーク ハピネスブルーム シャンプー",
+      "price": null,
+      "volume": "450g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.lux.co.jp/p/luminique-happiness-bloom-shampoo.html/04902111759487"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.lux.co.jp/p/luminique-happiness-bloom-shampoo.html/04902111759487",
+        "label": "LUX 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://assets.unileversolutions.com/v1/63718343.png",
+    "originalLocalImage": "assets/images/products/catalog/lux-04902111759487.png",
+    "catalogGroup": "ルミニーク ハピネスブルーム",
+    "catalogOrder": 3
+  },
+  {
+    "id": "lux-04902111759494",
+    "brand": "LUX",
+    "series": "ルミニーク ハピネスブルーム",
+    "name": "ラックス ルミニーク ハピネスブルーム トリートメント",
+    "kind": "treatment",
+    "seriesId": "LUX|ルミニーク ハピネスブルーム",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/lux-04902111759494.png",
+    "images": [
+      "assets/images/products/normalized/lux-04902111759494.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ラックス ルミニーク ハピネスブルーム トリートメント",
+      "price": null,
+      "volume": "450g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.lux.co.jp/p/luminique-happiness-bloom-treatment.html/04902111759494"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.lux.co.jp/p/luminique-happiness-bloom-treatment.html/04902111759494",
+        "label": "LUX 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://assets.unileversolutions.com/v1/137787711.png",
+    "originalLocalImage": "assets/images/products/catalog/lux-04902111759494.png",
+    "catalogGroup": "ルミニーク ハピネスブルーム",
+    "catalogOrder": 3
+  },
+  {
+    "id": "lux-04902111759586",
+    "brand": "LUX",
+    "series": "ルミニーク ボタニカルピュア",
+    "name": "ラックス ルミニーク ボタニカルピュア シャンプー",
+    "kind": "shampoo",
+    "seriesId": "LUX|ルミニーク ボタニカルピュア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/lux-04902111759586.png",
+    "images": [
+      "assets/images/products/normalized/lux-04902111759586.png"
+    ],
+    "shampoo": {
+      "name": "ラックス ルミニーク ボタニカルピュア シャンプー",
+      "price": null,
+      "volume": "450g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.lux.co.jp/p/luminique-botanical-pure-shampoo.html/04902111759586"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.lux.co.jp/p/luminique-botanical-pure-shampoo.html/04902111759586",
+        "label": "LUX 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://assets.unileversolutions.com/v1/1614658.png",
+    "originalLocalImage": "assets/images/products/catalog/lux-04902111759586.png",
+    "catalogGroup": "ルミニーク ボタニカルピュア",
+    "catalogOrder": 4
+  },
+  {
+    "id": "lux-04902111759593",
+    "brand": "LUX",
+    "series": "ルミニーク ボタニカルピュア",
+    "name": "ラックス ルミニーク ボタニカルピュア トリートメント",
+    "kind": "treatment",
+    "seriesId": "LUX|ルミニーク ボタニカルピュア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/lux-04902111759593.png",
+    "images": [
+      "assets/images/products/normalized/lux-04902111759593.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ラックス ルミニーク ボタニカルピュア トリートメント",
+      "price": null,
+      "volume": "450g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.lux.co.jp/p/luminique-botanical-pure-treatment.html/04902111759593"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.lux.co.jp/p/luminique-botanical-pure-treatment.html/04902111759593",
+        "label": "LUX 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://assets.unileversolutions.com/v1/1513240.png",
+    "originalLocalImage": "assets/images/products/catalog/lux-04902111759593.png",
+    "catalogGroup": "ルミニーク ボタニカルピュア",
+    "catalogOrder": 4
+  },
+  {
+    "id": "tsubaki-volume-shampoo",
+    "brand": "TSUBAKI",
+    "series": "プレミアム ボリューム＆リペア",
+    "name": "TSUBAKI プレミアム ボリューム＆リペア シャンプー",
+    "kind": "shampoo",
+    "seriesId": "TSUBAKI|プレミアム ボリューム＆リペア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/tsubaki-volume-shampoo.png",
+    "images": [
+      "assets/images/products/normalized/tsubaki-volume-shampoo.png"
+    ],
+    "shampoo": {
+      "name": "TSUBAKI プレミアム ボリューム＆リペア シャンプー",
+      "price": null,
+      "volume": "450mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://brand.finetoday.com/jp/tsubaki/products/"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://brand.finetoday.com/jp/tsubaki/products/",
+        "label": "TSUBAKI 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://brand.finetoday.com/jp/tsubaki/assets/img/underlayer_cmn/product_volume_shampoo.png",
+    "originalLocalImage": "assets/images/products/catalog/tsubaki-volume-shampoo.png",
+    "catalogGroup": "プレミアム ボリューム＆リペア",
+    "catalogOrder": 0
+  },
+  {
+    "id": "tsubaki-volume-treatment",
+    "brand": "TSUBAKI",
+    "series": "プレミアム ボリューム＆リペア",
+    "name": "TSUBAKI プレミアム ボリューム＆リペア コンディショナー",
+    "kind": "treatment",
+    "seriesId": "TSUBAKI|プレミアム ボリューム＆リペア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/tsubaki-volume-treatment.png",
+    "images": [
+      "assets/images/products/normalized/tsubaki-volume-treatment.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "TSUBAKI プレミアム ボリューム＆リペア コンディショナー",
+      "price": null,
+      "volume": "450mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://brand.finetoday.com/jp/tsubaki/products/"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://brand.finetoday.com/jp/tsubaki/products/",
+        "label": "TSUBAKI 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://brand.finetoday.com/jp/tsubaki/assets/img/underlayer_cmn/product_volume_conditioner.png",
+    "originalLocalImage": "assets/images/products/catalog/tsubaki-volume-treatment.png",
+    "catalogGroup": "プレミアム ボリューム＆リペア",
+    "catalogOrder": 0
+  },
+  {
+    "id": "tsubaki-moist-shampoo",
+    "brand": "TSUBAKI",
+    "series": "プレミアム モイスト＆リペア",
+    "name": "TSUBAKI プレミアム モイスト＆リペア シャンプー",
+    "kind": "shampoo",
+    "seriesId": "TSUBAKI|プレミアム モイスト＆リペア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/tsubaki-moist-shampoo.png",
+    "images": [
+      "assets/images/products/normalized/tsubaki-moist-shampoo.png"
+    ],
+    "shampoo": {
+      "name": "TSUBAKI プレミアム モイスト＆リペア シャンプー",
+      "price": null,
+      "volume": "450mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://brand.finetoday.com/jp/tsubaki/products/"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://brand.finetoday.com/jp/tsubaki/products/",
+        "label": "TSUBAKI 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://brand.finetoday.com/jp/tsubaki/assets/img/underlayer_cmn/product_moist_shampoo.png",
+    "originalLocalImage": "assets/images/products/catalog/tsubaki-moist-shampoo.png",
+    "catalogGroup": "プレミアム モイスト＆リペア",
+    "catalogOrder": 1
+  },
+  {
+    "id": "tsubaki-moist-treatment",
+    "brand": "TSUBAKI",
+    "series": "プレミアム モイスト＆リペア",
+    "name": "TSUBAKI プレミアム モイスト＆リペア コンディショナー",
+    "kind": "treatment",
+    "seriesId": "TSUBAKI|プレミアム モイスト＆リペア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/tsubaki-moist-treatment.png",
+    "images": [
+      "assets/images/products/normalized/tsubaki-moist-treatment.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "TSUBAKI プレミアム モイスト＆リペア コンディショナー",
+      "price": null,
+      "volume": "450mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://brand.finetoday.com/jp/tsubaki/products/"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://brand.finetoday.com/jp/tsubaki/products/",
+        "label": "TSUBAKI 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://brand.finetoday.com/jp/tsubaki/assets/img/underlayer_cmn/product_moist_conditioner.png",
+    "originalLocalImage": "assets/images/products/catalog/tsubaki-moist-treatment.png",
+    "catalogGroup": "プレミアム モイスト＆リペア",
+    "catalogOrder": 1
+  },
+  {
+    "id": "tsubaki-ex-shampoo",
+    "brand": "TSUBAKI",
+    "series": "プレミアムEX ダメージケア＆リペア",
+    "name": "TSUBAKI プレミアムEX ダメージケア＆リペア シャンプー",
+    "kind": "shampoo",
+    "seriesId": "TSUBAKI|プレミアムEX ダメージケア＆リペア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/tsubaki-ex-shampoo.png",
+    "images": [
+      "assets/images/products/normalized/tsubaki-ex-shampoo.png"
+    ],
+    "shampoo": {
+      "name": "TSUBAKI プレミアムEX ダメージケア＆リペア シャンプー",
+      "price": null,
+      "volume": "450mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://brand.finetoday.com/jp/tsubaki/products/"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://brand.finetoday.com/jp/tsubaki/products/",
+        "label": "TSUBAKI 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://brand.finetoday.com/jp/tsubaki/assets/img/underlayer_cmn/product_shampoo.png",
+    "originalLocalImage": "assets/images/products/catalog/tsubaki-ex-shampoo.png",
+    "catalogGroup": "プレミアムEX ダメージケア＆リペア",
+    "catalogOrder": 2
+  },
+  {
+    "id": "tsubaki-ex-treatment",
+    "brand": "TSUBAKI",
+    "series": "プレミアムEX ダメージケア＆リペア",
+    "name": "TSUBAKI プレミアムEX ダメージケア＆リペア トリートメント",
+    "kind": "treatment",
+    "seriesId": "TSUBAKI|プレミアムEX ダメージケア＆リペア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/tsubaki-ex-treatment.png",
+    "images": [
+      "assets/images/products/normalized/tsubaki-ex-treatment.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "TSUBAKI プレミアムEX ダメージケア＆リペア トリートメント",
+      "price": null,
+      "volume": "450mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://brand.finetoday.com/jp/tsubaki/products/"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://brand.finetoday.com/jp/tsubaki/products/",
+        "label": "TSUBAKI 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://brand.finetoday.com/jp/tsubaki/assets/img/underlayer_cmn/product_treatment.png",
+    "originalLocalImage": "assets/images/products/catalog/tsubaki-ex-treatment.png",
+    "catalogGroup": "プレミアムEX ダメージケア＆リペア",
+    "catalogOrder": 2
+  },
+  {
+    "id": "ululis-aqua-shampoo",
+    "brand": "ululis",
+    "series": "AQUA",
+    "name": "ウルリス AQUA ウォーターコンク モイスチャー シャンプー",
+    "kind": "shampoo",
+    "seriesId": "ululis|AQUA",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/ululis-aqua-shampoo.png",
+    "images": [
+      "assets/images/products/normalized/ululis-aqua-shampoo.png"
+    ],
+    "shampoo": {
+      "name": "ウルリス AQUA ウォーターコンク モイスチャー シャンプー",
+      "price": 1595,
+      "volume": "340mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.ululis.jp/aqua/"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": "アクアガーデンの香り",
+      "verified": true,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.ululis.jp/aqua/",
+        "label": "ululis 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.ululis.jp/aqua/img/product/shampoo.png",
+    "originalLocalImage": "assets/images/products/catalog/ululis-aqua-shampoo.png",
+    "catalogGroup": "AQUA",
+    "catalogOrder": 0
+  },
+  {
+    "id": "ululis-aqua-treatment",
+    "brand": "ululis",
+    "series": "AQUA",
+    "name": "ウルリス AQUA ウォーターコンク モイスチャー ヘアトリートメント",
+    "kind": "treatment",
+    "seriesId": "ululis|AQUA",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/ululis-aqua-treatment.png",
+    "images": [
+      "assets/images/products/normalized/ululis-aqua-treatment.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ウルリス AQUA ウォーターコンク モイスチャー ヘアトリートメント",
+      "price": 1595,
+      "volume": "335g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.ululis.jp/aqua/"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": "アクアカモミールの香り",
+      "verified": true,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.ululis.jp/aqua/",
+        "label": "ululis 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.ululis.jp/aqua/img/product/treatment.png",
+    "originalLocalImage": "assets/images/products/catalog/ululis-aqua-treatment.png",
+    "catalogGroup": "AQUA",
+    "catalogOrder": 0
+  },
+  {
+    "id": "ululis-kirameki-shampoo",
+    "brand": "ululis",
+    "series": "kirameki",
+    "name": "ウルリス kirameki ウォーターコンク シャイニー シャンプー",
+    "kind": "shampoo",
+    "seriesId": "ululis|kirameki",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/ululis-kirameki-shampoo.png",
+    "images": [
+      "assets/images/products/normalized/ululis-kirameki-shampoo.png"
+    ],
+    "shampoo": {
+      "name": "ウルリス kirameki ウォーターコンク シャイニー シャンプー",
+      "price": 1595,
+      "volume": "340mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.ululis.jp/kirameki/"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": "シャボンブーケの香り",
+      "verified": true,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.ululis.jp/kirameki/",
+        "label": "ululis 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.ululis.jp/kirameki/img/item-shampoo.png",
+    "originalLocalImage": "assets/images/products/catalog/ululis-kirameki-shampoo.png",
+    "catalogGroup": "kirameki",
+    "catalogOrder": 1
+  },
+  {
+    "id": "ululis-kirameki-treatment",
+    "brand": "ululis",
+    "series": "kirameki",
+    "name": "ウルリス kirameki ウォーターコンク シャイニー ヘアトリートメント",
+    "kind": "treatment",
+    "seriesId": "ululis|kirameki",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/ululis-kirameki-treatment.png",
+    "images": [
+      "assets/images/products/normalized/ululis-kirameki-treatment.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ウルリス kirameki ウォーターコンク シャイニー ヘアトリートメント",
+      "price": 1595,
+      "volume": "335g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.ululis.jp/kirameki/"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": "アクアピオニーの香り",
+      "verified": true,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.ululis.jp/kirameki/",
+        "label": "ululis 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.ululis.jp/kirameki/img/item-treatment.png",
+    "originalLocalImage": "assets/images/products/catalog/ululis-kirameki-treatment.png",
+    "catalogGroup": "kirameki",
+    "catalogOrder": 1
+  },
+  {
+    "id": "ululis-pinkme-shampoo",
+    "brand": "ululis",
+    "series": "PINKme",
+    "name": "ウルリス PINKme ウォーターコンク コントロール シャンプー",
+    "kind": "shampoo",
+    "seriesId": "ululis|PINKme",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/ululis-pinkme-shampoo.png",
+    "images": [
+      "assets/images/products/normalized/ululis-pinkme-shampoo.png"
+    ],
+    "shampoo": {
+      "name": "ウルリス PINKme ウォーターコンク コントロール シャンプー",
+      "price": 1595,
+      "volume": "340mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.ululis.jp/pinkme/"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": "シャボンローゼの香り",
+      "verified": true,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.ululis.jp/pinkme/",
+        "label": "ululis 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.ululis.jp/pinkme/img/item-1.png",
+    "originalLocalImage": "assets/images/products/catalog/ululis-pinkme-shampoo.png",
+    "catalogGroup": "PINKme",
+    "catalogOrder": 2
+  },
+  {
+    "id": "ululis-pinkme-treatment",
+    "brand": "ululis",
+    "series": "PINKme",
+    "name": "ウルリス PINKme ウォーターコンク コントロール ヘアトリートメント",
+    "kind": "treatment",
+    "seriesId": "ululis|PINKme",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/ululis-pinkme-treatment.png",
+    "images": [
+      "assets/images/products/normalized/ululis-pinkme-treatment.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ウルリス PINKme ウォーターコンク コントロール ヘアトリートメント",
+      "price": 1595,
+      "volume": "335g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.ululis.jp/pinkme/"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": "ピンクアクアの香り",
+      "verified": true,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.ululis.jp/pinkme/",
+        "label": "ululis 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.ululis.jp/pinkme/img/item-2.png",
+    "originalLocalImage": "assets/images/products/catalog/ululis-pinkme-treatment.png",
+    "catalogGroup": "PINKme",
+    "catalogOrder": 2
+  },
+  {
+    "id": "ululis-premium-shampoo",
+    "brand": "ululis",
+    "series": "Premium",
+    "name": "ウルリス Premium ウォーターコンク ブラックセラム シャンプー",
+    "kind": "shampoo",
+    "seriesId": "ululis|Premium",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/ululis-premium-shampoo.png",
+    "images": [
+      "assets/images/products/normalized/ululis-premium-shampoo.png"
+    ],
+    "shampoo": {
+      "name": "ウルリス Premium ウォーターコンク ブラックセラム シャンプー",
+      "price": 1650,
+      "volume": "340mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.ululis.jp/premium/"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": "ブラックフルールの香り",
+      "verified": true,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.ululis.jp/premium/",
+        "label": "ululis 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.ululis.jp/premium/img/product/shampoo.webp",
+    "originalLocalImage": "assets/images/products/catalog/ululis-premium-shampoo-bottle.webp",
+    "catalogGroup": "Premium",
+    "catalogOrder": 3
+  },
+  {
+    "id": "ululis-premium-treatment",
+    "brand": "ululis",
+    "series": "Premium",
+    "name": "ウルリス Premium ウォーターコンク ブラックセラム ヘアトリートメント",
+    "kind": "treatment",
+    "seriesId": "ululis|Premium",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/ululis-premium-treatment.png",
+    "images": [
+      "assets/images/products/normalized/ululis-premium-treatment.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ウルリス Premium ウォーターコンク ブラックセラム ヘアトリートメント",
+      "price": 1650,
+      "volume": "335g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.ululis.jp/premium/"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": "ブラックフルールの香り",
+      "verified": true,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.ululis.jp/premium/",
+        "label": "ululis 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.ululis.jp/premium/img/product/treatment.webp",
+    "originalLocalImage": "assets/images/products/catalog/ululis-premium-treatment.webp",
+    "catalogGroup": "Premium",
+    "catalogOrder": 3
+  },
+  {
+    "id": "ululis-vitac-shampoo",
+    "brand": "ululis",
+    "series": "VITA.C",
+    "name": "ウルリス VITA.C ウォーターコンク EX シャンプー",
+    "kind": "shampoo",
+    "seriesId": "ululis|VITA.C",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/ululis-vitac-shampoo.png",
+    "images": [
+      "assets/images/products/normalized/ululis-vitac-shampoo.png"
+    ],
+    "shampoo": {
+      "name": "ウルリス VITA.C ウォーターコンク EX シャンプー",
+      "price": 1595,
+      "volume": "340mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.ululis.jp/vitac/"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": "アールグレイオレンジティーの香り",
+      "verified": true,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.ululis.jp/vitac/",
+        "label": "ululis 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.ululis.jp/vitac/img/product/item-shampoo.png",
+    "originalLocalImage": "assets/images/products/catalog/ululis-vitac-shampoo.png",
+    "catalogGroup": "VITA.C",
+    "catalogOrder": 4
+  },
+  {
+    "id": "ululis-vitac-treatment",
+    "brand": "ululis",
+    "series": "VITA.C",
+    "name": "ウルリス VITA.C ウォーターコンク EX ヘアトリートメント",
+    "kind": "treatment",
+    "seriesId": "ululis|VITA.C",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/ululis-vitac-treatment.png",
+    "images": [
+      "assets/images/products/normalized/ululis-vitac-treatment.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ウルリス VITA.C ウォーターコンク EX ヘアトリートメント",
+      "price": 1595,
+      "volume": "335g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.ululis.jp/vitac/"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": "フレッシュオレンジの香り",
+      "verified": true,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.ululis.jp/vitac/",
+        "label": "ululis 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.ululis.jp/vitac/img/product/item-treatment.png",
+    "originalLocalImage": "assets/images/products/catalog/ululis-vitac-treatment.png",
+    "catalogGroup": "VITA.C",
+    "catalogOrder": 4
+  },
+  {
+    "id": "ichikami-10193007",
+    "brand": "いち髪",
+    "series": "なめらかスムースケア",
+    "name": "いち髪 なめらかスムースケア シャンプー",
+    "kind": "shampoo",
+    "seriesId": "いち髪|なめらかスムースケア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/ichikami-10193007.png",
+    "images": [
+      "assets/images/products/normalized/ichikami-10193007.png"
+    ],
+    "shampoo": {
+      "name": "いち髪 なめらかスムースケア シャンプー",
+      "price": null,
+      "volume": "450mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.kracie.co.jp/products/khp/10193007_21121.html"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.kracie.co.jp/products/khp/10193007_21121.html",
+        "label": "いち髪 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.kracie.co.jp/products/image/item/khp_ichikami_nameraka_shampoo_560.png",
+    "originalLocalImage": "assets/images/products/catalog/ichikami-10193007.png",
+    "catalogGroup": "なめらかスムースケア",
+    "catalogOrder": 0
+  },
+  {
+    "id": "ichikami-10193008",
+    "brand": "いち髪",
+    "series": "なめらかスムースケア",
+    "name": "いち髪 なめらかスムースケア コンディショナー",
+    "kind": "treatment",
+    "seriesId": "いち髪|なめらかスムースケア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/ichikami-10193008.png",
+    "images": [
+      "assets/images/products/normalized/ichikami-10193008.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "いち髪 なめらかスムースケア コンディショナー",
+      "price": null,
+      "volume": "450g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.kracie.co.jp/products/khp/10193008_21121.html"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.kracie.co.jp/products/khp/10193008_21121.html",
+        "label": "いち髪 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.kracie.co.jp/products/image/item/khp_ichikami_nameraka_conditioner_560.png",
+    "originalLocalImage": "assets/images/products/catalog/ichikami-10193008.png",
+    "catalogGroup": "なめらかスムースケア",
+    "catalogOrder": 0
+  },
+  {
+    "id": "ichikami-10193011",
+    "brand": "いち髪",
+    "series": "濃密Ｗ保湿ケア",
+    "name": "いち髪 濃密Ｗ保湿ケア シャンプー",
+    "kind": "shampoo",
+    "seriesId": "いち髪|濃密Ｗ保湿ケア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/ichikami-10193011.png",
+    "images": [
+      "assets/images/products/normalized/ichikami-10193011.png"
+    ],
+    "shampoo": {
+      "name": "いち髪 濃密Ｗ保湿ケア シャンプー",
+      "price": null,
+      "volume": "450mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.kracie.co.jp/products/khp/10193011_21121.html"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.kracie.co.jp/products/khp/10193011_21121.html",
+        "label": "いち髪 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.kracie.co.jp/products/image/item/khp_ichikami_hoshitsu_shampoo_560.png",
+    "originalLocalImage": "assets/images/products/catalog/ichikami-10193011.png",
+    "catalogGroup": "濃密Ｗ保湿ケア",
+    "catalogOrder": 1
+  },
+  {
+    "id": "ichikami-10193013",
+    "brand": "いち髪",
+    "series": "濃密Ｗ保湿ケア",
+    "name": "いち髪 濃密Ｗ保湿ケア コンディショナー",
+    "kind": "treatment",
+    "seriesId": "いち髪|濃密Ｗ保湿ケア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/ichikami-10193013.png",
+    "images": [
+      "assets/images/products/normalized/ichikami-10193013.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "いち髪 濃密Ｗ保湿ケア コンディショナー",
+      "price": null,
+      "volume": "450g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.kracie.co.jp/products/khp/10193013_21121.html"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.kracie.co.jp/products/khp/10193013_21121.html",
+        "label": "いち髪 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.kracie.co.jp/products/image/item/khp_ichikami_hoshitsu_conditioner_560.png",
+    "originalLocalImage": "assets/images/products/catalog/ichikami-10193013.png",
+    "catalogGroup": "濃密Ｗ保湿ケア",
+    "catalogOrder": 1
+  },
+  {
+    "id": "cocon-10193398",
+    "brand": "ココンシュペール",
+    "series": "エアリーブルーム",
+    "name": "ココンシュペール インナーコンフォートシャンプー（エアリーブルーム）",
+    "kind": "shampoo",
+    "seriesId": "ココンシュペール|エアリーブルーム",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/cocon-10193398.png",
+    "images": [
+      "assets/images/products/normalized/cocon-10193398.png"
+    ],
+    "shampoo": {
+      "name": "ココンシュペール インナーコンフォートシャンプー（エアリーブルーム）",
+      "price": null,
+      "volume": "500mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.kracie.co.jp/products/khp/10193398_21121.html"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.kracie.co.jp/products/khp/10193398_21121.html",
+        "label": "ココンシュペール 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.kracie.co.jp/products/image/item/khp_coconsuper_airy_sham_560.png",
+    "originalLocalImage": "assets/images/products/catalog/cocon-10193398.png",
+    "catalogGroup": "エアリーブルーム",
+    "catalogOrder": 0
+  },
+  {
+    "id": "cocon-10193399",
+    "brand": "ココンシュペール",
+    "series": "エアリーブルーム",
+    "name": "ココンシュペール インテンシブリペアトリートメント（エアリーブルーム）",
+    "kind": "treatment",
+    "seriesId": "ココンシュペール|エアリーブルーム",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/cocon-10193399.png",
+    "images": [
+      "assets/images/products/normalized/cocon-10193399.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ココンシュペール インテンシブリペアトリートメント（エアリーブルーム）",
+      "price": null,
+      "volume": "500g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.kracie.co.jp/products/khp/10193399_21121.html"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.kracie.co.jp/products/khp/10193399_21121.html",
+        "label": "ココンシュペール 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.kracie.co.jp/products/image/item/khp_coconsuper_airy_tr_560.png",
+    "originalLocalImage": "assets/images/products/catalog/cocon-10193399.png",
+    "catalogGroup": "エアリーブルーム",
+    "catalogOrder": 0
+  },
+  {
+    "id": "cocon-10193401",
+    "brand": "ココンシュペール",
+    "series": "スリーク＆リッチ",
+    "name": "ココンシュペール インナーコンフォートシャンプー（スリーク＆リッチ）",
+    "kind": "shampoo",
+    "seriesId": "ココンシュペール|スリーク＆リッチ",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/cocon-10193401.png",
+    "images": [
+      "assets/images/products/normalized/cocon-10193401.png"
+    ],
+    "shampoo": {
+      "name": "ココンシュペール インナーコンフォートシャンプー（スリーク＆リッチ）",
+      "price": null,
+      "volume": "500mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.kracie.co.jp/products/khp/10193401_21121.html"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.kracie.co.jp/products/khp/10193401_21121.html",
+        "label": "ココンシュペール 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.kracie.co.jp/products/image/item/khp_coconsuper_sleek_sham_560.png",
+    "originalLocalImage": "assets/images/products/catalog/cocon-10193401.png",
+    "catalogGroup": "スリーク＆リッチ",
+    "catalogOrder": 1
+  },
+  {
+    "id": "cocon-10193402",
+    "brand": "ココンシュペール",
+    "series": "スリーク＆リッチ",
+    "name": "ココンシュペール インテンシブリペアトリートメント（スリーク＆リッチ）",
+    "kind": "treatment",
+    "seriesId": "ココンシュペール|スリーク＆リッチ",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/cocon-10193402.png",
+    "images": [
+      "assets/images/products/normalized/cocon-10193402.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ココンシュペール インテンシブリペアトリートメント（スリーク＆リッチ）",
+      "price": null,
+      "volume": "500g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.kracie.co.jp/products/khp/10193402_21121.html"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.kracie.co.jp/products/khp/10193402_21121.html",
+        "label": "ココンシュペール 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.kracie.co.jp/products/image/item/khp_coconsuper_sleek_tr_560.png",
+    "originalLocalImage": "assets/images/products/catalog/cocon-10193402.png",
+    "catalogGroup": "スリーク＆リッチ",
+    "catalogOrder": 1
+  },
+  {
+    "id": "cocon-10193405",
+    "brand": "ココンシュペール",
+    "series": "ピュアスカルプ",
+    "name": "ココンシュペール インナーコンフォートシャンプー（ピュアスカルプ）",
+    "kind": "shampoo",
+    "seriesId": "ココンシュペール|ピュアスカルプ",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/cocon-10193405.png",
+    "images": [
+      "assets/images/products/normalized/cocon-10193405.png"
+    ],
+    "shampoo": {
+      "name": "ココンシュペール インナーコンフォートシャンプー（ピュアスカルプ）",
+      "price": null,
+      "volume": "500mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.kracie.co.jp/products/khp/10193405_21121.html"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.kracie.co.jp/products/khp/10193405_21121.html",
+        "label": "ココンシュペール 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.kracie.co.jp/products/image/item/khp_coconsuper_scalp_sham_560.png",
+    "originalLocalImage": "assets/images/products/catalog/cocon-10193405.png",
+    "catalogGroup": "ピュアスカルプ",
+    "catalogOrder": 2
+  },
+  {
+    "id": "cocon-10193406",
+    "brand": "ココンシュペール",
+    "series": "ピュアスカルプ",
+    "name": "ココンシュペール インテンシブリペアトリートメント（ピュアスカルプ）",
+    "kind": "treatment",
+    "seriesId": "ココンシュペール|ピュアスカルプ",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/cocon-10193406.png",
+    "images": [
+      "assets/images/products/normalized/cocon-10193406.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ココンシュペール インテンシブリペアトリートメント（ピュアスカルプ）",
+      "price": null,
+      "volume": "500g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.kracie.co.jp/products/khp/10193406_21121.html"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.kracie.co.jp/products/khp/10193406_21121.html",
+        "label": "ココンシュペール 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.kracie.co.jp/products/image/item/khp_coconsuper_scalp_tr_560.png",
+    "originalLocalImage": "assets/images/products/catalog/cocon-10193406.png",
+    "catalogGroup": "ピュアスカルプ",
+    "catalogOrder": 2
+  },
+  {
+    "id": "himawari-10142356",
+    "brand": "ディアボーテ HIMAWARI",
+    "series": "グロス＆リペア",
+    "name": "ディアボーテ オイルインシャンプー（グロス＆リペア）",
+    "kind": "shampoo",
+    "seriesId": "ディアボーテ HIMAWARI|グロス＆リペア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/himawari-10142356.png",
+    "images": [
+      "assets/images/products/normalized/himawari-10142356.png"
+    ],
+    "shampoo": {
+      "name": "ディアボーテ オイルインシャンプー（グロス＆リペア）",
+      "price": null,
+      "volume": "500mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.kracie.co.jp/products/khp/10142356_21121.html"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.kracie.co.jp/products/khp/10142356_21121.html",
+        "label": "ディアボーテ HIMAWARI 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.kracie.co.jp/products/image/item/khp_dearbeaute_sham_shampoo_gr_500.jpg",
+    "originalLocalImage": "assets/images/products/catalog/himawari-10142356.jpg",
+    "catalogGroup": "グロス＆リペア",
+    "catalogOrder": 0
+  },
+  {
+    "id": "himawari-10142360",
+    "brand": "ディアボーテ HIMAWARI",
+    "series": "グロス＆リペア",
+    "name": "ディアボーテ オイルインコンディショナー（グロス＆リペア）",
+    "kind": "treatment",
+    "seriesId": "ディアボーテ HIMAWARI|グロス＆リペア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/himawari-10142360.png",
+    "images": [
+      "assets/images/products/normalized/himawari-10142360.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ディアボーテ オイルインコンディショナー（グロス＆リペア）",
+      "price": null,
+      "volume": "500g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.kracie.co.jp/products/khp/10142360_21121.html"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.kracie.co.jp/products/khp/10142360_21121.html",
+        "label": "ディアボーテ HIMAWARI 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.kracie.co.jp/products/image/item/khp_dearbeaute_sham_conditioner_gr_500.jpg",
+    "originalLocalImage": "assets/images/products/catalog/himawari-10142360.jpg",
+    "catalogGroup": "グロス＆リペア",
+    "catalogOrder": 0
+  },
+  {
+    "id": "himawari-10167333",
+    "brand": "ディアボーテ HIMAWARI",
+    "series": "スムース＆リペア",
+    "name": "ディアボーテ オイルインシャンプー（スムース＆リペア）",
+    "kind": "shampoo",
+    "seriesId": "ディアボーテ HIMAWARI|スムース＆リペア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/himawari-10167333.png",
+    "images": [
+      "assets/images/products/normalized/himawari-10167333.png"
+    ],
+    "shampoo": {
+      "name": "ディアボーテ オイルインシャンプー（スムース＆リペア）",
+      "price": null,
+      "volume": "500mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.kracie.co.jp/products/khp/10167333_21121.html"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.kracie.co.jp/products/khp/10167333_21121.html",
+        "label": "ディアボーテ HIMAWARI 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.kracie.co.jp/products/image/item/khp_dearbeaute_sham_shampoo_sr_500.jpg",
+    "originalLocalImage": "assets/images/products/catalog/himawari-10167333.jpg",
+    "catalogGroup": "スムース＆リペア",
+    "catalogOrder": 1
+  },
+  {
+    "id": "himawari-10167332",
+    "brand": "ディアボーテ HIMAWARI",
+    "series": "スムース＆リペア",
+    "name": "ディアボーテ オイルインコンディショナー（スムース＆リペア）",
+    "kind": "treatment",
+    "seriesId": "ディアボーテ HIMAWARI|スムース＆リペア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/himawari-10167332.png",
+    "images": [
+      "assets/images/products/normalized/himawari-10167332.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ディアボーテ オイルインコンディショナー（スムース＆リペア）",
+      "price": null,
+      "volume": "500g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.kracie.co.jp/products/khp/10167332_21121.html"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.kracie.co.jp/products/khp/10167332_21121.html",
+        "label": "ディアボーテ HIMAWARI 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.kracie.co.jp/products/image/item/khp_dearbeaute_sham_conditioner_sr_500.jpg",
+    "originalLocalImage": "assets/images/products/catalog/himawari-10167332.jpg",
+    "catalogGroup": "スムース＆リペア",
+    "catalogOrder": 1
+  },
+  {
+    "id": "himawari-10094921",
+    "brand": "ディアボーテ HIMAWARI",
+    "series": "リッチ＆リペア",
+    "name": "ディアボーテ オイルインシャンプー（リッチ＆リペア）",
+    "kind": "shampoo",
+    "seriesId": "ディアボーテ HIMAWARI|リッチ＆リペア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/himawari-10094921.png",
+    "images": [
+      "assets/images/products/normalized/himawari-10094921.png"
+    ],
+    "shampoo": {
+      "name": "ディアボーテ オイルインシャンプー（リッチ＆リペア）",
+      "price": null,
+      "volume": "500mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.kracie.co.jp/products/khp/10094921_21121.html"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.kracie.co.jp/products/khp/10094921_21121.html",
+        "label": "ディアボーテ HIMAWARI 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.kracie.co.jp/products/image/item/khp_dearbeaute_sham_shampoo_rr_500.jpg",
+    "originalLocalImage": "assets/images/products/catalog/himawari-10094921.jpg",
+    "catalogGroup": "リッチ＆リペア",
+    "catalogOrder": 2
+  },
+  {
+    "id": "himawari-10094922",
+    "brand": "ディアボーテ HIMAWARI",
+    "series": "リッチ＆リペア",
+    "name": "ディアボーテ オイルインコンディショナー（リッチ＆リペア）",
+    "kind": "treatment",
+    "seriesId": "ディアボーテ HIMAWARI|リッチ＆リペア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/himawari-10094922.png",
+    "images": [
+      "assets/images/products/normalized/himawari-10094922.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ディアボーテ オイルインコンディショナー（リッチ＆リペア）",
+      "price": null,
+      "volume": "500g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.kracie.co.jp/products/khp/10094922_21121.html"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.kracie.co.jp/products/khp/10094922_21121.html",
+        "label": "ディアボーテ HIMAWARI 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.kracie.co.jp/products/image/item/khp_dearbeaute_sham_conditioner_rr_500.jpg",
+    "originalLocalImage": "assets/images/products/catalog/himawari-10094922.jpg",
+    "catalogGroup": "リッチ＆リペア",
+    "catalogOrder": 2
+  },
+  {
+    "id": "bloom-10192534",
+    "brand": "ディアボーテ ブルームドール",
+    "series": "モイスチャーイン",
+    "name": "ディアボーテ ブルームドール モイスチャーイン シャンプー",
+    "kind": "shampoo",
+    "seriesId": "ディアボーテ ブルームドール|モイスチャーイン",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/bloom-10192534.png",
+    "images": [
+      "assets/images/products/normalized/bloom-10192534.png"
+    ],
+    "shampoo": {
+      "name": "ディアボーテ ブルームドール モイスチャーイン シャンプー",
+      "price": null,
+      "volume": "390mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.kracie.co.jp/products/khp/10192534_21121.html"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.kracie.co.jp/products/khp/10192534_21121.html",
+        "label": "ディアボーテ ブルームドール 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.kracie.co.jp/products/image/item/khp_dearbeaute_bloomdor_shampoo_560.jpg",
+    "originalLocalImage": "assets/images/products/catalog/bloom-10192534.jpg",
+    "catalogGroup": "モイスチャーイン",
+    "catalogOrder": 0
+  },
+  {
+    "id": "bloom-10192676",
+    "brand": "ディアボーテ ブルームドール",
+    "series": "モイスチャーイン",
+    "name": "ディアボーテ ブルームドール モイスチャーイン トリートメント",
+    "kind": "treatment",
+    "seriesId": "ディアボーテ ブルームドール|モイスチャーイン",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/bloom-10192676.png",
+    "images": [
+      "assets/images/products/normalized/bloom-10192676.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ディアボーテ ブルームドール モイスチャーイン トリートメント",
+      "price": null,
+      "volume": "390g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.kracie.co.jp/products/khp/10192676_21121.html"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.kracie.co.jp/products/khp/10192676_21121.html",
+        "label": "ディアボーテ ブルームドール 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.kracie.co.jp/products/image/item/khp_dearbeaute_bloomdor_treatment_560.jpg",
+    "originalLocalImage": "assets/images/products/catalog/bloom-10192676.jpg",
+    "catalogGroup": "モイスチャーイン",
+    "catalogOrder": 0
+  },
+  {
+    "id": "maandme-10163821",
+    "brand": "マー＆ミー",
+    "series": "ダメージリペア",
+    "name": "マー＆ミー ダメージリペア シャンプー",
+    "kind": "shampoo",
+    "seriesId": "マー＆ミー|ダメージリペア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/maandme-10163821.png",
+    "images": [
+      "assets/images/products/normalized/maandme-10163821.png"
+    ],
+    "shampoo": {
+      "name": "マー＆ミー ダメージリペア シャンプー",
+      "price": null,
+      "volume": "490mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.kracie.co.jp/products/khp/10163821_21121.html"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.kracie.co.jp/products/khp/10163821_21121.html",
+        "label": "マー＆ミー 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.kracie.co.jp/products/image/item/khp_mame_sham_dshampoo_500.jpg",
+    "originalLocalImage": "assets/images/products/catalog/maandme-10163821.jpg",
+    "catalogGroup": "ダメージリペア",
+    "catalogOrder": 0
+  },
+  {
+    "id": "maandme-10163822",
+    "brand": "マー＆ミー",
+    "series": "ダメージリペア",
+    "name": "マー＆ミー ダメージリペア コンディショナー",
+    "kind": "treatment",
+    "seriesId": "マー＆ミー|ダメージリペア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/maandme-10163822.png",
+    "images": [
+      "assets/images/products/normalized/maandme-10163822.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "マー＆ミー ダメージリペア コンディショナー",
+      "price": null,
+      "volume": "490g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.kracie.co.jp/products/khp/10163822_21121.html"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.kracie.co.jp/products/khp/10163822_21121.html",
+        "label": "マー＆ミー 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.kracie.co.jp/products/image/item/khp_mame_sham_dconditioner_500.jpg",
+    "originalLocalImage": "assets/images/products/catalog/maandme-10163822.jpg",
+    "catalogGroup": "ダメージリペア",
+    "catalogOrder": 0
+  },
+  {
+    "id": "maandme-10147458",
+    "brand": "マー＆ミー",
+    "series": "ベーシック",
+    "name": "マー＆ミー シャンプー",
+    "kind": "shampoo",
+    "seriesId": "マー＆ミー|ベーシック",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/maandme-10147458.png",
+    "images": [
+      "assets/images/products/normalized/maandme-10147458.png"
+    ],
+    "shampoo": {
+      "name": "マー＆ミー シャンプー",
+      "price": null,
+      "volume": "490mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.kracie.co.jp/products/khp/10147458_21121.html"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.kracie.co.jp/products/khp/10147458_21121.html",
+        "label": "マー＆ミー 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.kracie.co.jp/products/image/item/khp_mame_sham_shampoo_ap_500.jpg",
+    "originalLocalImage": "assets/images/products/catalog/maandme-10147458.jpg",
+    "catalogGroup": "ベーシック",
+    "catalogOrder": 1
+  },
+  {
+    "id": "maandme-10147459",
+    "brand": "マー＆ミー",
+    "series": "ベーシック",
+    "name": "マー＆ミー コンディショナー",
+    "kind": "treatment",
+    "seriesId": "マー＆ミー|ベーシック",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/maandme-10147459.png",
+    "images": [
+      "assets/images/products/normalized/maandme-10147459.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "マー＆ミー コンディショナー",
+      "price": null,
+      "volume": "490g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.kracie.co.jp/products/khp/10147459_21121.html"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.kracie.co.jp/products/khp/10147459_21121.html",
+        "label": "マー＆ミー 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.kracie.co.jp/products/image/item/khp_mame_sham_conditioner_ap_500.jpg",
+    "originalLocalImage": "assets/images/products/catalog/maandme-10147459.jpg",
+    "catalogGroup": "ベーシック",
+    "catalogOrder": 1
+  },
+  {
+    "id": "umi-1201568",
+    "brand": "海のうるおい藻",
+    "series": "うるおいケア",
+    "name": "海のうるおい藻 うるおいケアシャンプー",
+    "kind": "shampoo",
+    "seriesId": "海のうるおい藻|うるおいケア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/umi-1201568.png",
+    "images": [
+      "assets/images/products/normalized/umi-1201568.png"
+    ],
+    "shampoo": {
+      "name": "海のうるおい藻 うるおいケアシャンプー",
+      "price": null,
+      "volume": "490mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.kracie.co.jp/products/khp/1201568_21121.html"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.kracie.co.jp/products/khp/1201568_21121.html",
+        "label": "海のうるおい藻 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.kracie.co.jp/products/image/item/khp_umiuru_sham_uruoi_shampoo_500.jpg",
+    "originalLocalImage": "assets/images/products/catalog/umi-1201568.jpg",
+    "catalogGroup": "うるおいケア",
+    "catalogOrder": 0
+  },
+  {
+    "id": "umi-1201570",
+    "brand": "海のうるおい藻",
+    "series": "うるおいケア",
+    "name": "海のうるおい藻 うるおいケアコンディショナー",
+    "kind": "treatment",
+    "seriesId": "海のうるおい藻|うるおいケア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/umi-1201570.png",
+    "images": [
+      "assets/images/products/normalized/umi-1201570.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "海のうるおい藻 うるおいケアコンディショナー",
+      "price": null,
+      "volume": "490g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.kracie.co.jp/products/khp/1201570_21121.html"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.kracie.co.jp/products/khp/1201570_21121.html",
+        "label": "海のうるおい藻 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.kracie.co.jp/products/image/item/khp_umiuru_sham_uruoi_conditioner_500.jpg",
+    "originalLocalImage": "assets/images/products/catalog/umi-1201570.jpg",
+    "catalogGroup": "うるおいケア",
+    "catalogOrder": 0
+  },
+  {
+    "id": "meguri-10193637",
+    "brand": "巡草花",
+    "series": "リペアグロウ",
+    "name": "巡草花 リペアグロウシャンプー",
+    "kind": "shampoo",
+    "seriesId": "巡草花|リペアグロウ",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/meguri-10193637.png",
+    "images": [
+      "assets/images/products/normalized/meguri-10193637.png"
+    ],
+    "shampoo": {
+      "name": "巡草花 リペアグロウシャンプー",
+      "price": null,
+      "volume": "480mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.kracie.co.jp/products/khp/10193637_21121.html"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.kracie.co.jp/products/khp/10193637_21121.html",
+        "label": "巡草花 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.kracie.co.jp/products/image/item/khp_megurisouka_shampoo_560.png",
+    "originalLocalImage": "assets/images/products/catalog/meguri-10193637.png",
+    "catalogGroup": "リペアグロウ",
+    "catalogOrder": 0
+  },
+  {
+    "id": "meguri-10193638",
+    "brand": "巡草花",
+    "series": "リペアグロウ",
+    "name": "巡草花 リペアグロウトリートメント",
+    "kind": "treatment",
+    "seriesId": "巡草花|リペアグロウ",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/meguri-10193638.png",
+    "images": [
+      "assets/images/products/normalized/meguri-10193638.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "巡草花 リペアグロウトリートメント",
+      "price": null,
+      "volume": "480g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.kracie.co.jp/products/khp/10193638_21121.html"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.kracie.co.jp/products/khp/10193638_21121.html",
+        "label": "巡草花 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://www.kracie.co.jp/products/image/item/khp_megurisouka_treatment_560.png",
+    "originalLocalImage": "assets/images/products/catalog/meguri-10193638.png",
+    "catalogGroup": "リペアグロウ",
+    "catalogOrder": 0
+  },
+  {
+    "id": "lux-04902111778815",
+    "brand": "LUX",
+    "series": "スーパーリッチクリスタル マルチダメージリペア",
+    "name": "ラックス スーパーリッチクリスタル マルチダメージリペア シャンプー",
+    "kind": "shampoo",
+    "seriesId": "LUX|スーパーリッチクリスタル マルチダメージリペア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/lux-04902111778815.png",
+    "images": [
+      "assets/images/products/normalized/lux-04902111778815.png"
+    ],
+    "shampoo": {
+      "name": "ラックス スーパーリッチクリスタル マルチダメージリペア シャンプー",
+      "price": null,
+      "volume": "450g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.lux.co.jp/p/superrichcrystal-multi-damage-repair-shampoo.html/04902111778815"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": "スズラン＆ジャスミンの香り",
+      "verified": true,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.lux.co.jp/p/superrichcrystal-multi-damage-repair-shampoo.html/04902111778815",
+        "label": "LUX 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://assets.unileversolutions.com/v1/144130801.png",
+    "originalLocalImage": "assets/images/products/catalog/lux-04902111778815.png",
+    "catalogGroup": "スーパーリッチクリスタル マルチダメージリペア",
+    "catalogOrder": 4
+  },
+  {
+    "id": "lux-04902111778839",
+    "brand": "LUX",
+    "series": "スーパーリッチクリスタル マルチダメージリペア",
+    "name": "ラックス スーパーリッチクリスタル マルチダメージリペア トリートメント",
+    "kind": "treatment",
+    "seriesId": "LUX|スーパーリッチクリスタル マルチダメージリペア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/lux-04902111778839.png",
+    "images": [
+      "assets/images/products/normalized/lux-04902111778839.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ラックス スーパーリッチクリスタル マルチダメージリペア トリートメント",
+      "price": null,
+      "volume": "450g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-15",
+      "sourceUrl": "https://www.lux.co.jp/p/superrichcrystal-multi-damage-repair-conditioner.html/04902111778839"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": "スズラン＆ジャスミンの香り",
+      "verified": true,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "facts-verified-scores-demo",
+    "dataNote": "商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。",
+    "sources": [
+      {
+        "url": "https://www.lux.co.jp/p/superrichcrystal-multi-damage-repair-conditioner.html/04902111778839",
+        "label": "LUX 公式商品情報",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "checkedAt": "2026-11-15",
+    "imageType": "official",
+    "catalogBatch": "2026-11",
+    "originalImageUrl": "https://assets.unileversolutions.com/v1/144130868.png",
+    "originalLocalImage": "assets/images/products/catalog/lux-04902111778839.png",
+    "catalogGroup": "スーパーリッチクリスタル マルチダメージリペア",
+    "catalogOrder": 4
   }
 ]
