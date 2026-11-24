@@ -28,6 +28,6 @@ const updated=[...products,...additions];
 await fs.writeFile('data/products.json',JSON.stringify(updated,null,2)+'\n');
 const coverage=JSON.parse(await fs.readFile('data/catalog-coverage.json','utf8'));
 const expanded=expandProducts(updated);for(const brand of new Set(additions.map(p=>p.brand))){coverage.groups[brand]=Object.fromEntries([...new Set(expanded.filter(p=>p.brand===brand).map(p=>p.series))].map(s=>[s,expanded.filter(p=>p.brand===brand&&p.series===s).length]));}
-coverage.total=expanded.length;coverage.expansions=[...(coverage.expansions||[]),{batch:manifest.batch,checkedAt:manifest.checkedAt,added:additions.length}].filter((x,i,a)=>a.findIndex(y=>y.batch===x.batch)===i);
+coverage.total=expanded.length;coverage.expansions=[...(coverage.expansions||[]),{batch:manifest.batch,checkedAt:manifest.checkedAt,added:expanded.filter(p=>p.catalogBatch===manifest.batch).length}].filter((x,i,a)=>a.findLastIndex(y=>y.batch===x.batch)===i);
 await fs.writeFile('data/catalog-coverage.json',JSON.stringify(coverage,null,2)+'\n');
 console.log(`Added ${additions.length}; total ${expanded.length}`);
