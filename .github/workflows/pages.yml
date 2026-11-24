@@ -38,5 +38,14 @@ jobs:
         with:
           path: .
       - name: Deploy to GitHub Pages
+        # Allow freshly uploaded artifacts to become visible to the Pages API.
+        id: deployment-first
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+      - name: Wait before retrying Pages
+        if: steps.deployment-first.outcome == 'failure'
+        run: sleep 15
+      - name: Retry GitHub Pages deployment
+        if: steps.deployment-first.outcome == 'failure'
         id: deployment
         uses: actions/deploy-pages@v4
