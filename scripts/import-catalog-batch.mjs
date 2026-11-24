@@ -19,9 +19,9 @@ for(const entry of manifest.products){
  const seriesOrder=[...new Set(manifest.products.filter(p=>p.brand===brand).map(p=>p.series))].indexOf(series);
  additions.push({id,brand,series,name,kind,seriesId:brand+'|'+series,category,image:local,images:[local],shampoo:kind==='shampoo'?item:null,treatment:kind==='treatment'?item:null,
   fragrance:{type:[],strength:null,label:fragrance||null,verified:!!fragrance,strengthVerified:false},
-  scores:Object.fromEntries(scoreKeys.map(k=>[k,60])),diagnosisEligible:true,scoreStatus:'demo',dataStatus:'facts-verified-scores-demo',
-  dataNote:'商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。',
-  sources:[{url:sourceUrl,label:brand+' 公式商品情報',checkedAt:manifest.checkedAt}],checkedAt:manifest.checkedAt,imageType:'official',catalogBatch:manifest.batch,
+  scores:Object.fromEntries(scoreKeys.map(k=>[k,60])),diagnosisEligible:true,scoreStatus:'demo',dataStatus:entry.imageType==='retailer'?'retailer-verified-assessment-unconfirmed':'facts-verified-scores-demo',
+  dataNote:entry.imageType==='retailer'?'商品名・容量・価格・画像は取扱店の掲載情報で確認。店舗の在庫や価格とは異なる場合があります。公式説明に基づく適性評価は未登録です。':'商品名・画像は公式情報を確認。価格・容量の未確認項目は表示せず、成分や香りを推測で補完していません。相性・使用感スコアは未検証の中立値で、口コミ評価とは別です。',
+  sources:[{url:sourceUrl,label:entry.sourceLabel||brand+' 公式商品情報',checkedAt:manifest.checkedAt}],checkedAt:manifest.checkedAt,imageType:entry.imageType||'official',catalogBatch:manifest.batch,...(entry.jan?{jan:entry.jan}:{}),...(entry.retailers?{retailers:entry.retailers}:{}),
   originalImageUrl:image,originalLocalImage:local,catalogGroup:series,catalogOrder:seriesOrder,...(entry.imageBounds?{imageBounds:entry.imageBounds}:{}),...(reputation?{reputation}:{})});
 }
 const updated=[...products,...additions];

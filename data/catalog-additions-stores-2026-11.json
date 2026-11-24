@@ -1,0 +1,577 @@
+{
+  "batch": "stores-2026-11",
+  "checkedAt": "2026-11-24",
+  "scope": "クリエイトSD・ウエルシア公式通販掲載を確認。通常の単品シャンプー・コンディショナー・トリートメント。店舗在庫は保証しない。",
+  "products": [
+    {
+      "id": "retail-4901301428059",
+      "jan": "4901301428059",
+      "brand": "Essential",
+      "series": "ザビューティ 髪のキメ美容 リペア",
+      "name": "エッセンシャル ザビューティ 髪のキメ美容 リペアシャンプー",
+      "kind": "shampoo",
+      "category": "drugstore",
+      "price": 877,
+      "volume": "450mL",
+      "image": "https://netshop.create-sd.co.jp/img/goods/L/4901301428059.jpg",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4901301428059/",
+      "sourceLabel": "クリエイトSD 公式通販：商品情報",
+      "imageType": "retailer",
+      "retailers": [
+        {
+          "name": "クリエイトSD",
+          "url": "https://netshop.create-sd.co.jp/shop/g/g4901301428059/",
+          "checkedAt": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "retail-4901301428066",
+      "jan": "4901301428066",
+      "brand": "Essential",
+      "series": "ザビューティ 髪のキメ美容 リペア",
+      "name": "エッセンシャル ザビューティ 髪のキメ美容 リペアコンディショナー",
+      "kind": "treatment",
+      "category": "drugstore",
+      "price": 877,
+      "volume": "450mL",
+      "image": "https://netshop.create-sd.co.jp/img/goods/L/4901301428066.jpg",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4901301428066/",
+      "sourceLabel": "クリエイトSD 公式通販：商品情報",
+      "imageType": "retailer",
+      "retailers": [
+        {
+          "name": "クリエイトSD",
+          "url": "https://netshop.create-sd.co.jp/shop/g/g4901301428066/",
+          "checkedAt": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "retail-4901301436504",
+      "jan": "4901301436504",
+      "brand": "Essential",
+      "series": "しっとりまとまる",
+      "name": "エッセンシャル しっとりまとまる シャンプー",
+      "kind": "shampoo",
+      "category": "drugstore",
+      "price": 745,
+      "volume": "450mL",
+      "image": "https://netshop.create-sd.co.jp/img/goods/L/4901301436504.jpg",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4901301436504/",
+      "sourceLabel": "クリエイトSD 公式通販：商品情報",
+      "imageType": "retailer",
+      "retailers": [
+        {
+          "name": "クリエイトSD",
+          "url": "https://netshop.create-sd.co.jp/shop/g/g4901301436504/",
+          "checkedAt": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "retail-4901301436511",
+      "jan": "4901301436511",
+      "brand": "Essential",
+      "series": "しっとりまとまる",
+      "name": "エッセンシャル しっとりまとまる コンディショナー",
+      "kind": "treatment",
+      "category": "drugstore",
+      "price": 745,
+      "volume": "450mL",
+      "image": "https://netshop.create-sd.co.jp/img/goods/L/4901301436511.jpg",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4901301436511/",
+      "sourceLabel": "クリエイトSD 公式通販：商品情報",
+      "imageType": "retailer",
+      "retailers": [
+        {
+          "name": "クリエイトSD",
+          "url": "https://netshop.create-sd.co.jp/shop/g/g4901301436511/",
+          "checkedAt": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "retail-4901301457202",
+      "jan": "4901301457202",
+      "brand": "Essential",
+      "series": "プレミアム グロウ＆モイスト",
+      "name": "エッセンシャル プレミアム うるおいバリアシャンプー グロウ&モイスト",
+      "kind": "shampoo",
+      "category": "drugstore",
+      "price": 1386,
+      "volume": "450mL",
+      "image": "https://netshop.create-sd.co.jp/img/goods/L/4901301457202.jpg",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4901301457202/",
+      "sourceLabel": "クリエイトSD 公式通販：商品情報",
+      "imageType": "retailer",
+      "retailers": [
+        {
+          "name": "クリエイトSD",
+          "url": "https://netshop.create-sd.co.jp/shop/g/g4901301457202/",
+          "checkedAt": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "retail-4901301457226",
+      "jan": "4901301457226",
+      "brand": "Essential",
+      "series": "プレミアム グロウ＆モイスト",
+      "name": "エッセンシャル プレミアム うるおいバリアコンディショナー グロウ&モイスト",
+      "kind": "treatment",
+      "category": "drugstore",
+      "price": 1386,
+      "volume": "450mL",
+      "image": "https://netshop.create-sd.co.jp/img/goods/L/4901301457226.jpg",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4901301457226/",
+      "sourceLabel": "クリエイトSD 公式通販：商品情報",
+      "imageType": "retailer",
+      "retailers": [
+        {
+          "name": "クリエイトSD",
+          "url": "https://netshop.create-sd.co.jp/shop/g/g4901301457226/",
+          "checkedAt": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "retail-4901301457257",
+      "jan": "4901301457257",
+      "brand": "Essential",
+      "series": "プレミアム シルキー＆スムース",
+      "name": "エッセンシャル プレミアム うるおいバリアシャンプー シルキー&スムース",
+      "kind": "shampoo",
+      "category": "drugstore",
+      "price": 1386,
+      "volume": "450mL",
+      "image": "https://netshop.create-sd.co.jp/img/goods/L/4901301457257.jpg",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4901301457257/",
+      "sourceLabel": "クリエイトSD 公式通販：商品情報",
+      "imageType": "retailer",
+      "retailers": [
+        {
+          "name": "クリエイトSD",
+          "url": "https://netshop.create-sd.co.jp/shop/g/g4901301457257/",
+          "checkedAt": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "retail-4901301457271",
+      "jan": "4901301457271",
+      "brand": "Essential",
+      "series": "プレミアム シルキー＆スムース",
+      "name": "エッセンシャル プレミアム うるおいバリアコンディショナー シルキー&スムース",
+      "kind": "treatment",
+      "category": "drugstore",
+      "price": 1386,
+      "volume": "450mL",
+      "image": "https://netshop.create-sd.co.jp/img/goods/L/4901301457271.jpg",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4901301457271/",
+      "sourceLabel": "クリエイトSD 公式通販：商品情報",
+      "imageType": "retailer",
+      "retailers": [
+        {
+          "name": "クリエイトSD",
+          "url": "https://netshop.create-sd.co.jp/shop/g/g4901301457271/",
+          "checkedAt": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "retail-4901301455475",
+      "jan": "4901301455475",
+      "brand": "Essential",
+      "series": "プレミアム スパークルモイスト",
+      "name": "エッセンシャル プレミアム うるおいバリアシャンプー スパークルモイスト",
+      "kind": "shampoo",
+      "category": "drugstore",
+      "price": 1507,
+      "volume": "430mL",
+      "image": "https://netshop.create-sd.co.jp/img/goods/L/4901301455475.jpg",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4901301455475/",
+      "sourceLabel": "クリエイトSD 公式通販：商品情報",
+      "imageType": "retailer",
+      "retailers": [
+        {
+          "name": "クリエイトSD",
+          "url": "https://netshop.create-sd.co.jp/shop/g/g4901301455475/",
+          "checkedAt": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "retail-4901301455499",
+      "jan": "4901301455499",
+      "brand": "Essential",
+      "series": "プレミアム スパークルモイスト",
+      "name": "エッセンシャル プレミアム うるおいバリアコンディショナー スパークルモイスト",
+      "kind": "treatment",
+      "category": "drugstore",
+      "price": 1507,
+      "volume": "430mL",
+      "image": "https://netshop.create-sd.co.jp/img/goods/L/4901301455499.jpg",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4901301455499/",
+      "sourceLabel": "クリエイトSD 公式通販：商品情報",
+      "imageType": "retailer",
+      "retailers": [
+        {
+          "name": "クリエイトSD",
+          "url": "https://netshop.create-sd.co.jp/shop/g/g4901301455499/",
+          "checkedAt": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "retail-4580442690787",
+      "jan": "4580442690787",
+      "brand": "hiritu",
+      "series": "バランスリペア スムース",
+      "name": "ヒリツ バランスリペア シャンプー スムース",
+      "kind": "shampoo",
+      "category": "drugstore",
+      "price": 1540,
+      "volume": "410mL",
+      "image": "https://netshop.create-sd.co.jp/img/goods/L/4580442690787.jpg",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4580442690787/",
+      "sourceLabel": "クリエイトSD 公式通販：商品情報",
+      "imageType": "retailer",
+      "retailers": [
+        {
+          "name": "クリエイトSD",
+          "url": "https://netshop.create-sd.co.jp/shop/g/g4580442690787/",
+          "checkedAt": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "retail-4580442690794",
+      "jan": "4580442690794",
+      "brand": "hiritu",
+      "series": "バランスリペア スムース",
+      "name": "ヒリツ バランスリペア ヘアトリートメント スムース",
+      "kind": "treatment",
+      "category": "drugstore",
+      "price": 1540,
+      "volume": "410mL",
+      "image": "https://netshop.create-sd.co.jp/img/goods/L/4580442690794.jpg",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4580442690794/",
+      "sourceLabel": "クリエイトSD 公式通販：商品情報",
+      "imageType": "retailer",
+      "retailers": [
+        {
+          "name": "クリエイトSD",
+          "url": "https://netshop.create-sd.co.jp/shop/g/g4580442690794/",
+          "checkedAt": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "retail-4580442690961",
+      "jan": "4580442690961",
+      "brand": "hiritu",
+      "series": "バランスリペア モイスト",
+      "name": "ヒリツ バランスリペア シャンプー モイスト",
+      "kind": "shampoo",
+      "category": "drugstore",
+      "price": 1540,
+      "volume": "410mL",
+      "image": "https://netshop.create-sd.co.jp/img/goods/L/4580442690961.jpg",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4580442690961/",
+      "sourceLabel": "クリエイトSD 公式通販：商品情報",
+      "imageType": "retailer",
+      "retailers": [
+        {
+          "name": "クリエイトSD",
+          "url": "https://netshop.create-sd.co.jp/shop/g/g4580442690961/",
+          "checkedAt": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "retail-4580442690978",
+      "jan": "4580442690978",
+      "brand": "hiritu",
+      "series": "バランスリペア モイスト",
+      "name": "ヒリツ バランスリペア ヘアトリートメント モイスト",
+      "kind": "treatment",
+      "category": "drugstore",
+      "price": 1540,
+      "volume": "410mL",
+      "image": "https://netshop.create-sd.co.jp/img/goods/L/4580442690978.jpg",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4580442690978/",
+      "sourceLabel": "クリエイトSD 公式通販：商品情報",
+      "imageType": "retailer",
+      "retailers": [
+        {
+          "name": "クリエイトSD",
+          "url": "https://netshop.create-sd.co.jp/shop/g/g4580442690978/",
+          "checkedAt": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "retail-4582469496557",
+      "jan": "4582469496557",
+      "brand": "It's",
+      "series": "ダメージリペア ボンディングケア",
+      "name": "It's ダメージリペア ボンディングケア シャンプー",
+      "kind": "shampoo",
+      "category": "drugstore",
+      "price": 1848,
+      "volume": "400mL",
+      "image": "https://www.e-welcia.com/html/upload/save_image/gazo89/4582469496557.jpg",
+      "sourceUrl": "https://www.e-welcia.com/product/194565",
+      "sourceLabel": "ウエルシア 公式通販：商品情報",
+      "imageType": "retailer",
+      "retailers": [
+        {
+          "name": "ウエルシア",
+          "url": "https://www.e-welcia.com/product/194565",
+          "checkedAt": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "retail-4582469496564",
+      "jan": "4582469496564",
+      "brand": "It's",
+      "series": "ダメージリペア ボンディングケア",
+      "name": "It's ダメージリペア ボンディングケア トリートメント",
+      "kind": "treatment",
+      "category": "drugstore",
+      "price": 1848,
+      "volume": "400mL",
+      "image": "https://www.e-welcia.com/html/upload/save_image/gazo89/4582469496564.jpg",
+      "sourceUrl": "https://www.e-welcia.com/product/194566",
+      "sourceLabel": "ウエルシア 公式通販：商品情報",
+      "imageType": "retailer",
+      "retailers": [
+        {
+          "name": "ウエルシア",
+          "url": "https://www.e-welcia.com/product/194566",
+          "checkedAt": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "retail-4901301449337",
+      "jan": "4901301449337",
+      "brand": "melt",
+      "series": "スムース",
+      "name": "メルト スムースシャンプー",
+      "kind": "shampoo",
+      "category": "drugstore",
+      "price": 1848,
+      "volume": "480mL",
+      "image": "https://netshop.create-sd.co.jp/img/goods/L/4901301449337.jpg",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4901301449337/",
+      "sourceLabel": "クリエイトSD 公式通販：商品情報",
+      "imageType": "retailer",
+      "retailers": [
+        {
+          "name": "クリエイトSD",
+          "url": "https://netshop.create-sd.co.jp/shop/g/g4901301449337/",
+          "checkedAt": "2026-11-24"
+        },
+        {
+          "name": "ウエルシア",
+          "url": "https://www.e-welcia.com/product/200262",
+          "checkedAt": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "retail-4901301449351",
+      "jan": "4901301449351",
+      "brand": "melt",
+      "series": "スムース",
+      "name": "メルト スムーストリートメント",
+      "kind": "treatment",
+      "category": "drugstore",
+      "price": 1848,
+      "volume": "480mL",
+      "image": "https://netshop.create-sd.co.jp/img/goods/L/4901301449351.jpg",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4901301449351/",
+      "sourceLabel": "クリエイトSD 公式通販：商品情報",
+      "imageType": "retailer",
+      "retailers": [
+        {
+          "name": "クリエイトSD",
+          "url": "https://netshop.create-sd.co.jp/shop/g/g4901301449351/",
+          "checkedAt": "2026-11-24"
+        },
+        {
+          "name": "ウエルシア",
+          "url": "https://www.e-welcia.com/product/200264",
+          "checkedAt": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "retail-4901301434692",
+      "jan": "4901301434692",
+      "brand": "melt",
+      "series": "モイスト",
+      "name": "メルト モイストシャンプー",
+      "kind": "shampoo",
+      "category": "drugstore",
+      "price": 1848,
+      "volume": "480mL",
+      "image": "https://netshop.create-sd.co.jp/img/goods/L/4901301434692.jpg",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4901301434692/",
+      "sourceLabel": "クリエイトSD 公式通販：商品情報",
+      "imageType": "retailer",
+      "retailers": [
+        {
+          "name": "クリエイトSD",
+          "url": "https://netshop.create-sd.co.jp/shop/g/g4901301434692/",
+          "checkedAt": "2026-11-24"
+        },
+        {
+          "name": "ウエルシア",
+          "url": "https://www.e-welcia.com/product/200257",
+          "checkedAt": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "retail-4901301434685",
+      "jan": "4901301434685",
+      "brand": "melt",
+      "series": "モイスト",
+      "name": "メルト モイストトリートメント",
+      "kind": "treatment",
+      "category": "drugstore",
+      "price": 1848,
+      "volume": "480mL",
+      "image": "https://netshop.create-sd.co.jp/img/goods/L/4901301434685.jpg",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4901301434685/",
+      "sourceLabel": "クリエイトSD 公式通販：商品情報",
+      "imageType": "retailer",
+      "retailers": [
+        {
+          "name": "クリエイトSD",
+          "url": "https://netshop.create-sd.co.jp/shop/g/g4901301434685/",
+          "checkedAt": "2026-11-24"
+        },
+        {
+          "name": "ウエルシア",
+          "url": "https://www.e-welcia.com/product/200256",
+          "checkedAt": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "retail-4901301446183",
+      "jan": "4901301446183",
+      "brand": "THE ANSWER",
+      "series": "スーパーラメラ＆EX",
+      "name": "THE ANSWER(ジアンサー) スーパーラメラシャンプー",
+      "kind": "shampoo",
+      "category": "drugstore",
+      "price": 1848,
+      "volume": "400mL",
+      "image": "https://www.e-welcia.com/html/upload/save_image/gazo89/4901301446183.jpg",
+      "sourceUrl": "https://www.e-welcia.com/product/197351",
+      "sourceLabel": "ウエルシア 公式通販：商品情報",
+      "imageType": "retailer",
+      "retailers": [
+        {
+          "name": "ウエルシア",
+          "url": "https://www.e-welcia.com/product/197351",
+          "checkedAt": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "retail-4901301462008",
+      "jan": "4901301462008",
+      "brand": "THE ANSWER",
+      "series": "スーパーラメラ＆EX",
+      "name": "THE ANSWER(ジアンサー) EXモイストトリートメント FOR DAILY DAMAGE",
+      "kind": "treatment",
+      "category": "drugstore",
+      "price": 1848,
+      "volume": "220g",
+      "image": "https://www.e-welcia.com/html/upload/save_image/gazo92/4901301462008.jpg",
+      "sourceUrl": "https://www.e-welcia.com/product/203918",
+      "sourceLabel": "ウエルシア 公式通販：商品情報",
+      "imageType": "retailer",
+      "retailers": [
+        {
+          "name": "ウエルシア",
+          "url": "https://www.e-welcia.com/product/203918",
+          "checkedAt": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "retail-4901301462015",
+      "jan": "4901301462015",
+      "brand": "THE ANSWER",
+      "series": "スーパーラメラ＆EX",
+      "name": "THE ANSWER(ジアンサー) EXグロストリートメント FOR HEAT DAMAGE",
+      "kind": "treatment",
+      "category": "drugstore",
+      "price": 1848,
+      "volume": "220g",
+      "image": "https://www.e-welcia.com/html/upload/save_image/gazo92/4901301462015.jpg",
+      "sourceUrl": "https://www.e-welcia.com/product/203919",
+      "sourceLabel": "ウエルシア 公式通販：商品情報",
+      "imageType": "retailer",
+      "retailers": [
+        {
+          "name": "ウエルシア",
+          "url": "https://www.e-welcia.com/product/203919",
+          "checkedAt": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "retail-4589919568680",
+      "jan": "4589919568680",
+      "brand": "w/beauty",
+      "series": "ジェントルリペア モイスト",
+      "name": "ウィズビューティ ジェントルリペア モイスト シャンプー",
+      "kind": "shampoo",
+      "category": "drugstore",
+      "price": 1595,
+      "volume": "480mL",
+      "image": "https://netshop.create-sd.co.jp/img/goods/L/4589919568680.jpg",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4589919568680/",
+      "sourceLabel": "クリエイトSD 公式通販：商品情報",
+      "imageType": "retailer",
+      "retailers": [
+        {
+          "name": "クリエイトSD",
+          "url": "https://netshop.create-sd.co.jp/shop/g/g4589919568680/",
+          "checkedAt": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "retail-4589919568697",
+      "jan": "4589919568697",
+      "brand": "w/beauty",
+      "series": "ジェントルリペア モイスト",
+      "name": "ウィズビューティ ジェントルリペア モイスト トリートメント",
+      "kind": "treatment",
+      "category": "drugstore",
+      "price": 1595,
+      "volume": "480mL",
+      "image": "https://netshop.create-sd.co.jp/img/goods/L/4589919568697.jpg",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4589919568697/",
+      "sourceLabel": "クリエイトSD 公式通販：商品情報",
+      "imageType": "retailer",
+      "retailers": [
+        {
+          "name": "クリエイトSD",
+          "url": "https://netshop.create-sd.co.jp/shop/g/g4589919568697/",
+          "checkedAt": "2026-11-24"
+        }
+      ]
+    }
+  ]
+}

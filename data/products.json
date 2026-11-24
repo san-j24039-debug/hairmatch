@@ -12044,5 +12044,1975 @@
     "originalLocalImage": "assets/images/products/catalog/lux-04902111778839.png",
     "catalogGroup": "スーパーリッチクリスタル マルチダメージリペア",
     "catalogOrder": 4
+  },
+  {
+    "id": "retail-4901301428059",
+    "brand": "Essential",
+    "series": "ザビューティ 髪のキメ美容 リペア",
+    "name": "エッセンシャル ザビューティ 髪のキメ美容 リペアシャンプー",
+    "kind": "shampoo",
+    "seriesId": "Essential|ザビューティ 髪のキメ美容 リペア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/retail-4901301428059.png",
+    "images": [
+      "assets/images/products/normalized/retail-4901301428059.png"
+    ],
+    "shampoo": {
+      "name": "エッセンシャル ザビューティ 髪のキメ美容 リペアシャンプー",
+      "price": 877,
+      "volume": "450mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-24",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4901301428059/"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "retailer-verified-assessment-unconfirmed",
+    "dataNote": "商品名・容量・税込参考価格・画像は取扱店の掲載情報で確認。店舗の在庫や価格とは異なる場合があります。公式説明に基づく適性評価は未登録です。",
+    "sources": [
+      {
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4901301428059/",
+        "label": "クリエイトSD 公式通販：商品情報",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "checkedAt": "2026-11-24",
+    "imageType": "retailer",
+    "catalogBatch": "stores-2026-11",
+    "jan": "4901301428059",
+    "retailers": [
+      {
+        "name": "クリエイトSD",
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4901301428059/",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "originalImageUrl": "https://netshop.create-sd.co.jp/img/goods/L/4901301428059.jpg",
+    "originalLocalImage": "assets/images/products/catalog/retail-4901301428059.jpg",
+    "catalogGroup": "ザビューティ 髪のキメ美容 リペア",
+    "catalogOrder": 0
+  },
+  {
+    "id": "retail-4901301428066",
+    "brand": "Essential",
+    "series": "ザビューティ 髪のキメ美容 リペア",
+    "name": "エッセンシャル ザビューティ 髪のキメ美容 リペアコンディショナー",
+    "kind": "treatment",
+    "seriesId": "Essential|ザビューティ 髪のキメ美容 リペア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/retail-4901301428066.png",
+    "images": [
+      "assets/images/products/normalized/retail-4901301428066.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "エッセンシャル ザビューティ 髪のキメ美容 リペアコンディショナー",
+      "price": 877,
+      "volume": "450mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-24",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4901301428066/"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "retailer-verified-assessment-unconfirmed",
+    "dataNote": "商品名・容量・税込参考価格・画像は取扱店の掲載情報で確認。店舗の在庫や価格とは異なる場合があります。公式説明に基づく適性評価は未登録です。",
+    "sources": [
+      {
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4901301428066/",
+        "label": "クリエイトSD 公式通販：商品情報",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "checkedAt": "2026-11-24",
+    "imageType": "retailer",
+    "catalogBatch": "stores-2026-11",
+    "jan": "4901301428066",
+    "retailers": [
+      {
+        "name": "クリエイトSD",
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4901301428066/",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "originalImageUrl": "https://netshop.create-sd.co.jp/img/goods/L/4901301428066.jpg",
+    "originalLocalImage": "assets/images/products/catalog/retail-4901301428066.jpg",
+    "catalogGroup": "ザビューティ 髪のキメ美容 リペア",
+    "catalogOrder": 0
+  },
+  {
+    "id": "retail-4901301436504",
+    "brand": "Essential",
+    "series": "しっとりまとまる",
+    "name": "エッセンシャル しっとりまとまる シャンプー",
+    "kind": "shampoo",
+    "seriesId": "Essential|しっとりまとまる",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/retail-4901301436504.png",
+    "images": [
+      "assets/images/products/normalized/retail-4901301436504.png"
+    ],
+    "shampoo": {
+      "name": "エッセンシャル しっとりまとまる シャンプー",
+      "price": 745,
+      "volume": "450mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-24",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4901301436504/"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "retailer-verified-assessment-unconfirmed",
+    "dataNote": "商品名・容量・税込参考価格・画像は取扱店の掲載情報で確認。店舗の在庫や価格とは異なる場合があります。公式説明に基づく適性評価は未登録です。",
+    "sources": [
+      {
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4901301436504/",
+        "label": "クリエイトSD 公式通販：商品情報",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "checkedAt": "2026-11-24",
+    "imageType": "retailer",
+    "catalogBatch": "stores-2026-11",
+    "jan": "4901301436504",
+    "retailers": [
+      {
+        "name": "クリエイトSD",
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4901301436504/",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "originalImageUrl": "https://netshop.create-sd.co.jp/img/goods/L/4901301436504.jpg",
+    "originalLocalImage": "assets/images/products/catalog/retail-4901301436504.jpg",
+    "catalogGroup": "しっとりまとまる",
+    "catalogOrder": 1
+  },
+  {
+    "id": "retail-4901301436511",
+    "brand": "Essential",
+    "series": "しっとりまとまる",
+    "name": "エッセンシャル しっとりまとまる コンディショナー",
+    "kind": "treatment",
+    "seriesId": "Essential|しっとりまとまる",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/retail-4901301436511.png",
+    "images": [
+      "assets/images/products/normalized/retail-4901301436511.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "エッセンシャル しっとりまとまる コンディショナー",
+      "price": 745,
+      "volume": "450mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-24",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4901301436511/"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "retailer-verified-assessment-unconfirmed",
+    "dataNote": "商品名・容量・税込参考価格・画像は取扱店の掲載情報で確認。店舗の在庫や価格とは異なる場合があります。公式説明に基づく適性評価は未登録です。",
+    "sources": [
+      {
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4901301436511/",
+        "label": "クリエイトSD 公式通販：商品情報",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "checkedAt": "2026-11-24",
+    "imageType": "retailer",
+    "catalogBatch": "stores-2026-11",
+    "jan": "4901301436511",
+    "retailers": [
+      {
+        "name": "クリエイトSD",
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4901301436511/",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "originalImageUrl": "https://netshop.create-sd.co.jp/img/goods/L/4901301436511.jpg",
+    "originalLocalImage": "assets/images/products/catalog/retail-4901301436511.jpg",
+    "catalogGroup": "しっとりまとまる",
+    "catalogOrder": 1
+  },
+  {
+    "id": "retail-4901301457202",
+    "brand": "Essential",
+    "series": "プレミアム グロウ＆モイスト",
+    "name": "エッセンシャル プレミアム うるおいバリアシャンプー グロウ&モイスト",
+    "kind": "shampoo",
+    "seriesId": "Essential|プレミアム グロウ＆モイスト",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/retail-4901301457202.png",
+    "images": [
+      "assets/images/products/normalized/retail-4901301457202.png"
+    ],
+    "shampoo": {
+      "name": "エッセンシャル プレミアム うるおいバリアシャンプー グロウ&モイスト",
+      "price": 1386,
+      "volume": "450mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-24",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4901301457202/"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "retailer-verified-assessment-unconfirmed",
+    "dataNote": "商品名・容量・税込参考価格・画像は取扱店の掲載情報で確認。店舗の在庫や価格とは異なる場合があります。公式説明に基づく適性評価は未登録です。",
+    "sources": [
+      {
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4901301457202/",
+        "label": "クリエイトSD 公式通販：商品情報",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "checkedAt": "2026-11-24",
+    "imageType": "retailer",
+    "catalogBatch": "stores-2026-11",
+    "jan": "4901301457202",
+    "retailers": [
+      {
+        "name": "クリエイトSD",
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4901301457202/",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "originalImageUrl": "https://netshop.create-sd.co.jp/img/goods/L/4901301457202.jpg",
+    "originalLocalImage": "assets/images/products/catalog/retail-4901301457202.jpg",
+    "catalogGroup": "プレミアム グロウ＆モイスト",
+    "catalogOrder": 2
+  },
+  {
+    "id": "retail-4901301457226",
+    "brand": "Essential",
+    "series": "プレミアム グロウ＆モイスト",
+    "name": "エッセンシャル プレミアム うるおいバリアコンディショナー グロウ&モイスト",
+    "kind": "treatment",
+    "seriesId": "Essential|プレミアム グロウ＆モイスト",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/retail-4901301457226.png",
+    "images": [
+      "assets/images/products/normalized/retail-4901301457226.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "エッセンシャル プレミアム うるおいバリアコンディショナー グロウ&モイスト",
+      "price": 1386,
+      "volume": "450mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-24",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4901301457226/"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "retailer-verified-assessment-unconfirmed",
+    "dataNote": "商品名・容量・税込参考価格・画像は取扱店の掲載情報で確認。店舗の在庫や価格とは異なる場合があります。公式説明に基づく適性評価は未登録です。",
+    "sources": [
+      {
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4901301457226/",
+        "label": "クリエイトSD 公式通販：商品情報",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "checkedAt": "2026-11-24",
+    "imageType": "retailer",
+    "catalogBatch": "stores-2026-11",
+    "jan": "4901301457226",
+    "retailers": [
+      {
+        "name": "クリエイトSD",
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4901301457226/",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "originalImageUrl": "https://netshop.create-sd.co.jp/img/goods/L/4901301457226.jpg",
+    "originalLocalImage": "assets/images/products/catalog/retail-4901301457226.jpg",
+    "catalogGroup": "プレミアム グロウ＆モイスト",
+    "catalogOrder": 2
+  },
+  {
+    "id": "retail-4901301457257",
+    "brand": "Essential",
+    "series": "プレミアム シルキー＆スムース",
+    "name": "エッセンシャル プレミアム うるおいバリアシャンプー シルキー&スムース",
+    "kind": "shampoo",
+    "seriesId": "Essential|プレミアム シルキー＆スムース",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/retail-4901301457257.png",
+    "images": [
+      "assets/images/products/normalized/retail-4901301457257.png"
+    ],
+    "shampoo": {
+      "name": "エッセンシャル プレミアム うるおいバリアシャンプー シルキー&スムース",
+      "price": 1386,
+      "volume": "450mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-24",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4901301457257/"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "retailer-verified-assessment-unconfirmed",
+    "dataNote": "商品名・容量・税込参考価格・画像は取扱店の掲載情報で確認。店舗の在庫や価格とは異なる場合があります。公式説明に基づく適性評価は未登録です。",
+    "sources": [
+      {
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4901301457257/",
+        "label": "クリエイトSD 公式通販：商品情報",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "checkedAt": "2026-11-24",
+    "imageType": "retailer",
+    "catalogBatch": "stores-2026-11",
+    "jan": "4901301457257",
+    "retailers": [
+      {
+        "name": "クリエイトSD",
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4901301457257/",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "originalImageUrl": "https://netshop.create-sd.co.jp/img/goods/L/4901301457257.jpg",
+    "originalLocalImage": "assets/images/products/catalog/retail-4901301457257.jpg",
+    "catalogGroup": "プレミアム シルキー＆スムース",
+    "catalogOrder": 3
+  },
+  {
+    "id": "retail-4901301457271",
+    "brand": "Essential",
+    "series": "プレミアム シルキー＆スムース",
+    "name": "エッセンシャル プレミアム うるおいバリアコンディショナー シルキー&スムース",
+    "kind": "treatment",
+    "seriesId": "Essential|プレミアム シルキー＆スムース",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/retail-4901301457271.png",
+    "images": [
+      "assets/images/products/normalized/retail-4901301457271.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "エッセンシャル プレミアム うるおいバリアコンディショナー シルキー&スムース",
+      "price": 1386,
+      "volume": "450mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-24",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4901301457271/"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "retailer-verified-assessment-unconfirmed",
+    "dataNote": "商品名・容量・税込参考価格・画像は取扱店の掲載情報で確認。店舗の在庫や価格とは異なる場合があります。公式説明に基づく適性評価は未登録です。",
+    "sources": [
+      {
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4901301457271/",
+        "label": "クリエイトSD 公式通販：商品情報",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "checkedAt": "2026-11-24",
+    "imageType": "retailer",
+    "catalogBatch": "stores-2026-11",
+    "jan": "4901301457271",
+    "retailers": [
+      {
+        "name": "クリエイトSD",
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4901301457271/",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "originalImageUrl": "https://netshop.create-sd.co.jp/img/goods/L/4901301457271.jpg",
+    "originalLocalImage": "assets/images/products/catalog/retail-4901301457271.jpg",
+    "catalogGroup": "プレミアム シルキー＆スムース",
+    "catalogOrder": 3
+  },
+  {
+    "id": "retail-4901301455475",
+    "brand": "Essential",
+    "series": "プレミアム スパークルモイスト",
+    "name": "エッセンシャル プレミアム うるおいバリアシャンプー スパークルモイスト",
+    "kind": "shampoo",
+    "seriesId": "Essential|プレミアム スパークルモイスト",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/retail-4901301455475.png",
+    "images": [
+      "assets/images/products/normalized/retail-4901301455475.png"
+    ],
+    "shampoo": {
+      "name": "エッセンシャル プレミアム うるおいバリアシャンプー スパークルモイスト",
+      "price": 1507,
+      "volume": "430mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-24",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4901301455475/"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "retailer-verified-assessment-unconfirmed",
+    "dataNote": "商品名・容量・税込参考価格・画像は取扱店の掲載情報で確認。店舗の在庫や価格とは異なる場合があります。公式説明に基づく適性評価は未登録です。",
+    "sources": [
+      {
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4901301455475/",
+        "label": "クリエイトSD 公式通販：商品情報",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "checkedAt": "2026-11-24",
+    "imageType": "retailer",
+    "catalogBatch": "stores-2026-11",
+    "jan": "4901301455475",
+    "retailers": [
+      {
+        "name": "クリエイトSD",
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4901301455475/",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "originalImageUrl": "https://netshop.create-sd.co.jp/img/goods/L/4901301455475.jpg",
+    "originalLocalImage": "assets/images/products/catalog/retail-4901301455475.jpg",
+    "catalogGroup": "プレミアム スパークルモイスト",
+    "catalogOrder": 4
+  },
+  {
+    "id": "retail-4901301455499",
+    "brand": "Essential",
+    "series": "プレミアム スパークルモイスト",
+    "name": "エッセンシャル プレミアム うるおいバリアコンディショナー スパークルモイスト",
+    "kind": "treatment",
+    "seriesId": "Essential|プレミアム スパークルモイスト",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/retail-4901301455499.png",
+    "images": [
+      "assets/images/products/normalized/retail-4901301455499.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "エッセンシャル プレミアム うるおいバリアコンディショナー スパークルモイスト",
+      "price": 1507,
+      "volume": "430mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-24",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4901301455499/"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "retailer-verified-assessment-unconfirmed",
+    "dataNote": "商品名・容量・税込参考価格・画像は取扱店の掲載情報で確認。店舗の在庫や価格とは異なる場合があります。公式説明に基づく適性評価は未登録です。",
+    "sources": [
+      {
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4901301455499/",
+        "label": "クリエイトSD 公式通販：商品情報",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "checkedAt": "2026-11-24",
+    "imageType": "retailer",
+    "catalogBatch": "stores-2026-11",
+    "jan": "4901301455499",
+    "retailers": [
+      {
+        "name": "クリエイトSD",
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4901301455499/",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "originalImageUrl": "https://netshop.create-sd.co.jp/img/goods/L/4901301455499.jpg",
+    "originalLocalImage": "assets/images/products/catalog/retail-4901301455499.jpg",
+    "catalogGroup": "プレミアム スパークルモイスト",
+    "catalogOrder": 4
+  },
+  {
+    "id": "retail-4580442690787",
+    "brand": "hiritu",
+    "series": "バランスリペア スムース",
+    "name": "ヒリツ バランスリペア シャンプー スムース",
+    "kind": "shampoo",
+    "seriesId": "hiritu|バランスリペア スムース",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/retail-4580442690787.png",
+    "images": [
+      "assets/images/products/normalized/retail-4580442690787.png"
+    ],
+    "shampoo": {
+      "name": "ヒリツ バランスリペア シャンプー スムース",
+      "price": 1540,
+      "volume": "410mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-24",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4580442690787/"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "retailer-verified-assessment-unconfirmed",
+    "dataNote": "商品名・容量・税込参考価格・画像は取扱店の掲載情報で確認。店舗の在庫や価格とは異なる場合があります。公式説明に基づく適性評価は未登録です。",
+    "sources": [
+      {
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4580442690787/",
+        "label": "クリエイトSD 公式通販：商品情報",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "checkedAt": "2026-11-24",
+    "imageType": "retailer",
+    "catalogBatch": "stores-2026-11",
+    "jan": "4580442690787",
+    "retailers": [
+      {
+        "name": "クリエイトSD",
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4580442690787/",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "originalImageUrl": "https://netshop.create-sd.co.jp/img/goods/L/4580442690787.jpg",
+    "originalLocalImage": "assets/images/products/catalog/retail-4580442690787.jpg",
+    "catalogGroup": "バランスリペア スムース",
+    "catalogOrder": 0
+  },
+  {
+    "id": "retail-4580442690794",
+    "brand": "hiritu",
+    "series": "バランスリペア スムース",
+    "name": "ヒリツ バランスリペア ヘアトリートメント スムース",
+    "kind": "treatment",
+    "seriesId": "hiritu|バランスリペア スムース",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/retail-4580442690794.png",
+    "images": [
+      "assets/images/products/normalized/retail-4580442690794.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ヒリツ バランスリペア ヘアトリートメント スムース",
+      "price": 1540,
+      "volume": "410mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-24",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4580442690794/"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "retailer-verified-assessment-unconfirmed",
+    "dataNote": "商品名・容量・税込参考価格・画像は取扱店の掲載情報で確認。店舗の在庫や価格とは異なる場合があります。公式説明に基づく適性評価は未登録です。",
+    "sources": [
+      {
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4580442690794/",
+        "label": "クリエイトSD 公式通販：商品情報",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "checkedAt": "2026-11-24",
+    "imageType": "retailer",
+    "catalogBatch": "stores-2026-11",
+    "jan": "4580442690794",
+    "retailers": [
+      {
+        "name": "クリエイトSD",
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4580442690794/",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "originalImageUrl": "https://netshop.create-sd.co.jp/img/goods/L/4580442690794.jpg",
+    "originalLocalImage": "assets/images/products/catalog/retail-4580442690794.jpg",
+    "catalogGroup": "バランスリペア スムース",
+    "catalogOrder": 0
+  },
+  {
+    "id": "retail-4580442690961",
+    "brand": "hiritu",
+    "series": "バランスリペア モイスト",
+    "name": "ヒリツ バランスリペア シャンプー モイスト",
+    "kind": "shampoo",
+    "seriesId": "hiritu|バランスリペア モイスト",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/retail-4580442690961.png",
+    "images": [
+      "assets/images/products/normalized/retail-4580442690961.png"
+    ],
+    "shampoo": {
+      "name": "ヒリツ バランスリペア シャンプー モイスト",
+      "price": 1540,
+      "volume": "410mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-24",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4580442690961/"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "retailer-verified-assessment-unconfirmed",
+    "dataNote": "商品名・容量・税込参考価格・画像は取扱店の掲載情報で確認。店舗の在庫や価格とは異なる場合があります。公式説明に基づく適性評価は未登録です。",
+    "sources": [
+      {
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4580442690961/",
+        "label": "クリエイトSD 公式通販：商品情報",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "checkedAt": "2026-11-24",
+    "imageType": "retailer",
+    "catalogBatch": "stores-2026-11",
+    "jan": "4580442690961",
+    "retailers": [
+      {
+        "name": "クリエイトSD",
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4580442690961/",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "originalImageUrl": "https://netshop.create-sd.co.jp/img/goods/L/4580442690961.jpg",
+    "originalLocalImage": "assets/images/products/catalog/retail-4580442690961.jpg",
+    "catalogGroup": "バランスリペア モイスト",
+    "catalogOrder": 1
+  },
+  {
+    "id": "retail-4580442690978",
+    "brand": "hiritu",
+    "series": "バランスリペア モイスト",
+    "name": "ヒリツ バランスリペア ヘアトリートメント モイスト",
+    "kind": "treatment",
+    "seriesId": "hiritu|バランスリペア モイスト",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/retail-4580442690978.png",
+    "images": [
+      "assets/images/products/normalized/retail-4580442690978.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ヒリツ バランスリペア ヘアトリートメント モイスト",
+      "price": 1540,
+      "volume": "410mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-24",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4580442690978/"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "retailer-verified-assessment-unconfirmed",
+    "dataNote": "商品名・容量・税込参考価格・画像は取扱店の掲載情報で確認。店舗の在庫や価格とは異なる場合があります。公式説明に基づく適性評価は未登録です。",
+    "sources": [
+      {
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4580442690978/",
+        "label": "クリエイトSD 公式通販：商品情報",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "checkedAt": "2026-11-24",
+    "imageType": "retailer",
+    "catalogBatch": "stores-2026-11",
+    "jan": "4580442690978",
+    "retailers": [
+      {
+        "name": "クリエイトSD",
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4580442690978/",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "originalImageUrl": "https://netshop.create-sd.co.jp/img/goods/L/4580442690978.jpg",
+    "originalLocalImage": "assets/images/products/catalog/retail-4580442690978.jpg",
+    "catalogGroup": "バランスリペア モイスト",
+    "catalogOrder": 1
+  },
+  {
+    "id": "retail-4582469496557",
+    "brand": "It's",
+    "series": "ダメージリペア ボンディングケア",
+    "name": "It's ダメージリペア ボンディングケア シャンプー",
+    "kind": "shampoo",
+    "seriesId": "It's|ダメージリペア ボンディングケア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/retail-4582469496557.png",
+    "images": [
+      "assets/images/products/normalized/retail-4582469496557.png"
+    ],
+    "shampoo": {
+      "name": "It's ダメージリペア ボンディングケア シャンプー",
+      "price": 1848,
+      "volume": "400mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-24",
+      "sourceUrl": "https://www.e-welcia.com/product/194565"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "retailer-verified-assessment-unconfirmed",
+    "dataNote": "商品名・容量・税込参考価格・画像は取扱店の掲載情報で確認。店舗の在庫や価格とは異なる場合があります。公式説明に基づく適性評価は未登録です。",
+    "sources": [
+      {
+        "url": "https://www.e-welcia.com/product/194565",
+        "label": "ウエルシア 公式通販：商品情報",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "checkedAt": "2026-11-24",
+    "imageType": "retailer",
+    "catalogBatch": "stores-2026-11",
+    "jan": "4582469496557",
+    "retailers": [
+      {
+        "name": "ウエルシア",
+        "url": "https://www.e-welcia.com/product/194565",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "originalImageUrl": "https://www.e-welcia.com/html/upload/save_image/gazo89/4582469496557.jpg",
+    "originalLocalImage": "assets/images/products/catalog/retail-4582469496557.jpg",
+    "catalogGroup": "ダメージリペア ボンディングケア",
+    "catalogOrder": 0
+  },
+  {
+    "id": "retail-4582469496564",
+    "brand": "It's",
+    "series": "ダメージリペア ボンディングケア",
+    "name": "It's ダメージリペア ボンディングケア トリートメント",
+    "kind": "treatment",
+    "seriesId": "It's|ダメージリペア ボンディングケア",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/retail-4582469496564.png",
+    "images": [
+      "assets/images/products/normalized/retail-4582469496564.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "It's ダメージリペア ボンディングケア トリートメント",
+      "price": 1848,
+      "volume": "400mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-24",
+      "sourceUrl": "https://www.e-welcia.com/product/194566"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "retailer-verified-assessment-unconfirmed",
+    "dataNote": "商品名・容量・税込参考価格・画像は取扱店の掲載情報で確認。店舗の在庫や価格とは異なる場合があります。公式説明に基づく適性評価は未登録です。",
+    "sources": [
+      {
+        "url": "https://www.e-welcia.com/product/194566",
+        "label": "ウエルシア 公式通販：商品情報",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "checkedAt": "2026-11-24",
+    "imageType": "retailer",
+    "catalogBatch": "stores-2026-11",
+    "jan": "4582469496564",
+    "retailers": [
+      {
+        "name": "ウエルシア",
+        "url": "https://www.e-welcia.com/product/194566",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "originalImageUrl": "https://www.e-welcia.com/html/upload/save_image/gazo89/4582469496564.jpg",
+    "originalLocalImage": "assets/images/products/catalog/retail-4582469496564.jpg",
+    "catalogGroup": "ダメージリペア ボンディングケア",
+    "catalogOrder": 0
+  },
+  {
+    "id": "retail-4901301449337",
+    "brand": "melt",
+    "series": "スムース",
+    "name": "メルト スムースシャンプー",
+    "kind": "shampoo",
+    "seriesId": "melt|スムース",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/retail-4901301449337.png",
+    "images": [
+      "assets/images/products/normalized/retail-4901301449337.png"
+    ],
+    "shampoo": {
+      "name": "メルト スムースシャンプー",
+      "price": 1848,
+      "volume": "480mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-24",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4901301449337/"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "retailer-verified-assessment-unconfirmed",
+    "dataNote": "商品名・容量・税込参考価格・画像は取扱店の掲載情報で確認。店舗の在庫や価格とは異なる場合があります。公式説明に基づく適性評価は未登録です。",
+    "sources": [
+      {
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4901301449337/",
+        "label": "クリエイトSD 公式通販：商品情報",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "checkedAt": "2026-11-24",
+    "imageType": "retailer",
+    "catalogBatch": "stores-2026-11",
+    "jan": "4901301449337",
+    "retailers": [
+      {
+        "name": "クリエイトSD",
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4901301449337/",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "name": "ウエルシア",
+        "url": "https://www.e-welcia.com/product/200262",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "originalImageUrl": "https://netshop.create-sd.co.jp/img/goods/L/4901301449337.jpg",
+    "originalLocalImage": "assets/images/products/catalog/retail-4901301449337.jpg",
+    "catalogGroup": "スムース",
+    "catalogOrder": 0
+  },
+  {
+    "id": "retail-4901301449351",
+    "brand": "melt",
+    "series": "スムース",
+    "name": "メルト スムーストリートメント",
+    "kind": "treatment",
+    "seriesId": "melt|スムース",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/retail-4901301449351.png",
+    "images": [
+      "assets/images/products/normalized/retail-4901301449351.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "メルト スムーストリートメント",
+      "price": 1848,
+      "volume": "480mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-24",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4901301449351/"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "retailer-verified-assessment-unconfirmed",
+    "dataNote": "商品名・容量・税込参考価格・画像は取扱店の掲載情報で確認。店舗の在庫や価格とは異なる場合があります。公式説明に基づく適性評価は未登録です。",
+    "sources": [
+      {
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4901301449351/",
+        "label": "クリエイトSD 公式通販：商品情報",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "checkedAt": "2026-11-24",
+    "imageType": "retailer",
+    "catalogBatch": "stores-2026-11",
+    "jan": "4901301449351",
+    "retailers": [
+      {
+        "name": "クリエイトSD",
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4901301449351/",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "name": "ウエルシア",
+        "url": "https://www.e-welcia.com/product/200264",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "originalImageUrl": "https://netshop.create-sd.co.jp/img/goods/L/4901301449351.jpg",
+    "originalLocalImage": "assets/images/products/catalog/retail-4901301449351.jpg",
+    "catalogGroup": "スムース",
+    "catalogOrder": 0
+  },
+  {
+    "id": "retail-4901301434692",
+    "brand": "melt",
+    "series": "モイスト",
+    "name": "メルト モイストシャンプー",
+    "kind": "shampoo",
+    "seriesId": "melt|モイスト",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/retail-4901301434692.png",
+    "images": [
+      "assets/images/products/normalized/retail-4901301434692.png"
+    ],
+    "shampoo": {
+      "name": "メルト モイストシャンプー",
+      "price": 1848,
+      "volume": "480mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-24",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4901301434692/"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "retailer-verified-assessment-unconfirmed",
+    "dataNote": "商品名・容量・税込参考価格・画像は取扱店の掲載情報で確認。店舗の在庫や価格とは異なる場合があります。公式説明に基づく適性評価は未登録です。",
+    "sources": [
+      {
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4901301434692/",
+        "label": "クリエイトSD 公式通販：商品情報",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "checkedAt": "2026-11-24",
+    "imageType": "retailer",
+    "catalogBatch": "stores-2026-11",
+    "jan": "4901301434692",
+    "retailers": [
+      {
+        "name": "クリエイトSD",
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4901301434692/",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "name": "ウエルシア",
+        "url": "https://www.e-welcia.com/product/200257",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "originalImageUrl": "https://netshop.create-sd.co.jp/img/goods/L/4901301434692.jpg",
+    "originalLocalImage": "assets/images/products/catalog/retail-4901301434692.jpg",
+    "catalogGroup": "モイスト",
+    "catalogOrder": 1
+  },
+  {
+    "id": "retail-4901301434685",
+    "brand": "melt",
+    "series": "モイスト",
+    "name": "メルト モイストトリートメント",
+    "kind": "treatment",
+    "seriesId": "melt|モイスト",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/retail-4901301434685.png",
+    "images": [
+      "assets/images/products/normalized/retail-4901301434685.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "メルト モイストトリートメント",
+      "price": 1848,
+      "volume": "480mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-24",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4901301434685/"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "retailer-verified-assessment-unconfirmed",
+    "dataNote": "商品名・容量・税込参考価格・画像は取扱店の掲載情報で確認。店舗の在庫や価格とは異なる場合があります。公式説明に基づく適性評価は未登録です。",
+    "sources": [
+      {
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4901301434685/",
+        "label": "クリエイトSD 公式通販：商品情報",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "checkedAt": "2026-11-24",
+    "imageType": "retailer",
+    "catalogBatch": "stores-2026-11",
+    "jan": "4901301434685",
+    "retailers": [
+      {
+        "name": "クリエイトSD",
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4901301434685/",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "name": "ウエルシア",
+        "url": "https://www.e-welcia.com/product/200256",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "originalImageUrl": "https://netshop.create-sd.co.jp/img/goods/L/4901301434685.jpg",
+    "originalLocalImage": "assets/images/products/catalog/retail-4901301434685.jpg",
+    "catalogGroup": "モイスト",
+    "catalogOrder": 1
+  },
+  {
+    "id": "retail-4901301446183",
+    "brand": "THE ANSWER",
+    "series": "スーパーラメラ＆EX",
+    "name": "THE ANSWER(ジアンサー) スーパーラメラシャンプー",
+    "kind": "shampoo",
+    "seriesId": "THE ANSWER|スーパーラメラ＆EX",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/retail-4901301446183.png",
+    "images": [
+      "assets/images/products/normalized/retail-4901301446183.png"
+    ],
+    "shampoo": {
+      "name": "THE ANSWER(ジアンサー) スーパーラメラシャンプー",
+      "price": 1848,
+      "volume": "400mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-24",
+      "sourceUrl": "https://www.e-welcia.com/product/197351"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "retailer-verified-assessment-unconfirmed",
+    "dataNote": "商品名・容量・税込参考価格・画像は取扱店の掲載情報で確認。店舗の在庫や価格とは異なる場合があります。公式説明に基づく適性評価は未登録です。",
+    "sources": [
+      {
+        "url": "https://www.e-welcia.com/product/197351",
+        "label": "ウエルシア 公式通販：商品情報",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "checkedAt": "2026-11-24",
+    "imageType": "retailer",
+    "catalogBatch": "stores-2026-11",
+    "jan": "4901301446183",
+    "retailers": [
+      {
+        "name": "ウエルシア",
+        "url": "https://www.e-welcia.com/product/197351",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "originalImageUrl": "https://www.e-welcia.com/html/upload/save_image/gazo89/4901301446183.jpg",
+    "originalLocalImage": "assets/images/products/catalog/retail-4901301446183.jpg",
+    "catalogGroup": "スーパーラメラ＆EX",
+    "catalogOrder": 0
+  },
+  {
+    "id": "retail-4901301462008",
+    "brand": "THE ANSWER",
+    "series": "スーパーラメラ＆EX",
+    "name": "THE ANSWER(ジアンサー) EXモイストトリートメント FOR DAILY DAMAGE",
+    "kind": "treatment",
+    "seriesId": "THE ANSWER|スーパーラメラ＆EX",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/retail-4901301462008.png",
+    "images": [
+      "assets/images/products/normalized/retail-4901301462008.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "THE ANSWER(ジアンサー) EXモイストトリートメント FOR DAILY DAMAGE",
+      "price": 1848,
+      "volume": "220g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-24",
+      "sourceUrl": "https://www.e-welcia.com/product/203918"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "retailer-verified-assessment-unconfirmed",
+    "dataNote": "商品名・容量・税込参考価格・画像は取扱店の掲載情報で確認。店舗の在庫や価格とは異なる場合があります。公式説明に基づく適性評価は未登録です。",
+    "sources": [
+      {
+        "url": "https://www.e-welcia.com/product/203918",
+        "label": "ウエルシア 公式通販：商品情報",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "checkedAt": "2026-11-24",
+    "imageType": "retailer",
+    "catalogBatch": "stores-2026-11",
+    "jan": "4901301462008",
+    "retailers": [
+      {
+        "name": "ウエルシア",
+        "url": "https://www.e-welcia.com/product/203918",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "originalImageUrl": "https://www.e-welcia.com/html/upload/save_image/gazo92/4901301462008.jpg",
+    "originalLocalImage": "assets/images/products/catalog/retail-4901301462008.jpg",
+    "catalogGroup": "スーパーラメラ＆EX",
+    "catalogOrder": 0
+  },
+  {
+    "id": "retail-4901301462015",
+    "brand": "THE ANSWER",
+    "series": "スーパーラメラ＆EX",
+    "name": "THE ANSWER(ジアンサー) EXグロストリートメント FOR HEAT DAMAGE",
+    "kind": "treatment",
+    "seriesId": "THE ANSWER|スーパーラメラ＆EX",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/retail-4901301462015.png",
+    "images": [
+      "assets/images/products/normalized/retail-4901301462015.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "THE ANSWER(ジアンサー) EXグロストリートメント FOR HEAT DAMAGE",
+      "price": 1848,
+      "volume": "220g",
+      "ingredients": [],
+      "verifiedAt": "2026-11-24",
+      "sourceUrl": "https://www.e-welcia.com/product/203919"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "retailer-verified-assessment-unconfirmed",
+    "dataNote": "商品名・容量・税込参考価格・画像は取扱店の掲載情報で確認。店舗の在庫や価格とは異なる場合があります。公式説明に基づく適性評価は未登録です。",
+    "sources": [
+      {
+        "url": "https://www.e-welcia.com/product/203919",
+        "label": "ウエルシア 公式通販：商品情報",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "checkedAt": "2026-11-24",
+    "imageType": "retailer",
+    "catalogBatch": "stores-2026-11",
+    "jan": "4901301462015",
+    "retailers": [
+      {
+        "name": "ウエルシア",
+        "url": "https://www.e-welcia.com/product/203919",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "originalImageUrl": "https://www.e-welcia.com/html/upload/save_image/gazo92/4901301462015.jpg",
+    "originalLocalImage": "assets/images/products/catalog/retail-4901301462015.jpg",
+    "catalogGroup": "スーパーラメラ＆EX",
+    "catalogOrder": 0
+  },
+  {
+    "id": "retail-4589919568680",
+    "brand": "w/beauty",
+    "series": "ジェントルリペア モイスト",
+    "name": "ウィズビューティ ジェントルリペア モイスト シャンプー",
+    "kind": "shampoo",
+    "seriesId": "w/beauty|ジェントルリペア モイスト",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/retail-4589919568680.png",
+    "images": [
+      "assets/images/products/normalized/retail-4589919568680.png"
+    ],
+    "shampoo": {
+      "name": "ウィズビューティ ジェントルリペア モイスト シャンプー",
+      "price": 1595,
+      "volume": "480mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-24",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4589919568680/"
+    },
+    "treatment": null,
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "retailer-verified-assessment-unconfirmed",
+    "dataNote": "商品名・容量・税込参考価格・画像は取扱店の掲載情報で確認。店舗の在庫や価格とは異なる場合があります。公式説明に基づく適性評価は未登録です。",
+    "sources": [
+      {
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4589919568680/",
+        "label": "クリエイトSD 公式通販：商品情報",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "checkedAt": "2026-11-24",
+    "imageType": "retailer",
+    "catalogBatch": "stores-2026-11",
+    "jan": "4589919568680",
+    "retailers": [
+      {
+        "name": "クリエイトSD",
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4589919568680/",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "originalImageUrl": "https://netshop.create-sd.co.jp/img/goods/L/4589919568680.jpg",
+    "originalLocalImage": "assets/images/products/catalog/retail-4589919568680.jpg",
+    "catalogGroup": "ジェントルリペア モイスト",
+    "catalogOrder": 0
+  },
+  {
+    "id": "retail-4589919568697",
+    "brand": "w/beauty",
+    "series": "ジェントルリペア モイスト",
+    "name": "ウィズビューティ ジェントルリペア モイスト トリートメント",
+    "kind": "treatment",
+    "seriesId": "w/beauty|ジェントルリペア モイスト",
+    "category": "drugstore",
+    "image": "assets/images/products/normalized/retail-4589919568697.png",
+    "images": [
+      "assets/images/products/normalized/retail-4589919568697.png"
+    ],
+    "shampoo": null,
+    "treatment": {
+      "name": "ウィズビューティ ジェントルリペア モイスト トリートメント",
+      "price": 1595,
+      "volume": "480mL",
+      "ingredients": [],
+      "verifiedAt": "2026-11-24",
+      "sourceUrl": "https://netshop.create-sd.co.jp/shop/g/g4589919568697/"
+    },
+    "fragrance": {
+      "type": [],
+      "strength": null,
+      "label": null,
+      "verified": false,
+      "strengthVerified": false
+    },
+    "scores": {
+      "coarseHair": 60,
+      "fineHair": 60,
+      "curlyHair": 60,
+      "damageRepair": 60,
+      "smooth": 60,
+      "soft": 60,
+      "moist": 60,
+      "light": 60,
+      "manageable": 60,
+      "antiFrizz": 60,
+      "lowSqueak": 60,
+      "silky": 60,
+      "shine": 60,
+      "fingerComb": 60,
+      "rinse": 60,
+      "weight": 60,
+      "foam": 60,
+      "scalpDry": 60,
+      "scalpOily": 60,
+      "scalpSensitive": 60,
+      "scalpFlakes": 60
+    },
+    "diagnosisEligible": true,
+    "scoreStatus": "demo",
+    "dataStatus": "retailer-verified-assessment-unconfirmed",
+    "dataNote": "商品名・容量・税込参考価格・画像は取扱店の掲載情報で確認。店舗の在庫や価格とは異なる場合があります。公式説明に基づく適性評価は未登録です。",
+    "sources": [
+      {
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4589919568697/",
+        "label": "クリエイトSD 公式通販：商品情報",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "checkedAt": "2026-11-24",
+    "imageType": "retailer",
+    "catalogBatch": "stores-2026-11",
+    "jan": "4589919568697",
+    "retailers": [
+      {
+        "name": "クリエイトSD",
+        "url": "https://netshop.create-sd.co.jp/shop/g/g4589919568697/",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "originalImageUrl": "https://netshop.create-sd.co.jp/img/goods/L/4589919568697.jpg",
+    "originalLocalImage": "assets/images/products/catalog/retail-4589919568697.jpg",
+    "catalogGroup": "ジェントルリペア モイスト",
+    "catalogOrder": 0
   }
 ]
