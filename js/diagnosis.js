@@ -1,6 +1,8 @@
+import {evidenceResult} from './evidence.js';
 ﻿export const labels={manageable:'まとまり',soft:'柔らかさ',smooth:'滑らかさ',silky:'サラサラ',moist:'しっとり',lowSqueak:'キシみにくさ',curlyHair:'くせ・うねり',damageRepair:'ダメージ補修',fragrance:'香り相性',cost:'コスト',coarseHair:'剛毛適性',fineHair:'細毛適性',antiFrizz:'広がりを抑える',light:'軽い仕上がり',shine:'ツヤ',fingerComb:'指通り',foam:'泡立ち',scalpDry:'乾燥した頭皮との相性',scalpOily:'皮脂が多い頭皮との相性',scalpSensitive:'敏感な頭皮との相性',scalpFlakes:'フケが気になる頭皮との相性',rinse:'すすいだ後の滑らかさ',weight:'仕上がりの重さ'};
 import {unitPrice,hasKind} from './products.js';
 export function scoreProduct(p,a) {
+ if(p.assessment){const r=evidenceResult(p,a),price=unitPrice(p,p.kind||a.target),budget=a.budget&&a.budget!=='any'?Number(a.budget):null;return {...r,product:p,parts:r.parts.map(x=>({...x,label:labels[x.key]||x.key})),metrics:{...r.metrics,fragrance:null,cost:null},budgetStatus:price===null?'unknown':budget&&price>budget?'over':'within'};}
  a={...a,target:p.kind||a.target};
  const parts=[];const add=(key,weight,value=p.scores[key])=>{if(weight>0&&Number.isFinite(value))parts.push({key,label:labels[key]||key,weight,value});};
  add('manageable',2);add('soft',2);add('smooth',1.5);
@@ -26,7 +28,7 @@ export function scoreProduct(p,a) {
  const reasons=[...parts].sort((x,y)=>y.weight*y.value-x.weight*x.value).filter((x,i,arr)=>arr.findIndex(v=>v.key===x.key)===i).slice(0,3).map(x=>`${x.key===a.priority?'一番重視した「':'ご希望の「'}${x.label}」は、検証用の評価で${Math.round(x.value)}点。${x.value>=80?'好みに近い傾向です。':'ほかの条件とのバランスで選ばれています。'}`);
  return {product:p,score,parts,reasons,metrics:{...p.scores,fragrance:fragrance===null?null:Math.round(fragrance),cost:cost===null?null:Math.round(cost)},budgetStatus:price===null?'unknown':budget&&price>budget?'over':'within'};
 }
-export function rankProducts(products,a) {return products.filter(p=>p.diagnosisEligible!==false&&(!a.category||a.category==='both'||p.category===a.category)&&hasKind(p,a.target||'both')).map(p=>scoreProduct(p,a)).sort((a,b)=>b.score-a.score||a.product.id.localeCompare(b.product.id));}
+export function rankProducts(products,a) {return products.filter(p=>p.lifecycle?.status!=='discontinued'&&p.diagnosisEligible!==false&&(!a.category||a.category==='both'||p.category===a.category)&&hasKind(p,a.target||'both')).map(p=>scoreProduct(p,a)).sort((a,b)=>b.score-a.score||a.product.id.localeCompare(b.product.id));}
 export function splitResults(ranked) {return {main:ranked.filter(x=>x.budgetStatus!=='over').slice(0,5),over:ranked.filter(x=>x.budgetStatus==='over').slice(0,3)};}
 export function resultGroups(ranked) {
  if(ranked.some(r=>!r.product.kind))return [{kind:'legacy',...splitResults(ranked)}];

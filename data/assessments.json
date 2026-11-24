@@ -1,0 +1,1618 @@
+{
+  "plus-repair": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "honey": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "cota7": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "cota9": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "kerastase": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "plus-melty-shampoo": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "plus-melty-treatment": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "plus-lyporm-shampoo": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "plus-lyporm-treatment": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "botanist-moist-shampoo": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "botanist-moist-treatment": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "botanist-smooth-shampoo": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "botanist-smooth-treatment": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "botanist-damagecare-shampoo": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "botanist-damagecare-treatment": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "botanist-scalpcleanse-shampoo": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "botanist-scalpcleanse-treatment": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "botanist-bouncyvolume-shampoo": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "botanist-bouncyvolume-treatment": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "botanist-santal-shampoo": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "botanist-santal-treatment": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "botanist-rooth-shampoo": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "botanist-rooth-treatment": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "yolu-calm-shampoo": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "yolu-calm-treatment": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "yolu-relax-shampoo": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "yolu-relax-treatment": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "yolu-deep-shampoo": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "yolu-deep-treatment": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "yolu-mellow-shampoo": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "yolu-mellow-treatment": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "cota-c37bc3a7f1": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "cota-d7d10c91e8": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "cota-73c066d45f": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "cota-ec0cb0d901": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "cota-45656e78bc": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "cota-edec76399a": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "cota-d89dec289e": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "cota-70bae015c7": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "cota-22bc195a79": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "cota-5db83986ca": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "cota-f007857a6e": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "cota-a55c93e5a9": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "cota-621d575d91": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "cota-a67e361730": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "cota-bcac7735d0": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "cota-5cecd93a1c": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "kerastase-bain-chronologiste": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "kerastase-bain-densifique": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "kerastase-bain-hydra-fortifiant": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "kerastase-bain-creme-hydra-glaze": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "kerastase-bain-satin": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "kerastase-bain-extentioniste": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "kerastase-bain-fluidealiste-1": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "kerastase-bain-satin-riche": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "kerastase-bain-de-force-n": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "kerastase-bain-sensidote": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "kerastase-bain-prevention-rx": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "kerastase-bain-divalent": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "kerastase-bain-densifique-homme": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "kerastase-bain-nutri-fortifiant": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "kerastase-fondant-fluidite-reparateur": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "kerastase-bain-decalcifiant-reparateur": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "kerastase-fondant-fluidealiste": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "kerastase-fondant-oleo-relax": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "kerastase-lait-vital": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "kerastase-fondant-extentioniste": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "kerastase-fondant-densifique": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "kerastase-fondant-renforcateur": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "kerastase-insta-glaze": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "kerastase-soin-de-force": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "honey-deep-shampoo": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "honey-deep-treatment": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "honey-melty-shampoo": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "honey-melty-treatment": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "honey-milky-shampoo": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "honey-milky-treatment": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "honey-rich-shampoo": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "honey-rich-treatment": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "diane-4580632114819": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "diane-4580632114826": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "diane-4560119227591": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "diane-4560119227607": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "diane-4560119222404": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "diane-4560119224200": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "diane-4560119224217": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "diane-4560119224101": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "diane-4560119224118": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "diane-4560119224156": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "diane-4560119224163": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "diane-4580632116844": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "diane-4580632116851": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "diane-4580632118916": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "diane-4580632118923": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "lebel-463": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "smooth",
+        "text": "軟らかく絡まりやすい髪を、根元はふんわり毛先までなめらかで、しなやかな質感に",
+        "url": "https://www.lebel.co.jp/products/item/463/",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "soft",
+        "text": "透明感のある、やわらかな印象の艶髪へ導きます",
+        "url": "https://www.lebel.co.jp/products/item/463/",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "light",
+        "text": "軟らかく絡まりやすい髪を、根元はふんわり毛先までなめらかで、しなやかな質感に",
+        "url": "https://www.lebel.co.jp/products/item/463/",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "shine",
+        "text": "透明感のある、やわらかな印象の艶髪へ導きます",
+        "url": "https://www.lebel.co.jp/products/item/463/",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "fineHair",
+        "text": "軟らかく絡まりやすい髪を、根元はふんわり毛先までなめらかで、しなやかな質感に",
+        "url": "https://www.lebel.co.jp/products/item/463/",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "lebel-461": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "smooth",
+        "text": "軟らかく絡まりやすい髪を、根元はふんわり毛先までなめらかで、しなやかな質感に",
+        "url": "https://www.lebel.co.jp/products/item/461/",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "soft",
+        "text": "透明感のある、やわらかな印象の艶髪へ導きます",
+        "url": "https://www.lebel.co.jp/products/item/461/",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "light",
+        "text": "軟らかく絡まりやすい髪を、根元はふんわり毛先までなめらかで、しなやかな質感に",
+        "url": "https://www.lebel.co.jp/products/item/461/",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "shine",
+        "text": "透明感のある、やわらかな印象の艶髪へ導きます",
+        "url": "https://www.lebel.co.jp/products/item/461/",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "fineHair",
+        "text": "軟らかく絡まりやすい髪を、根元はふんわり毛先までなめらかで、しなやかな質感に",
+        "url": "https://www.lebel.co.jp/products/item/461/",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "lebel-459": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "smooth",
+        "text": "硬く広がる髪を、根元からおさまり毛先までなめらかで、しなやかな質感に",
+        "url": "https://www.lebel.co.jp/products/item/459/",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "soft",
+        "text": "透明感のある、やわらかな印象の艶髪へ導きます",
+        "url": "https://www.lebel.co.jp/products/item/459/",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "shine",
+        "text": "透明感のある、やわらかな印象の艶髪へ導きます",
+        "url": "https://www.lebel.co.jp/products/item/459/",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "lebel-457": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "smooth",
+        "text": "硬く広がる髪を、根元からおさまり毛先までなめらかで、しなやかな質感に",
+        "url": "https://www.lebel.co.jp/products/item/457/",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "soft",
+        "text": "透明感のある、やわらかな印象の艶髪へ導きます",
+        "url": "https://www.lebel.co.jp/products/item/457/",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "shine",
+        "text": "透明感のある、やわらかな印象の艶髪へ導きます",
+        "url": "https://www.lebel.co.jp/products/item/457/",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "lebel-467": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "smooth",
+        "text": "根元から毛先までなめらかで、しなやかな質感に",
+        "url": "https://www.lebel.co.jp/products/item/467/",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "soft",
+        "text": "透明感のある、やわらかな印象の艶髪へ導きます",
+        "url": "https://www.lebel.co.jp/products/item/467/",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "shine",
+        "text": "透明感のある、やわらかな印象の艶髪へ導きます",
+        "url": "https://www.lebel.co.jp/products/item/467/",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "lebel-465": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "smooth",
+        "text": "根元から毛先までなめらかで、しなやかな質感に",
+        "url": "https://www.lebel.co.jp/products/item/465/",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "soft",
+        "text": "透明感のある、やわらかな印象の艶髪へ導きます",
+        "url": "https://www.lebel.co.jp/products/item/465/",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "shine",
+        "text": "透明感のある、やわらかな印象の艶髪へ導きます",
+        "url": "https://www.lebel.co.jp/products/item/465/",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "lebel-399": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "smooth",
+        "text": "ドライ地肌をうるおい仕上げ。クリーミーな泡で地肌すっきり、髪なめらか。",
+        "url": "https://www.lebel.co.jp/products/item/399/",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "key": "moist",
+        "text": "ドライ地肌をうるおい仕上げ。クリーミーな泡で地肌すっきり、髪なめらか。",
+        "url": "https://www.lebel.co.jp/products/item/399/",
+        "checkedAt": "2026-11-24"
+      }
+    ]
+  },
+  "lebel-401": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "smooth",
+        "text": "クリーミーな泡で地肌すっきり、髪なめらか",
+        "url": "https://www.lebel.co.jp/products/item/401/",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "lebel-403": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "smooth",
+        "text": "クリーミーな泡で地肌すっきり、髪なめらか",
+        "url": "https://www.lebel.co.jp/products/item/403/",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "lebel-397": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "manageable",
+        "text": "サラッと指通りが良く扱いやすい髪に",
+        "url": "https://www.lebel.co.jp/products/item/397/",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "light",
+        "text": "use for ・軽やかに仕上げたい ・ぺちゃんこになりやすい ローズグリーンの香り 200mL／￥1,760 600mL／￥3,960 1000mL（リフィル）／￥5,280 2500mL（リフィル",
+        "url": "https://www.lebel.co.jp/products/item/397/",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "lebel-395": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "manageable",
+        "text": "しっとりまとまりやすく扱いやすい髪に",
+        "url": "https://www.lebel.co.jp/products/item/395/",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "moist",
+        "text": "しっとりまとまりやすく扱いやすい髪に",
+        "url": "https://www.lebel.co.jp/products/item/395/",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "lebel-369": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "manageable",
+        "text": "クセの質感を内部から整えて、扱いやすく",
+        "url": "https://www.lebel.co.jp/products/item/369/",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "moist",
+        "text": "グリーンナッツオイル（プルケネチアボルビリス種子油）がうるおいとツヤ感をたっぷりチャージ",
+        "url": "https://www.lebel.co.jp/products/item/369/",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "shine",
+        "text": "グリーンナッツオイル（プルケネチアボルビリス種子油）がうるおいとツヤ感をたっぷりチャージ",
+        "url": "https://www.lebel.co.jp/products/item/369/",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "curlyHair",
+        "text": "クセの質感を内部から整えて、扱いやすく",
+        "url": "https://www.lebel.co.jp/products/item/369/",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "lebel-367": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "manageable",
+        "text": "クセの質感を内部から整えて、扱いやすく",
+        "url": "https://www.lebel.co.jp/products/item/367/",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "moist",
+        "text": "毛先まで均一に整えながら、芯からうるおいで包み込みます",
+        "url": "https://www.lebel.co.jp/products/item/367/",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "shine",
+        "text": "グリーンナッツオイル（プルケネチアボルビリス種子油）がうるおいとツヤ感をたっぷりチャージ",
+        "url": "https://www.lebel.co.jp/products/item/367/",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "curlyHair",
+        "text": "クセの質感を内部から整えて、扱いやすく",
+        "url": "https://www.lebel.co.jp/products/item/367/",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "lux-04902111777177": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "lux-04902111777184": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "lux-04902111759388": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "lux-04902111759395": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "lux-04902111759487": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "lux-04902111759494": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "lux-04902111759586": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "lux-04902111759593": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "tsubaki-volume-shampoo": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "tsubaki-volume-treatment": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "tsubaki-moist-shampoo": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "tsubaki-moist-treatment": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "tsubaki-ex-shampoo": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "tsubaki-ex-treatment": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "ululis-aqua-shampoo": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "ululis-aqua-treatment": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "ululis-kirameki-shampoo": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "ululis-kirameki-treatment": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "ululis-pinkme-shampoo": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "ululis-pinkme-treatment": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "ululis-premium-shampoo": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "ululis-premium-treatment": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "ululis-vitac-shampoo": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "ululis-vitac-treatment": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "ichikami-10193007": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "smooth",
+        "text": "絡まりやゴワつきがちな髪も、指通りなめらかな絹髪へ導きます",
+        "url": "https://www.kracie.co.jp/products/khp/10193007_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "moist",
+        "text": "*2：米胚芽油、米ぬかピュアリピッド（コメヌカ油／厳選された米の研ぎ汁由来成分）、サクラ、トウキンセンカ、米ぬかエキス、明日葉、ヒオウギ、ムクロジ、ツバキ *3：髪がうるおいツヤがあること *4：ラウ",
+        "url": "https://www.kracie.co.jp/products/khp/10193007_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "shine",
+        "text": "*2：米胚芽油、米ぬかピュアリピッド（コメヌカ油／厳選された米の研ぎ汁由来成分）、サクラ、トウキンセンカ、米ぬかエキス、明日葉、ヒオウギ、ムクロジ、ツバキ *3：髪がうるおいツヤがあること *4：ラウ",
+        "url": "https://www.kracie.co.jp/products/khp/10193007_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "damageRepair",
+        "text": "日本の髪研究から生まれた「和草のちから」でダメージを補修＆予防する「予防美髪」ケアシリーズ",
+        "url": "https://www.kracie.co.jp/products/khp/10193007_21121.html",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "ichikami-10193008": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "smooth",
+        "text": "絡まりやゴワつきがちな髪も、指通りなめらかな絹髪へ導きます",
+        "url": "https://www.kracie.co.jp/products/khp/10193008_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "moist",
+        "text": "*2：米胚芽油、米ぬかピュアリピッド（コメヌカ油／厳選された米の研ぎ汁由来成分）、サクラ、トウキンセンカ、米ぬかエキス、明日葉、ヒオウギ、ツバキ *3：髪がうるおいツヤがあること *4：硫酸系界面活性",
+        "url": "https://www.kracie.co.jp/products/khp/10193008_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "shine",
+        "text": "*2：米胚芽油、米ぬかピュアリピッド（コメヌカ油／厳選された米の研ぎ汁由来成分）、サクラ、トウキンセンカ、米ぬかエキス、明日葉、ヒオウギ、ツバキ *3：髪がうるおいツヤがあること *4：硫酸系界面活性",
+        "url": "https://www.kracie.co.jp/products/khp/10193008_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "damageRepair",
+        "text": "日本の髪研究から生まれた「和草のちから」でダメージを補修＆予防する「予防美髪」ケアシリーズ",
+        "url": "https://www.kracie.co.jp/products/khp/10193008_21121.html",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "ichikami-10193011": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "manageable",
+        "text": "パサつき、広がりが気になる髪も、しっとりまとまる絹髪へ導きます",
+        "url": "https://www.kracie.co.jp/products/khp/10193011_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "moist",
+        "text": "パサつき、広がりが気になる髪も、しっとりまとまる絹髪へ導きます",
+        "url": "https://www.kracie.co.jp/products/khp/10193011_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "shine",
+        "text": "*2：あんず油、茶花、米ぬかピュアリピッド（コメヌカ油／厳選された米の研ぎ汁由来成分）、サクラ、トウキンセンカ、米ぬかエキス、明日葉、ヒオウギ、ムクロジ、ツバキ *3：髪がうるおいツヤがあること *4",
+        "url": "https://www.kracie.co.jp/products/khp/10193011_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "antiFrizz",
+        "text": "パサつき、広がりが気になる髪も、しっとりまとまる絹髪へ導きます",
+        "url": "https://www.kracie.co.jp/products/khp/10193011_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "damageRepair",
+        "text": "日本の髪研究から生まれた「和草のちから」でダメージを補修＆予防する「予防美髪」ケアシリーズ",
+        "url": "https://www.kracie.co.jp/products/khp/10193011_21121.html",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "ichikami-10193013": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "manageable",
+        "text": "パサつき、広がりが気になる髪も、しっとりまとまる絹髪へ導きます",
+        "url": "https://www.kracie.co.jp/products/khp/10193013_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "moist",
+        "text": "パサつき、広がりが気になる髪も、しっとりまとまる絹髪へ導きます",
+        "url": "https://www.kracie.co.jp/products/khp/10193013_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "shine",
+        "text": "*2：あんず油、茶花、米ぬかピュアリピッド（コメヌカ油/厳選された米の研ぎ汁由来成分）、サクラ、トウキンセンカ、米ぬかエキス、明日葉、ヒオウギ、ツバキ *3：髪がうるおいツヤがあること *4：硫酸系界",
+        "url": "https://www.kracie.co.jp/products/khp/10193013_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "antiFrizz",
+        "text": "パサつき、広がりが気になる髪も、しっとりまとまる絹髪へ導きます",
+        "url": "https://www.kracie.co.jp/products/khp/10193013_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "damageRepair",
+        "text": "日本の髪研究から生まれた「和草のちから」でダメージを補修＆予防する「予防美髪」ケアシリーズ",
+        "url": "https://www.kracie.co.jp/products/khp/10193013_21121.html",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "cocon-10193398": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "smooth",
+        "text": "「キューティクルヴェール成分」がコートし、なめらかな指通りへ導きます",
+        "url": "https://www.kracie.co.jp/products/khp/10193398_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "silky",
+        "text": "さらさらエアリー",
+        "url": "https://www.kracie.co.jp/products/khp/10193398_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "moist",
+        "text": "＜内部補修＞保湿＆補修成分「金のまゆアミノ美容液Ex*1」＋「浸透サポート成分*2」 “天然由来の美容カプセル”まゆ生まれの成分★を含む「金のまゆアミノ美容液Ex」がダメージで空洞化した髪を補修＆保湿",
+        "url": "https://www.kracie.co.jp/products/khp/10193398_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "soft",
+        "text": "フローラル調のエレガントな透明感「ソフトルーセントホワイトブーケの香り」 ※シルク体験美容：シルクのようなやわらかな指通り *1：加水分解シルク★、セリン、プロリン、グルタミン酸Ｎａ、アルギニン、アラ",
+        "url": "https://www.kracie.co.jp/products/khp/10193398_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "light",
+        "text": "さらさらふんわり弾む髪へ導くライン",
+        "url": "https://www.kracie.co.jp/products/khp/10193398_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "shine",
+        "text": "髪だけでなく気持ちまで整う「シルク体験美容」へ 光をまとうシルク艶髪に導くインバスヘアケアシリーズ",
+        "url": "https://www.kracie.co.jp/products/khp/10193398_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "damageRepair",
+        "text": "＜内部補修＞保湿＆補修成分「金のまゆアミノ美容液Ex*1」＋「浸透サポート成分*2」 “天然由来の美容カプセル”まゆ生まれの成分★を含む「金のまゆアミノ美容液Ex」がダメージで空洞化した髪を補修＆保湿",
+        "url": "https://www.kracie.co.jp/products/khp/10193398_21121.html",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "cocon-10193399": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "smooth",
+        "text": "「キューティクルヴェール成分」がコートし、なめらかな指通りへ導きます",
+        "url": "https://www.kracie.co.jp/products/khp/10193399_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "silky",
+        "text": "さらさらエアリー",
+        "url": "https://www.kracie.co.jp/products/khp/10193399_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "moist",
+        "text": "＜内部補修＞保湿＆補修成分「金のまゆアミノ美容液Ex*1」＋「浸透サポート成分*2」 “天然由来の美容カプセル”まゆ生まれの成分★を含む「金のまゆアミノ美容液Ex」がダメージで空洞化した髪を補修＆保湿",
+        "url": "https://www.kracie.co.jp/products/khp/10193399_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "soft",
+        "text": "フローラル調のエレガントな透明感「ソフトルーセントホワイトブーケの香り」 ※シルク体験美容：シルクのようなやわらかな指通り *1：加水分解シルク★、セリン、プロリン、グルタミン酸Ｎａ、アルギニン、アラ",
+        "url": "https://www.kracie.co.jp/products/khp/10193399_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "light",
+        "text": "さらさらふんわり弾む髪へ導くライン",
+        "url": "https://www.kracie.co.jp/products/khp/10193399_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "shine",
+        "text": "髪だけでなく気持ちまで整う「シルク体験美容」へ 光をまとうシルク艶髪に導くインバスヘアケアシリーズ",
+        "url": "https://www.kracie.co.jp/products/khp/10193399_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "damageRepair",
+        "text": "＜内部補修＞保湿＆補修成分「金のまゆアミノ美容液Ex*1」＋「浸透サポート成分*2」 “天然由来の美容カプセル”まゆ生まれの成分★を含む「金のまゆアミノ美容液Ex」がダメージで空洞化した髪を補修＆保湿",
+        "url": "https://www.kracie.co.jp/products/khp/10193399_21121.html",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "cocon-10193401": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "manageable",
+        "text": "しっとりまとまるなめらかな髪へ導くライン",
+        "url": "https://www.kracie.co.jp/products/khp/10193401_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "smooth",
+        "text": "しっとりまとまるなめらかな髪へ導くライン",
+        "url": "https://www.kracie.co.jp/products/khp/10193401_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "moist",
+        "text": "しっとり、ツルン",
+        "url": "https://www.kracie.co.jp/products/khp/10193401_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "soft",
+        "text": "フローラル調のエレガントな透明感「ソフトルーセントホワイトブーケの香り」 ※シルク体験美容：シルクのようなやわらかな指通り *1：加水分解シルク★、セリン、プロリン、グルタミン酸Ｎａ、アルギニン、アラ",
+        "url": "https://www.kracie.co.jp/products/khp/10193401_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "shine",
+        "text": "髪だけでなく気持ちまで整う「シルク体験美容」へ 光をまとうシルク艶髪に導くインバスヘアケアシリーズ",
+        "url": "https://www.kracie.co.jp/products/khp/10193401_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "damageRepair",
+        "text": "＜内部補修＞保湿＆補修成分「金のまゆアミノ美容液Ex*1」＋「浸透サポート成分*2」 “天然由来の美容カプセル”まゆ生まれの成分★を含む「金のまゆアミノ美容液Ex」がダメージで空洞化した髪を補修＆保湿",
+        "url": "https://www.kracie.co.jp/products/khp/10193401_21121.html",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "cocon-10193402": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "manageable",
+        "text": "しっとりまとまるなめらかな髪へ導くライン",
+        "url": "https://www.kracie.co.jp/products/khp/10193402_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "smooth",
+        "text": "しっとりまとまるなめらかな髪へ導くライン",
+        "url": "https://www.kracie.co.jp/products/khp/10193402_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "moist",
+        "text": "しっとり、ツルン",
+        "url": "https://www.kracie.co.jp/products/khp/10193402_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "soft",
+        "text": "フローラル調のエレガントな透明感「ソフトルーセントホワイトブーケの香り」 ※シルク体験美容：シルクのようなやわらかな指通り *1：加水分解シルク★、セリン、プロリン、グルタミン酸Ｎａ、アルギニン、アラ",
+        "url": "https://www.kracie.co.jp/products/khp/10193402_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "shine",
+        "text": "髪だけでなく気持ちまで整う「シルク体験美容」へ 光をまとうシルク艶髪に導くインバスヘアケアシリーズ",
+        "url": "https://www.kracie.co.jp/products/khp/10193402_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "damageRepair",
+        "text": "＜内部補修＞保湿＆補修成分「金のまゆアミノ美容液Ex*1」＋「浸透サポート成分*2」 “天然由来の美容カプセル”まゆ生まれの成分★を含む「金のまゆアミノ美容液Ex」がダメージで空洞化した髪を補修＆保湿",
+        "url": "https://www.kracie.co.jp/products/khp/10193402_21121.html",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "cocon-10193405": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "smooth",
+        "text": "「キューティクルヴェール成分」がコートし、なめらかな指通りへ導きます",
+        "url": "https://www.kracie.co.jp/products/khp/10193405_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "moist",
+        "text": "＜内部補修＞保湿＆補修成分「金のまゆアミノ美容液Ex*1」＋「浸透サポート成分*2」 “天然由来の美容カプセル”まゆ生まれの成分★を含む「金のまゆアミノ美容液Ex」がダメージで空洞化した髪を補修＆保湿",
+        "url": "https://www.kracie.co.jp/products/khp/10193405_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "soft",
+        "text": "髪をいたわるアミノ酸系洗浄成分*6配合のノンシリコンシャンプー 毛穴の皮脂や汚れをすっきり洗い上げ、やわらかく、澄んだ地肌*7へ導きます",
+        "url": "https://www.kracie.co.jp/products/khp/10193405_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "light",
+        "text": "髪のダメージだけでなく、頭皮のケアもできる、地肌を健やかに軽やかな艶髪に導くライン",
+        "url": "https://www.kracie.co.jp/products/khp/10193405_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "shine",
+        "text": "髪だけでなく気持ちまで整う「シルク体験美容」へ 光をまとうシルク艶髪に導くインバスヘアケアシリーズ",
+        "url": "https://www.kracie.co.jp/products/khp/10193405_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "damageRepair",
+        "text": "＜内部補修＞保湿＆補修成分「金のまゆアミノ美容液Ex*1」＋「浸透サポート成分*2」 “天然由来の美容カプセル”まゆ生まれの成分★を含む「金のまゆアミノ美容液Ex」がダメージで空洞化した髪を補修＆保湿",
+        "url": "https://www.kracie.co.jp/products/khp/10193405_21121.html",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "cocon-10193406": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "smooth",
+        "text": "「キューティクルヴェール成分」がコートし、なめらかな指通りへ導きます",
+        "url": "https://www.kracie.co.jp/products/khp/10193406_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "moist",
+        "text": "＜内部補修＞保湿＆補修成分「金のまゆアミノ美容液Ex*1」＋「浸透サポート成分*2」 “天然由来の美容カプセル”まゆ生まれの成分★を含む「金のまゆアミノ美容液Ex」がダメージで空洞化した髪を補修＆保湿",
+        "url": "https://www.kracie.co.jp/products/khp/10193406_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "soft",
+        "text": "柔らかい感触で、髪の根元から毛先まで包み込み、髪と頭皮にうるおいとハリを与え、やわらかく、澄んだ地肌*6へ導きます",
+        "url": "https://www.kracie.co.jp/products/khp/10193406_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "light",
+        "text": "髪のダメージだけでなく、頭皮のケアもできる、地肌を健やかに軽やかな艶髪に導くライン",
+        "url": "https://www.kracie.co.jp/products/khp/10193406_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "shine",
+        "text": "髪だけでなく気持ちまで整う「シルク体験美容」へ 光をまとうシルク艶髪に導くインバスヘアケアシリーズ",
+        "url": "https://www.kracie.co.jp/products/khp/10193406_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "damageRepair",
+        "text": "＜内部補修＞保湿＆補修成分「金のまゆアミノ美容液Ex*1」＋「浸透サポート成分*2」 “天然由来の美容カプセル”まゆ生まれの成分★を含む「金のまゆアミノ美容液Ex」がダメージで空洞化した髪を補修＆保湿",
+        "url": "https://www.kracie.co.jp/products/khp/10193406_21121.html",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "himawari-10142356": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "moist",
+        "text": "ツヤを失った’疲れ髪も毛先までツヤをまとってスルンと輝く「うるおい＆ツヤＵＰ処方」",
+        "url": "https://www.kracie.co.jp/products/khp/10142356_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "shine",
+        "text": "ツヤを失った’疲れ髪も毛先までツヤをまとってスルンと輝く「うるおい＆ツヤＵＰ処方」",
+        "url": "https://www.kracie.co.jp/products/khp/10142356_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "curlyHair",
+        "text": "・「うねり・くせ・パサつきケア」髪内部＆外側のダメージ補修 ・「湿気ケア」湿気バリア＆うねりコントロールで、髪の外側をケア ・「ひっぱりケア」ブラッシングなどの日常の髪のひっぱりによって起きるゆがみを",
+        "url": "https://www.kracie.co.jp/products/khp/10142356_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "damageRepair",
+        "text": "・「うねり・くせ・パサつきケア」髪内部＆外側のダメージ補修 ・「湿気ケア」湿気バリア＆うねりコントロールで、髪の外側をケア ・「ひっぱりケア」ブラッシングなどの日常の髪のひっぱりによって起きるゆがみを",
+        "url": "https://www.kracie.co.jp/products/khp/10142356_21121.html",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "himawari-10142360": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "moist",
+        "text": "ツヤを失った’疲れ髪も毛先までツヤをまとってスルンと輝く「うるおい＆ツヤＵＰ処方」",
+        "url": "https://www.kracie.co.jp/products/khp/10142360_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "shine",
+        "text": "ツヤを失った’疲れ髪も毛先までツヤをまとってスルンと輝く「うるおい＆ツヤＵＰ処方」",
+        "url": "https://www.kracie.co.jp/products/khp/10142360_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "curlyHair",
+        "text": "・「うねり・くせ・パサつきケア」髪内部＆外側のダメージ補修 ・「湿気ケア」湿気バリア＆うねりコントロールで、髪の外側をケア ・「ひっぱりケア」ブラッシングなどの日常の髪のひっぱりによって起きるゆがみを",
+        "url": "https://www.kracie.co.jp/products/khp/10142360_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "damageRepair",
+        "text": "・「うねり・くせ・パサつきケア」髪内部＆外側のダメージ補修 ・「湿気ケア」湿気バリア＆うねりコントロールで、髪の外側をケア ・「ひっぱりケア」ブラッシングなどの日常の髪のひっぱりによって起きるゆがみを",
+        "url": "https://www.kracie.co.jp/products/khp/10142360_21121.html",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "himawari-10167333": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "smooth",
+        "text": "きしむ髪もやわらかくうるおってなめらかな手触りへ「指通りなめらか処方」",
+        "url": "https://www.kracie.co.jp/products/khp/10167333_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "moist",
+        "text": "補修＆保湿成分「プレミアムヒマワリオイルEX*1」配合",
+        "url": "https://www.kracie.co.jp/products/khp/10167333_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "soft",
+        "text": "きしむ髪もやわらかくうるおってなめらかな手触りへ「指通りなめらか処方」",
+        "url": "https://www.kracie.co.jp/products/khp/10167333_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "light",
+        "text": "みずみずしく颯爽と軽やかに華やぐフレッシュフローラルの香り",
+        "url": "https://www.kracie.co.jp/products/khp/10167333_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "curlyHair",
+        "text": "・「うねり・くせ・パサつきケア」髪内部＆外側のダメージ補修 ・「湿気ケア」湿気バリア＆うねりコントロールで、髪の外側をケア ・「ひっぱりケア」ブラッシングなどの日常の髪のひっぱりによって起きるゆがみを",
+        "url": "https://www.kracie.co.jp/products/khp/10167333_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "damageRepair",
+        "text": "・「うねり・くせ・パサつきケア」髪内部＆外側のダメージ補修 ・「湿気ケア」湿気バリア＆うねりコントロールで、髪の外側をケア ・「ひっぱりケア」ブラッシングなどの日常の髪のひっぱりによって起きるゆがみを",
+        "url": "https://www.kracie.co.jp/products/khp/10167333_21121.html",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "himawari-10167332": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "smooth",
+        "text": "きしむ髪もやわらかくうるおってなめらかな手触りへ「指通りなめらか処方」",
+        "url": "https://www.kracie.co.jp/products/khp/10167332_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "moist",
+        "text": "補修＆保湿成分「プレミアムヒマワリオイルEX*1」配合",
+        "url": "https://www.kracie.co.jp/products/khp/10167332_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "soft",
+        "text": "きしむ髪もやわらかくうるおってなめらかな手触りへ「指通りなめらか処方」",
+        "url": "https://www.kracie.co.jp/products/khp/10167332_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "light",
+        "text": "みずみずしく颯爽と軽やかに華やぐフレッシュフローラルの香り",
+        "url": "https://www.kracie.co.jp/products/khp/10167332_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "curlyHair",
+        "text": "・「うねり・くせ・パサつきケア」髪内部＆外側のダメージ補修 ・「湿気ケア」湿気バリア＆うねりコントロールで、髪の外側をケア ・「ひっぱりケア」ブラッシングなどの日常の髪のひっぱりによって起きるゆがみを",
+        "url": "https://www.kracie.co.jp/products/khp/10167332_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "damageRepair",
+        "text": "・「うねり・くせ・パサつきケア」髪内部＆外側のダメージ補修 ・「湿気ケア」湿気バリア＆うねりコントロールで、髪の外側をケア ・「ひっぱりケア」ブラッシングなどの日常の髪のひっぱりによって起きるゆがみを",
+        "url": "https://www.kracie.co.jp/products/khp/10167332_21121.html",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "himawari-10094921": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "manageable",
+        "text": "広がり抑えてしっとりまとまる。髪が太い・硬い・多い。ダメージ補修＆保湿。",
+        "url": "https://www.kracie.co.jp/himawari/products/rich/",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "key": "moist",
+        "text": "広がり抑えてしっとりまとまる。髪が太い・硬い・多い。ダメージ補修＆保湿。",
+        "url": "https://www.kracie.co.jp/himawari/products/rich/",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "key": "antiFrizz",
+        "text": "広がり抑えてしっとりまとまる。髪が太い・硬い・多い。ダメージ補修＆保湿。",
+        "url": "https://www.kracie.co.jp/himawari/products/rich/",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "key": "damageRepair",
+        "text": "広がり抑えてしっとりまとまる。髪が太い・硬い・多い。ダメージ補修＆保湿。",
+        "url": "https://www.kracie.co.jp/himawari/products/rich/",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "key": "coarseHair",
+        "text": "広がり抑えてしっとりまとまる。髪が太い・硬い・多い。ダメージ補修＆保湿。",
+        "url": "https://www.kracie.co.jp/himawari/products/rich/",
+        "checkedAt": "2026-11-24"
+      }
+    ]
+  },
+  "himawari-10094922": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "manageable",
+        "text": "広がり抑えてしっとりまとまる。髪が太い・硬い・多い。ダメージ補修＆保湿。",
+        "url": "https://www.kracie.co.jp/himawari/products/rich/",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "key": "moist",
+        "text": "広がり抑えてしっとりまとまる。髪が太い・硬い・多い。ダメージ補修＆保湿。",
+        "url": "https://www.kracie.co.jp/himawari/products/rich/",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "key": "antiFrizz",
+        "text": "広がり抑えてしっとりまとまる。髪が太い・硬い・多い。ダメージ補修＆保湿。",
+        "url": "https://www.kracie.co.jp/himawari/products/rich/",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "key": "damageRepair",
+        "text": "広がり抑えてしっとりまとまる。髪が太い・硬い・多い。ダメージ補修＆保湿。",
+        "url": "https://www.kracie.co.jp/himawari/products/rich/",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "key": "coarseHair",
+        "text": "広がり抑えてしっとりまとまる。髪が太い・硬い・多い。ダメージ補修＆保湿。",
+        "url": "https://www.kracie.co.jp/himawari/products/rich/",
+        "checkedAt": "2026-11-24"
+      }
+    ]
+  },
+  "bloom-10192534": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "manageable",
+        "text": "まとまる、素直な髪へ導くヘアケアシリーズ",
+        "url": "https://www.kracie.co.jp/products/khp/10192534_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "moist",
+        "text": "“うるおいを与える”シャンプー",
+        "url": "https://www.kracie.co.jp/products/khp/10192534_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "curlyHair",
+        "text": "・髪ゆがみケアテクノロジー：「ひっぱりケア」＆「うねり・くせ・パサつきケア」＆「湿気ケア」で髪の内部・外側を全方位でケアします",
+        "url": "https://www.kracie.co.jp/products/khp/10192534_21121.html",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "bloom-10192676": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "manageable",
+        "text": "まとまる、素直な髪へ導くヘアケアシリーズ",
+        "url": "https://www.kracie.co.jp/products/khp/10192676_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "moist",
+        "text": "○ゆがみケアシステム ・補修＆保湿成分「高濃度*2プレミアムヒマワリオイルEX*3」配合",
+        "url": "https://www.kracie.co.jp/products/khp/10192676_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "curlyHair",
+        "text": "・髪ゆがみケアテクノロジー：「ひっぱりケア」＆「うねり・くせ・パサつきケア」＆「湿気ケア」で髪の内部・外側を全方位でケアします",
+        "url": "https://www.kracie.co.jp/products/khp/10192676_21121.html",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "maandme-10163821": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "moist",
+        "text": "乾燥、ヘアカラー、紫外線、プールなどによるダメージでパサつく髪も、からまずにまとまって、毛先までしっとりツヤのある髪へ導きます",
+        "url": "https://www.kracie.co.jp/products/khp/10163821_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "shine",
+        "text": "乾燥、ヘアカラー、紫外線、プールなどによるダメージでパサつく髪も、からまずにまとまって、毛先までしっとりツヤのある髪へ導きます",
+        "url": "https://www.kracie.co.jp/products/khp/10163821_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "damageRepair",
+        "text": "ミルク由来のダメージ補修成分「ラクトース」*2配合",
+        "url": "https://www.kracie.co.jp/products/khp/10163821_21121.html",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "maandme-10163822": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "moist",
+        "text": "乾燥、ヘアカラー、紫外線、プールなどによるダメージでパサつく髪も、からまずにまとまって、毛先までしっとりツヤのある髪へ導きます",
+        "url": "https://www.kracie.co.jp/products/khp/10163822_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "shine",
+        "text": "乾燥、ヘアカラー、紫外線、プールなどによるダメージでパサつく髪も、からまずにまとまって、毛先までしっとりツヤのある髪へ導きます",
+        "url": "https://www.kracie.co.jp/products/khp/10163822_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "damageRepair",
+        "text": "ミルク由来のダメージ補修成分「ラクトース」*2配合",
+        "url": "https://www.kracie.co.jp/products/khp/10163822_21121.html",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "maandme-10147458": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "moist",
+        "text": "毛先までうるおい、からまない、指どおりツルンとした髪へ導きます",
+        "url": "https://www.kracie.co.jp/products/khp/10147458_21121.html",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "maandme-10147459": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "moist",
+        "text": "毛先までうるおい、からまない、指どおりツルンとした髪へ導きます",
+        "url": "https://www.kracie.co.jp/products/khp/10147459_21121.html",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "umi-1201568": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "manageable",
+        "text": "パサついた髪にうるおいを与え、１日中しっとりまとまる髪に整えます",
+        "url": "https://www.kracie.co.jp/products/khp/1201568_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "smooth",
+        "text": "きめの細かい豊かな泡が、髪と地肌をやさしく包み込みながら指通りなめらかな髪に洗い上げます",
+        "url": "https://www.kracie.co.jp/products/khp/1201568_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "moist",
+        "text": "うるおいが不足し、パサついた髪にツヤと芯からうるおいを与え、健康的な髪へ",
+        "url": "https://www.kracie.co.jp/products/khp/1201568_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "shine",
+        "text": "うるおいが不足し、パサついた髪にツヤと芯からうるおいを与え、健康的な髪へ",
+        "url": "https://www.kracie.co.jp/products/khp/1201568_21121.html",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "umi-1201570": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "manageable",
+        "text": "パサついた髪にうるおいを与え、１日中しっとりまとまる髪に整えます",
+        "url": "https://www.kracie.co.jp/products/khp/1201570_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "smooth",
+        "text": "素早く髪になじみ、しっとりうるおいのある手触りなめらかな髪に仕上げます",
+        "url": "https://www.kracie.co.jp/products/khp/1201570_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "moist",
+        "text": "うるおいが不足し、パサついた髪にツヤと芯からうるおいを与え、健康的な髪へ",
+        "url": "https://www.kracie.co.jp/products/khp/1201570_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "shine",
+        "text": "うるおいが不足し、パサついた髪にツヤと芯からうるおいを与え、健康的な髪へ",
+        "url": "https://www.kracie.co.jp/products/khp/1201570_21121.html",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "meguri-10193637": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "moist",
+        "text": "うるおい、めぐる",
+        "url": "https://www.kracie.co.jp/products/khp/10193637_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "light",
+        "text": "毛先までうるおいを与え、ふんわり感・ハリ・ツヤのある美しい髪へ導きます",
+        "url": "https://www.kracie.co.jp/products/khp/10193637_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "shine",
+        "text": "補修・保湿＆艶髪成分「和漢＆リペアグロウセラム*1」配合 うるおいを与えてめぐりを整え、美しい髪へ導く健やかな頭皮環境をつくり出します",
+        "url": "https://www.kracie.co.jp/products/khp/10193637_21121.html",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "meguri-10193638": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "manageable",
+        "text": "パサつきや広がりを抑え、毛先までまとまりのあるなめらかな質感へ導きます",
+        "url": "https://www.kracie.co.jp/products/khp/10193638_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "smooth",
+        "text": "パサつきや広がりを抑え、毛先までまとまりのあるなめらかな質感へ導きます",
+        "url": "https://www.kracie.co.jp/products/khp/10193638_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "moist",
+        "text": "うるおい、めぐる",
+        "url": "https://www.kracie.co.jp/products/khp/10193638_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "shine",
+        "text": "補修・保湿＆艶髪成分「和漢＆リペアグロウセラム*1」配合 うるおいを与えてめぐりを整え、美しい髪へ導く健やかな頭皮環境をつくり出します",
+        "url": "https://www.kracie.co.jp/products/khp/10193638_21121.html",
+        "checkedAt": "2026-11-15"
+      },
+      {
+        "key": "antiFrizz",
+        "text": "パサつきや広がりを抑え、毛先までまとまりのあるなめらかな質感へ導きます",
+        "url": "https://www.kracie.co.jp/products/khp/10193638_21121.html",
+        "checkedAt": "2026-11-15"
+      }
+    ]
+  },
+  "lux-04902111778815": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "lux-04902111778839": {
+    "method": "official-targets-v1",
+    "evidence": []
+  },
+  "plus-mellow-shampoo": {
+    "method": "official-targets-v1",
+    "evidence": [
+      {
+        "key": "silky",
+        "text": "補修美容でさらツヤ髪に。とろける質感と感動の指通り。",
+        "url": "https://pluseau.jp/items/mellow-shampoo.html",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "key": "shine",
+        "text": "補修美容でさらツヤ髪に。とろける質感と感動の指通り。",
+        "url": "https://pluseau.jp/items/mellow-shampoo.html",
+        "checkedAt": "2026-11-24"
+      }
+    ]
+  }
+}

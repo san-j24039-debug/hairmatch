@@ -1,0 +1,7 @@
+// Generates a review queue; HTTP success alone never updates verified dates.
+import fs from 'node:fs/promises';import crypto from 'node:crypto';import {expandProducts} from '../js/catalog.js';
+const products=expandProducts(JSON.parse(await fs.readFile('data/products.json')));
+let baseline={};try{baseline=JSON.parse(await fs.readFile('data/source-baselines.json'));}catch{}
+const urls=[...new Set(products.flatMap(p=>(p.sources||[]).map(s=>s.url)))],reports=[];
+for(let i=0;i<urls.length;i+=5)await Promise.all(urls.slice(i,i+5).map(async url=>{const ids=products.filter(p=>p.sources?.some(s=>s.url===url)).map(p=>p.id);try{const response=await fetch(url,{signal:AbortSignal.timeout(12000)});const html=await response.text();const text=html.replace(/<script\b[^>]*>[\s\S]*?<\/script>|<style\b[^>]*>[\s\S]*?<\/style>/gi,'').replace(/<[^>]+>/g,' ').replace(/\s+/g,' ').trim();const hash=crypto.createHash('sha256').update(text).digest('hex');reports.push({url,ids,status:response.status,redirected:response.redirected,finalUrl:response.url,hash,review:!response.ok?'リンクエラー':/メンテナンス|maintenance/i.test(text)?'メンテナンスを確認':!baseline[url]?'初回確認が必要':baseline[url]!==hash?'ページ変更あり':'変化なし'});}catch(e){reports.push({url,ids,review:'取得失敗',error:e.message});}}));
+await fs.mkdir('test-results',{recursive:true});await fs.writeFile('test-results/product-update-report.json',JSON.stringify({checkedAt:new Date().toISOString(),reports},null,2));console.log('Review report: test-results/product-update-report.json');
